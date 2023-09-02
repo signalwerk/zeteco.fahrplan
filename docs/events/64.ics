@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T133000
+DTSTAMP;VALUE=DATE-TIME:20170720T182841Z
+UID:b2994685-65d2-43cf-be80-2cedf0bd81b0@frab.ccczh.ch
+DESCRIPTION:Der Badge ist eine Platine\, welche man sich um den Hals häng
+ en kann.\n\nWir haben ein paar Hintergrund-Infos zum Badge.\n- Was ist d
+ as Konzept hinter dem Badge\n- Wie wurde er designt\n- Wer hat 100 Säckl
+ i abgepackt
+URL:https://frab.ccczh.ch/de/zeteco/public/events/64
+SUMMARY:ZeTeCo Badge
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

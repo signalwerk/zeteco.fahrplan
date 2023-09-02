@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+<p class="tracks">Tracks:</p>
+<ul class="tracks">
+<li>
+<div class="event track-vortrag">
+<a href="#vortrag">Vortrag</a>
+</div>
+</li>
+<li>
+<div class="event track-spiel-und-sport">
+<a href="#spiel%20und%20sport">Spiel und Sport</a>
+</div>
+</li>
+<li>
+<div class="event track-workshop">
+<a href="#workshop">Workshop</a>
+</div>
+</li>
+<li>
+<div class="event track-essen">
+<a href="#essen">Essen</a>
+</div>
+</li>
+<li>
+<div class="event track-lounge">
+<a href="#lounge">Lounge</a>
+</div>
+</li>
+<li>
+<div class="event track-zeteco-orga">
+<a href="#zeteco%20orga">ZeTeCo Orga</a>
+</div>
+</li>
+<li>
+<div class="event track-unterhaltung">
+<a href="#unterhaltung">Unterhaltung</a>
+</div>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2 class="title">Veranstaltungen</h2>
+<a name="vortrag"></a>
+<h3>Vortrag</h3>
+<table class="list vortrag">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/36.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/36.html">Abstraktion im Design – von der Hand zum Code </a></b>
+<br>
+Die Gestaltung von Grafik und Typografie hat sich seit der Erfindung des...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/12.html">signalwerk</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/15.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/15.html">Accidental Ménage à trois and more!</a></b>
+<br>
+the newest technical innovation to the sex trade is teledildonics - internet...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/17.html">hackerhasid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/81.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/81.html">Besseres cli Kontakt Management</a></b>
+<br>
+Ich habe ein Kontakt management für CLI entwickelt. Besondere Eigenschaft:...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/51.html">glow</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/68.html"><div class="image small"><img src="/system/events/logos/000/000/068/small/dreams-of-the-future.jpg" alt="Dreams of the future"></div></a></td>
+<td>
+<b><a href="/events/68.html">Dreams of the Future – Learning in Science Fiction Movies</a></b>
+<br>
+Don't panic! This talk is just for fun... And yes, there will be school...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/87.html"><div class="image small"><img src="/system/events/logos/000/000/087/small/eLyKseeR.png" alt="Elykseer"></div></a></td>
+<td>
+<b><a href="/events/87.html">ein "privacy" Elixier fuer Daten</a></b>
+<br>
+Dieses Open-source Projekt erarbeitet die Moeglichkeiten und Grenzen um Daten...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/47.html">codieplusplus</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/19.html"><div class="image small"><img src="/system/events/logos/000/000/019/small/LAN_Party.jpg" alt="Lan party"></div></a></td>
+<td>
+<b><a href="/events/19.html">Hacker Space Design Patterns</a></b>
+<br>
+User Hackerspace odenwilusenz hat sich entwickelt.
+Seit 2003 haben wir...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/32.html">Mitch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/38.html"><div class="image small"><img src="/system/events/logos/000/000/038/small/WelcomeHackers.jpg" alt="Welcomehackers"></div></a></td>
+<td>
+<b><a href="/events/38.html">Hacking in China</a></b>
+<br>
+I have been to China for a month or more each year since 2003 to manufacture...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/32.html">Mitch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/96.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/96.html">How I survived the Reddit Hug of Death</a></b>
+<br>
+What happens when half a million people suddenly visit your website.
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/50.html">draemmli</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/63.html"><div class="image small"><img src="/system/events/logos/000/000/063/small/illumos.png" alt="Illumos"></div></a></td>
+<td>
+<b><a href="/events/63.html">Illumos uns gibt es noch</a></b>
+<br>
+Was ist das Betriebsystem Illumos wo kommt es her, was kann es im vergleich...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/53.html">Toasterson</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/61.html"><div class="image small"><img src="/system/events/logos/000/000/061/small/jugendhackt.png" alt="Jugendhackt"></div></a></td>
+<td>
+<b><a href="/events/61.html">Jugend hackt Meetup</a></b>
+<br>
+Jugend hackt ist ein Programm zur Förderung des...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/9.html">bluetonyum</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/59.html"><div class="image small"><img src="/system/events/logos/000/000/059/small/ic_launcher.png" alt="Ic launcher"></div></a></td>
+<td>
+<b><a href="/events/59.html">Termux als Betriebssystem</a></b>
+<br>
+Termux ist ein Android App die sowohl Terminal Emulator und Linux Umgebung....
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/51.html">glow</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/46.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/46.html">Trends im Netzwerk: Software Defined Networks, Linux, programmierbare Chips</a></b>
+<br>
+Drei interessante Themen werden angeschat, welche der Votragende als Trends...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/38.html">Tomasim Pospiisek</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/64.html"><div class="image small"><img src="/system/events/logos/000/000/064/small/badge-cfp.png" alt="Badge cfp"></div></a></td>
+<td>
+<b><a href="/events/64.html">ZeTeCo Badge</a></b>
+<br>
+Der Badge ist eine Platine, welche man sich um den Hals hängen kann.
+
+Wir...
+</td>
+<td>Vortrag</td>
+<td>
+<ul>
+<li><a href="/speakers/9.html">bluetonyum</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="spiel%20und%20sport"></a>
+<h3>Spiel und Sport</h3>
+<table class="list spielundsport">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/89.html"><div class="image small"><img src="/system/events/logos/000/000/089/small/bobbing.gif" alt="Bobbing"></div></a></td>
+<td>
+<b><a href="/events/89.html">apple bobbing</a></b>
+<br>
+Bei den Ponys haben wir von gehört. Doch nun wird es realität.
+apple bobbing...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/40.html">L3D</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/40.html"><div class="image small"><img src="/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg" alt="Images.duckduckgo.com"></div></a></td>
+<td>
+<b><a href="/events/40.html">Die Werwölfe von Düsterwald</a></b>
+<br>
+Wir spielen gemeinsam Die Werwölfe von Düsterwald.
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/34.html">kr0l</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/70.html"><div class="image small"><img src="/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png" alt="Schneeflocken im sommer"></div></a></td>
+<td>
+<b><a href="/events/70.html">Leute am Camp kennen lernen</a></b>
+<br>
+Möchtest du Leute am Camp neu oder besser kennen lernen? Dann mach mit bei...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/60.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/60.html">Wax on - wax off I</a></b>
+<br>
+Aikido is a purely defensive martial arts. We will do some warm-up and...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/52.html">Thors</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/78.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/78.html">Wax on - wax off II</a></b>
+<br>
+Aikido is a purely defensive martial arts. We will do some warm-up and...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/52.html">Thors</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/79.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/79.html">Wax on - wax off III</a></b>
+<br>
+Aikido is a purely defensive martial arts. We will do some warm-up and...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/52.html">Thors</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/80.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/80.html">Wax on - wax off IV</a></b>
+<br>
+Aikido is a purely defensive martial arts. We will do some warm-up and...
+</td>
+<td>Spiel und Sport</td>
+<td>
+<ul>
+<li><a href="/speakers/52.html">Thors</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="workshop"></a>
+<h3>Workshop</h3>
+<table class="list workshop">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/39.html"><div class="image small"><img src="/system/events/logos/000/000/039/small/LearnToSolder.jpg" alt="Learntosolder"></div></a></td>
+<td>
+<b><a href="/events/39.html">Arduino For Total Newbies</a></b>
+<br>
+''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt;
+&lt;br&gt;
+You've...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/32.html">Mitch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/66.html"><div class="image small"><img src="/system/events/logos/000/000/066/small/coreboot.png" alt="Coreboot"></div></a></td>
+<td>
+<b><a href="/events/66.html">Coreboot your device</a></b>
+<br>
+We will build and flash coreboot for your device. 
+coreboot is an open...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/54.html">ari</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/72.html"><div class="image small"><img src="/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png" alt="Freestyle compo griesbach"></div></a></td>
+<td>
+<b><a href="/events/72.html">Freestyle Compo Griesbach «iNi»</a></b>
+<br>
+English: Here you‘ll find out more and register your demos…
+
+Deutsch: Hier...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/47.html"><div class="image small"><img src="/system/events/logos/000/000/047/small/logo_freifunknet.png" alt="Logo freifunknet"></div></a></td>
+<td>
+<b><a href="/events/47.html">Freifunk Firmware kompilieren</a></b>
+<br>
+Wie kann man eigendlich so eine Freifunk Firmware selber kompilieren? Und...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/40.html">L3D</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/62.html"><div class="image small"><img src="/system/events/logos/000/000/062/small/openjscad-logo-bigger.png" alt="Openjscad logo bigger"></div></a></td>
+<td>
+<b><a href="/events/62.html">Intro to OpenJSCAD</a></b>
+<br>
+OpenJSCAD is a script-only 3D CAD software, inspired by the similar...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/50.html">draemmli</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/49.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/49.html">Kinderprogramm: Löten &amp; Basteln</a></b>
+<br>
+Wir wollen mit Kindern zwischen 7-16 Jahren etwas löten. 
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/43.html">calvin</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/37.html"><div class="image small"><img src="/system/events/logos/000/000/037/small/HappySolderers.jpg" alt="Happysolderers"></div></a></td>
+<td>
+<b><a href="/events/37.html">Learn to Solder!</a></b>
+<br>
+Learn to Solder! A large variety of way cool kits are available, all designed...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/32.html">Mitch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/56.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/56.html">Let's Build Nodeboats</a></b>
+<br>
+With Wood, PET Bottles, two Motors and some WiFi Microcontrollers, we build...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/49.html">Markus Leutwyler</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/57.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/57.html">Let's Build Nodebots</a></b>
+<br>
+Build your own Javascript powered wireless Robot from scratch in just 3h
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/49.html">Markus Leutwyler</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/69.html"><div class="image small"><img src="/system/events/logos/000/000/069/small/mechanische-spiele.jpg" alt="Mechanische spiele"></div></a></td>
+<td>
+<b><a href="/events/69.html">Summer Mechanic Games (Opening)</a></b>
+<br>
+English: Here you‘ll find out more and register your T.E.A.M. 😉
+
+Deutsch:...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/88.html"><div class="image small"><img src="/system/events/logos/000/000/088/small/ic_launcher.png" alt="Ic launcher"></div></a></td>
+<td>
+<b><a href="/events/88.html">Termux for Beginners</a></b>
+<br>
+In diesem Workshop werde ich euch zeigen wie auch Ihr Termux als euer...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/51.html">glow</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/58.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/58.html">Wir bauen uns Kartongleiter</a></b>
+<br>
+Aus Karton und viel Klebeband bauen wir uns Gleiter .. und testen sie...
+</td>
+<td>Workshop</td>
+<td>
+<ul>
+<li><a href="/speakers/49.html">Markus Leutwyler</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="essen"></a>
+<h3>Essen</h3>
+<table class="essen list">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/48.html"><div class="image small"><img src="/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe" alt="Dfct6erxcaaaezi.jpg large"></div></a></td>
+<td>
+<b><a href="/events/48.html">Backen im Holzofen</a></b>
+<br>
+Lust auf gutes Essen? Helf mit beim Pizza machen im Holzofen!
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/40.html">L3D</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/90.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/90.html">Crêpes</a></b>
+<br>
+Freitag ab 20:00 Uhr ist ein Crêpes-Stand auf dem...
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/61.html">proprietäres Essen </a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/94.html"><div class="image small"><img src="/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg" alt="0001 lf3hcfy.jpg"></div></a></td>
+<td>
+<b><a href="/events/94.html">It's Pizza Time</a></b>
+<br>
+Wir machen Pizza. Kommt vorbei. Helft mit. Und bringt hunger mit!
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/40.html">L3D</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/93.html"><div class="image small"><img src="/system/events/logos/000/000/093/small/thumb.png" alt="Thumb"></div></a></td>
+<td>
+<b><a href="/events/93.html">Selbsthilfe Gruppe</a></b>
+<br>
+Gestern habt ihr gelernt, wie es geht!
+Heute wird es ernst! Wir haben...
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/40.html">L3D</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/95.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/95.html">Sous-vide</a></b>
+<br>
+Wir stellen unser eigenbau Wasserbad zum sous-vide garen (Vakuumgaren)...
+</td>
+<td>Essen</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/67.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/67.html">Thai Food</a></b>
+<br>
+Thai food von Chittima
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/61.html">proprietäres Essen </a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/92.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/92.html">Thai Food</a></b>
+<br>
+Thai food von Chittima 
+</td>
+<td>Essen</td>
+<td>
+<ul>
+<li><a href="/speakers/61.html">proprietäres Essen </a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="lounge"></a>
+<h3>Lounge</h3>
+<table class="list lounge">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/75.html"><div class="image small"><img src="/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG" alt="Cirquit bending orchestra"></div></a></td>
+<td>
+<b><a href="/events/75.html">Cirquit Bending Orchestra</a></b>
+<br>
+Cirquit Bending Orchestra
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+<li><a href="/speakers/56.html">FlipFloater</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/84.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/84.html">Couchsofa - Preview LiveSet</a></b>
+<br>
+A preview to an upcoming LiveSet, maybe HOA17, MRMCD, or...
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/83.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/83.html">Couchsofa - ZeTeCo LiveSet</a></b>
+<br>
+
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/74.html"><div class="image small"><img src="/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG" alt="Flipfloater live1"></div></a></td>
+<td>
+<b><a href="/events/74.html">FlipFloater</a></b>
+<br>
+Live Act mit selbstgebauten Synths
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+<li><a href="/speakers/56.html">FlipFloater</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/85.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/85.html">W3rkh0f Licht+Ton</a></b>
+<br>
+ electronic jam session for robots and plants. 
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+<li><a href="/speakers/59.html">W3rkH0f-Kent</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/86.html"><div class="image small"><img src="/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png" alt="Event small"></div></a></td>
+<td>
+<b><a href="/events/86.html">W3rkh0f Licht + Ton vs SGMK Allstars plus special guest feat. music for robots and plants.</a></b>
+<br>
+
+</td>
+<td>Lounge</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="zeteco%20orga"></a>
+<h3>ZeTeCo Orga</h3>
+<table class="list zetecoorga">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/2.html"><div class="image small"><img src="/system/events/logos/000/000/002/small/zeteco.png" alt="Zeteco"></div></a></td>
+<td>
+<b><a href="/events/2.html">Closing</a></b>
+<br>
+Closing Event
+</td>
+<td>ZeTeCo Orga</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/25.html"><div class="image small"><img src="/system/events/logos/000/000/025/small/zeteco.png" alt="Zeteco"></div></a></td>
+<td>
+<b><a href="/events/25.html">Infrastructure Review</a></b>
+<br>
+
+</td>
+<td>ZeTeCo Orga</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/1.html"><div class="image small"><img src="/system/events/logos/000/000/001/small/zeteco.png" alt="Zeteco"></div></a></td>
+<td>
+<b><a href="/events/1.html">Opening</a></b>
+<br>
+Opening Event
+</td>
+<td>ZeTeCo Orga</td>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<a name="unterhaltung"></a>
+<h3>Unterhaltung</h3>
+<table class="list unterhaltung">
+<thead>
+<tr>
+<th> </th>
+<th>Titel</th>
+<th>Track</th>
+<th>Referenten</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/events/43.html"><div class="image small"><img src="/system/events/logos/000/000/043/small/gravityFalls.gif" alt="Gravityfalls"></div></a></td>
+<td>
+<b><a href="/events/43.html">Dipper, Mabel und die andere Regenbogenkotze</a></b>
+<br>
+
+</td>
+<td>Unterhaltung</td>
+<td>
+<ul>
+<li><a href="/speakers/34.html">kr0l</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/73.html"><div class="image small"><img src="/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png" alt="Freestyle compo griesbach"></div></a></td>
+<td>
+<b><a href="/events/73.html">Freestyle Compo Griesbach «eXe»</a></b>
+<br>
+English: Now it's getting serious – may all who enter demos, leave fond...
+</td>
+<td>Unterhaltung</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/42.html"><div class="image small"><img src="/system/events/logos/000/000/042/small/steven.gif" alt="Steven"></div></a></td>
+<td>
+<b><a href="/events/42.html">gem-stuff</a></b>
+<br>
+
+</td>
+<td>Unterhaltung</td>
+<td>
+<ul>
+<li><a href="/speakers/34.html">kr0l</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/71.html"><div class="image small"><img src="/system/events/logos/000/000/071/small/mechanische-spiele.jpg" alt="Mechanische spiele"></div></a></td>
+<td>
+<b><a href="/events/71.html">Summer Mechanic Games (Spectacle)</a></b>
+<br>
+English: Now it's getting serious – may the best machine win!
+
+Deutsch:...
+</td>
+<td>Unterhaltung</td>
+<td>
+<ul>
+<li><a href="/speakers/46.html">birdy1976</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/events/41.html"><div class="image small"><img src="/system/events/logos/000/000/041/small/nightmareMoon.png" alt="Nightmaremoon"></div></a></td>
+<td>
+<b><a href="/events/41.html">The art of Little Ponys</a></b>
+<br>
+
+</td>
+<td>Unterhaltung</td>
+<td>
+<ul>
+<li><a href="/speakers/34.html">kr0l</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,627 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T134500
+DTSTAMP;VALUE=DATE-TIME:20170720T183325Z
+UID:bad04725-b155-4c85-9a5d-87192c88994a@frab.ccczh.ch
+DESCRIPTION:Die Gestaltung von Grafik und Typografie hat sich seit der Er
+ findung des Buchdrucks mitte des 15. Jahrhunderts technologisch sehr sta
+ rk verändert. Nicht nur der Zeitgeist\, sondern auch der Zugang zu immer
+  komplexeren Produktionsmittel hat sich verändert. Gestaltungsprinzipien
+  haben sich derart transformiert\, dass ohne dem Werkzeug die Form gar n
+ icht mehr gefunden oder gedacht werden kann. So entsteht aus einer wagen
+  Vorstellung erst durch Programmierung (Code) eine realisierte Gestalt u
+ nd die Form wird durch den Softwareausbau und nicht durch die Hand gefüh
+ rt.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/36
+SUMMARY:Abstraktion im Design – von der Hand zum Code  - signalwerk
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T133000
+DTSTAMP;VALUE=DATE-TIME:20170720T183534Z
+UID:f4c4d586-4b46-447f-8ce9-fe7d36fafd44@frab.ccczh.ch
+DESCRIPTION:the newest technical innovation to the sex trade is teledildo
+ nics - internet connected sex toys. with new technology comes new securi
+ ty concerns. i personally have found a number of alarming security vulne
+ rabilities with the most popular devices and i will describe what they a
+ re and how i found them.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/15
+SUMMARY:Accidental Ménage à trois and more! - hackerhasid
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T133000
+DTSTAMP;VALUE=DATE-TIME:20170719T214416Z
+UID:b8cb3d00-43dd-42fe-82d5-9183b270c376@frab.ccczh.ch
+DESCRIPTION:''Learn Arduino using TV-B-Gone as an example project''<br>\n
+ <br>\nYou've probably heard lots about '''Arduino'''. But if you don't k
+ now what it is\, or how you can use it to do all sorts of cool things\, 
+ then this fun and easy workshop is for you. As an example project\, we'l
+ l be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' y
+ ou can take home with you.<br>\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/39
+SUMMARY:Arduino For Total Newbies - Mitch
+LOCATION:Elektronik-Ecke (Hackcenter) #ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T170000
+DTSTAMP;VALUE=DATE-TIME:20170719T214610Z
+UID:077f8935-fa84-4f07-b6e0-d6562bc39b5d@frab.ccczh.ch
+DESCRIPTION:Lust auf gutes Essen? Helf mit beim Pizza machen im Holzofen!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/48
+SUMMARY:Backen im Holzofen - L3D
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T144500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T143000
+DTSTAMP;VALUE=DATE-TIME:20170720T183333Z
+UID:813805ca-1abe-4f1a-98bd-cf618cd98af6@frab.ccczh.ch
+DESCRIPTION:Ich habe ein Kontakt management für CLI entwickelt. Besondere
+  Eigenschaft: Kontaktdetails direkt zu relevanten Progammen pipen. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/81
+SUMMARY:Besseres cli Kontakt Management - glow
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T160000
+DTSTAMP;VALUE=DATE-TIME:20170719T214900Z
+UID:eb9373c3-27a3-47fe-92b4-3204838bfa54@frab.ccczh.ch
+DESCRIPTION:Cirquit Bending Orchestra
+URL:https://frab.ccczh.ch/de/zeteco/public/events/75
+SUMMARY:Cirquit Bending Orchestra - FlipFloater
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T170000
+DTSTAMP;VALUE=DATE-TIME:20170710T003057Z
+UID:dc8e5b4d-c2e9-4dd0-8f22-ec7c2e4a7f8a@frab.ccczh.ch
+DESCRIPTION:Closing Event
+URL:https://frab.ccczh.ch/de/zeteco/public/events/2
+SUMMARY:Closing - 
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T140000
+DTSTAMP;VALUE=DATE-TIME:20170719T214756Z
+UID:befd816c-6796-4d45-a182-c29bce657e5d@frab.ccczh.ch
+DESCRIPTION:We will build and flash coreboot for your device. \ncoreboot 
+ is an open source firmware (mostly) for x86 and amd64. If you want your 
+ device to run only free software\, coreboot is your choice\, and it alre
+ ady offers to clean your management engine. If you're annoyed by your ve
+ ndor's firmware taking forever\, use coreboot and get your linux kernel 
+ after < 500 ms.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/66
+SUMMARY:Coreboot your device - ari
+LOCATION:Hackcenter #hc
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T180000
+DTSTAMP;VALUE=DATE-TIME:20170719T214240Z
+UID:1e13e504-5920-4bf8-9a5e-2aa94746adb6@frab.ccczh.ch
+DESCRIPTION:A preview to an upcoming LiveSet\, maybe HOA17\, MRMCD\, or..
+ .
+URL:https://frab.ccczh.ch/de/zeteco/public/events/84
+SUMMARY:Couchsofa - Preview LiveSet - 
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T190000
+DTSTAMP;VALUE=DATE-TIME:20170719T214245Z
+UID:c5be0392-c6cf-4d5b-bd4d-512db259ee32@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/83
+SUMMARY:Couchsofa - ZeTeCo LiveSet - 
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T200000
+DTSTAMP;VALUE=DATE-TIME:20170719T212536Z
+UID:d0da5369-23d4-4e4e-b958-6fa02b8b0f11@frab.ccczh.ch
+DESCRIPTION:Freitag ab 20:00 Uhr ist ein Crêpes-Stand auf dem Dorfplatz.\
+ nhttps://www.holy-crepe.ch/\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/90
+SUMMARY:Crêpes - proprietäres Essen 
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T010000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T230000
+DTSTAMP;VALUE=DATE-TIME:20170721T132929Z
+UID:c8bc96ba-95e9-4bac-afac-10850fa591f0@frab.ccczh.ch
+DESCRIPTION:Wir spielen gemeinsam Die Werwölfe von Düsterwald.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/40
+SUMMARY:Die Werwölfe von Düsterwald - kr0l
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T210000
+DTSTAMP;VALUE=DATE-TIME:20170719T214514Z
+UID:a404bfd1-b3bf-4076-bf97-688363e6cb8b@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/43
+SUMMARY:Dipper\, Mabel und die andere Regenbogenkotze - kr0l
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T211500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T203000
+DTSTAMP;VALUE=DATE-TIME:20170720T183204Z
+UID:a28f7c9f-e033-4167-928d-38b450b0ff0f@frab.ccczh.ch
+DESCRIPTION:Don't panic! This talk is just for fun... And yes\, there wil
+ l be school violence 😉
+URL:https://frab.ccczh.ch/de/zeteco/public/events/68
+SUMMARY:Dreams of the Future – Learning in Science Fiction Movies - birdy
+ 1976
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T210000
+DTSTAMP;VALUE=DATE-TIME:20170719T214855Z
+UID:741a6002-3834-46ab-9b24-be8a6266234a@frab.ccczh.ch
+DESCRIPTION:Live Act mit selbstgebauten Synths
+URL:https://frab.ccczh.ch/de/zeteco/public/events/74
+SUMMARY:FlipFloater - FlipFloater
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T213000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T200000
+DTSTAMP;VALUE=DATE-TIME:20170719T215133Z
+UID:ea814ae0-2066-42e8-9b26-b998dd2c16e2@frab.ccczh.ch
+DESCRIPTION:English: Now it's getting serious – may all who enter demos\,
+  leave fond memories with the audience!\n\nDeutsch: Jetzt gilt es ernst 
+ – mögen möglichst alle Demos guten Anklang beim Publikum finden!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/73
+SUMMARY:Freestyle Compo Griesbach «eXe» - birdy1976
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T151500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T143000
+DTSTAMP;VALUE=DATE-TIME:20170719T214846Z
+UID:b8c09d14-0c61-414a-a915-6277d997dea5@frab.ccczh.ch
+DESCRIPTION:English: Here you‘ll find out more and register your demos…\n
+ \nDeutsch: Hier informieren sich Interessierte und melden ihre Demos an…
+URL:https://frab.ccczh.ch/de/zeteco/public/events/72
+SUMMARY:Freestyle Compo Griesbach «iNi» - birdy1976
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T164500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T160000
+DTSTAMP;VALUE=DATE-TIME:20170719T214605Z
+UID:30c5a38d-a96d-4cf2-85be-c41f1088430d@frab.ccczh.ch
+DESCRIPTION:Wie kann man eigendlich so eine Freifunk Firmware selber komp
+ ilieren? Und warum sollte ich so was überhaupt machen?
+URL:https://frab.ccczh.ch/de/zeteco/public/events/47
+SUMMARY:Freifunk Firmware kompilieren - L3D
+LOCATION:Hackcenter #hc
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T203000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T200000
+DTSTAMP;VALUE=DATE-TIME:20170722T150436Z
+UID:0bbf1764-bd0a-4c11-b22a-13038e9835af@frab.ccczh.ch
+DESCRIPTION:User Hackerspace odenwilusenz hat sich entwickelt.\nSeit 2003
+  haben wir einige Erfahrungen gesammelt.\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/19
+SUMMARY:Hacker Space Design Patterns - Mitch
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T150000
+DTSTAMP;VALUE=DATE-TIME:20170720T183451Z
+UID:9354a78d-e3e6-430c-ad22-4101401d9ecd@frab.ccczh.ch
+DESCRIPTION:I have been to China for a month or more each year since 2003
+  to manufacture TV-B-Gone\, give workshops\, and give talks about hacker
+ spaces\, education\, and economic development. My annual Hacker Trips To
+  China share what China has to offer. In this talk I offer a peak at thi
+ s\, showing resources China may have to offer you.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/38
+SUMMARY:Hacking in China - Mitch
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T161500
+DTSTAMP;VALUE=DATE-TIME:20170723T133135Z
+UID:df4bb630-afff-44d6-a075-438a1e1dc99b@frab.ccczh.ch
+DESCRIPTION:What happens when half a million people suddenly visit your w
+ ebsite.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/96
+SUMMARY:How I survived the Reddit Hug of Death - draemmli
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T153000
+DTSTAMP;VALUE=DATE-TIME:20170719T214744Z
+UID:148ed078-91f2-4436-bc69-6dd10eb1b3b3@frab.ccczh.ch
+DESCRIPTION:Was ist das Betriebsystem Illumos wo kommt es her\, was kann 
+ es im vergleich zu linux und was sind die weiteren pläne.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/63
+SUMMARY:Illumos uns gibt es noch - Toasterson
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T160000
+DTSTAMP;VALUE=DATE-TIME:20170710T003051Z
+UID:406d9e92-690e-4a35-97cd-49af5fe33764@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/25
+SUMMARY:Infrastructure Review - 
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T123000
+DTSTAMP;VALUE=DATE-TIME:20170721T113340Z
+UID:98067bff-4776-44a2-b84c-f78a94d3db1d@frab.ccczh.ch
+DESCRIPTION:OpenJSCAD is a script-only 3D CAD software\, inspired by the 
+ similar OpenSCAD.\nAll manipulation of the 3D object is done through cod
+ e\, not through an user interface.\n\nOpenJSCAD is\, of course\, Free So
+ ftware and runs directly in the browser: <a href="https://openjscad.org/
+ ">OpenJSCAD.org</a>
+URL:https://frab.ccczh.ch/de/zeteco/public/events/62
+SUMMARY:Intro to OpenJSCAD - draemmli
+LOCATION:Hackcenter #hc
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T200000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T173000
+DTSTAMP;VALUE=DATE-TIME:20170722T095144Z
+UID:a5e57c84-c23d-4a0d-8bc9-90ffeabb89a7@frab.ccczh.ch
+DESCRIPTION:Wir machen Pizza. Kommt vorbei. Helft mit. Und bringt hunger 
+ mit!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/94
+SUMMARY:It's Pizza Time - L3D
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T130000
+DTSTAMP;VALUE=DATE-TIME:20170719T214733Z
+UID:93b0df1c-bd7d-488a-b641-e91128eaf4f0@frab.ccczh.ch
+DESCRIPTION:Jugend hackt ist ein Programm zur Förderung des Programmierna
+ chwuchses.\n\nWer Lust hat\, kann uns - Teile des Orgateams und einige e
+ rfahrene MentorInnen - treffen. Wir freuen uns auf spannende Menschen\, 
+ ihr könnt uns löchern\, Fragen zu Mentoring bei Jugend hackt oder für eu
+ ren eigenen Nachwuchs loswerden und in netter Runde Ideen zur Förderung 
+ des Hacker-Nachwuchses weiter entwickeln. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/61
+SUMMARY:Jugend hackt Meetup - bluetonyum
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T140000
+DTSTAMP;VALUE=DATE-TIME:20170719T214615Z
+UID:e2bef091-0321-45e9-9ebb-9c1bb94933cc@frab.ccczh.ch
+DESCRIPTION:Wir wollen mit Kindern zwischen 7-16 Jahren etwas löten. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/49
+SUMMARY:Kinderprogramm: Löten & Basteln - calvin
+LOCATION:Elektronik-Ecke (Hackcenter) #ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T150000
+DTSTAMP;VALUE=DATE-TIME:20170719T214406Z
+UID:6e9c7703-13ab-4cc0-8f5a-97bc2aa1ad77@frab.ccczh.ch
+DESCRIPTION:Learn to Solder! A large variety of way cool kits are availab
+ le\, all designed for total beginners to complete successfully -- and in
+ triguing enough for the total hardware geek.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/37
+SUMMARY:Learn to Solder! - Mitch
+LOCATION:Elektronik-Ecke (Hackcenter) #ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T143000
+DTSTAMP;VALUE=DATE-TIME:20170720T085830Z
+UID:bcc8f7d2-0b01-45c4-8414-1a0a244c621a@frab.ccczh.ch
+DESCRIPTION:With Wood\, PET Bottles\, two Motors and some WiFi Microcontr
+ ollers\, we build JavaScript powered Board (or Submarines \;)\n\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/56
+SUMMARY:Let's Build Nodeboats - Markus Leutwyler
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T150000
+DTSTAMP;VALUE=DATE-TIME:20170720T085711Z
+UID:16ef2597-82cc-4234-b6cf-cc04835f278b@frab.ccczh.ch
+DESCRIPTION:Build your own Javascript powered wireless Robot from scratch
+  in just 3h
+URL:https://frab.ccczh.ch/de/zeteco/public/events/57
+SUMMARY:Let's Build Nodebots - Markus Leutwyler
+LOCATION:Hackcenter #hc
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T130000
+DTSTAMP;VALUE=DATE-TIME:20170721T114117Z
+UID:5288b9dd-4021-4f21-8c06-c2aff48642ba@frab.ccczh.ch
+DESCRIPTION:Möchtest du Leute am Camp neu oder besser kennen lernen? Dann
+  mach mit bei dieser Kennenlernrunde!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/70
+SUMMARY:Leute am Camp kennen lernen - birdy1976
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T120000
+DTSTAMP;VALUE=DATE-TIME:20170710T003040Z
+UID:5cd06be6-1796-4768-83fe-fbde436724bb@frab.ccczh.ch
+DESCRIPTION:Opening Event
+URL:https://frab.ccczh.ch/de/zeteco/public/events/1
+SUMMARY:Opening - 
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T193000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T180000
+DTSTAMP;VALUE=DATE-TIME:20170722T210359Z
+UID:e7824998-1d10-487f-86be-adee64bdc83a@frab.ccczh.ch
+DESCRIPTION:Gestern habt ihr gelernt\, wie es geht!\nHeute wird es ernst!
+  Wir haben Zutaten. Wir haben einen Ofen. Und Nerds haben Hunger....\n\n
+ Machen wir Pizza?
+URL:https://frab.ccczh.ch/de/zeteco/public/events/93
+SUMMARY:Selbsthilfe Gruppe - L3D
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T170000
+DTSTAMP;VALUE=DATE-TIME:20170722T211736Z
+UID:d99ce4e4-c2d4-4c64-91b6-27a1cc236789@frab.ccczh.ch
+DESCRIPTION:Wir stellen unser eigenbau Wasserbad zum sous-vide garen (Vak
+ uumgaren) bereit. Bei dieser Methode wird das Nahrungsmittel mit tiefer 
+ Temperatur über längere (ein bis zwei Stunden) Zeit erhitzt (Details sie
+ he <a href="https://de.wikipedia.org/wiki/Vakuumgaren">https://de.wikipe
+ dia.org/wiki/Vakuumgaren</a>).\n\nVakuumiertes Fleisch (z.B. bereits abg
+ epacktes aus dem Supermarkt / Tankstelle) oder andere Nahrungsmittel müs
+ sen selber mitgebracht werden.\n\nKontakt: pharmafirma / DECT 7833\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/95
+SUMMARY:Sous-vide - 
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T151500
+DTSTAMP;VALUE=DATE-TIME:20170719T214805Z
+UID:6e9c2e4b-f85a-4458-bd0d-33fe6802f02d@frab.ccczh.ch
+DESCRIPTION:English: Here you‘ll find out more and register your T.E.A.M.
+  😉\n\nDeutsch: Hier informieren sich Interessierte und melden ihr T.E.A.
+ M. an 😉
+URL:https://frab.ccczh.ch/de/zeteco/public/events/69
+SUMMARY:Summer Mechanic Games (Opening) - birdy1976
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T130000
+DTSTAMP;VALUE=DATE-TIME:20170721T133109Z
+UID:6c9bfe41-402f-425f-8c96-9acd49a803a5@frab.ccczh.ch
+DESCRIPTION:English: Now it's getting serious – may the best machine win!
+ \n\nDeutsch: Jetzt gilt es ernst – möge die beste Maschine gewinnen!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/71
+SUMMARY:Summer Mechanic Games (Spectacle) - birdy1976
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T134500
+DTSTAMP;VALUE=DATE-TIME:20170720T183115Z
+UID:6953ca59-16e4-4b23-97dd-64675f6fbe79@frab.ccczh.ch
+DESCRIPTION:Termux ist ein Android App die sowohl Terminal Emulator und L
+ inux Umgebung. Verbunden an einen Laptop kann es als fast vollständiges 
+ CLI Betriebssystem genutzt werden. Auch ohne Laptop hat man aber ein mäc
+ htiges Linux in der Tasche. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/59
+SUMMARY:Termux als Betriebssystem - glow
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTAMP;VALUE=DATE-TIME:20170721T113342Z
+UID:11b97cb8-c919-49e4-97e4-6600e3fe96f6@frab.ccczh.ch
+DESCRIPTION:In diesem Workshop werde ich euch zeigen wie auch Ihr Termux 
+ als euer Betriebsystem benutzen könnt. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/88
+SUMMARY:Termux for Beginners - glow
+LOCATION:Hackcenter #hc
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T130000
+DTSTAMP;VALUE=DATE-TIME:20170721T225251Z
+UID:930af670-4994-43c9-b808-cdf51514df58@frab.ccczh.ch
+DESCRIPTION:Thai food von Chittima 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/92
+SUMMARY:Thai Food - proprietäres Essen 
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T130000
+DTSTAMP;VALUE=DATE-TIME:20170721T232139Z
+UID:a4f6d690-d4e4-460d-aa43-3955fe8c2f7b@frab.ccczh.ch
+DESCRIPTION:Thai food von Chittima
+URL:https://frab.ccczh.ch/de/zeteco/public/events/67
+SUMMARY:Thai Food - proprietäres Essen 
+LOCATION:Dorfplatz #do
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T211500
+DTSTAMP;VALUE=DATE-TIME:20170720T183206Z
+UID:b2f57d3a-2616-4e45-ace8-9097fbba9e0d@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/41
+SUMMARY:The art of Little Ponys - kr0l
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T130000
+DTSTAMP;VALUE=DATE-TIME:20170720T183322Z
+UID:aa3b2924-157d-41fc-a48b-d5230919b1ed@frab.ccczh.ch
+DESCRIPTION:Drei interessante Themen werden angeschat\, welche der Votrag
+ ende als Trends im Netzwerkbereich emofindet:\n* Linux\n* Software Defin
+ ed Networks\n* programmierbare Chips
+URL:https://frab.ccczh.ch/de/zeteco/public/events/46
+SUMMARY:Trends im Netzwerk: Software Defined Networks\, Linux\, programmi
+ erbare Chips - Tomasim Pospiisek
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T220000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T180000
+DTSTAMP;VALUE=DATE-TIME:20170719T214232Z
+UID:b9fc7c9e-ae7c-4c48-b2f8-52f9e05660eb@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/86
+SUMMARY:W3rkh0f Licht + Ton vs SGMK Allstars plus special guest feat. mus
+ ic for robots and plants. - 
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T160000
+DTSTAMP;VALUE=DATE-TIME:20170713T051824Z
+UID:de255c7a-2205-4c4b-8a13-abb59e029850@frab.ccczh.ch
+DESCRIPTION: electronic jam session for robots and plants. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/85
+SUMMARY:W3rkh0f Licht+Ton - W3rkH0f-Kent
+LOCATION:Lounge #lo
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T163000
+DTSTAMP;VALUE=DATE-TIME:20170721T132821Z
+UID:3edb96bc-fade-45d4-8694-08c78a0e5100@frab.ccczh.ch
+DESCRIPTION:Aikido is a purely defensive martial arts. We will do some wa
+ rm-up and stretching and slowly sneak in techniques.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/60
+SUMMARY:Wax on - wax off I - Thors
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T130000
+DTSTAMP;VALUE=DATE-TIME:20170721T132832Z
+UID:622634b2-689b-4166-9c3a-9b324cd5d3f0@frab.ccczh.ch
+DESCRIPTION:Aikido is a purely defensive martial arts. We will do some wa
+ rm-up and stretching and slowly sneak in techniques.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/78
+SUMMARY:Wax on - wax off II - Thors
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T103000
+DTSTAMP;VALUE=DATE-TIME:20170721T132842Z
+UID:8ff70910-76ac-471e-bc13-a98de3b31e2a@frab.ccczh.ch
+DESCRIPTION:Aikido is a purely defensive martial arts. We will do some wa
+ rm-up and stretching and slowly sneak in techniques.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/79
+SUMMARY:Wax on - wax off III - Thors
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T120000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T103000
+DTSTAMP;VALUE=DATE-TIME:20170721T132850Z
+UID:c436f61e-0378-4063-a6f2-f32fbcbb6bc6@frab.ccczh.ch
+DESCRIPTION:Aikido is a purely defensive martial arts. We will do some wa
+ rm-up and stretching and slowly sneak in techniques.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/80
+SUMMARY:Wax on - wax off IV - Thors
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T163000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTAMP;VALUE=DATE-TIME:20170722T102058Z
+UID:aff25222-f6c0-4568-be8a-a6a3a7fea72e@frab.ccczh.ch
+DESCRIPTION:Aus Karton und viel Klebeband bauen wir uns Gleiter .. und te
+ sten sie sogleich aus :)
+URL:https://frab.ccczh.ch/de/zeteco/public/events/58
+SUMMARY:Wir bauen uns Kartongleiter - Markus Leutwyler
+LOCATION:Draussen #dr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T140000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T133000
+DTSTAMP;VALUE=DATE-TIME:20170720T182841Z
+UID:b2994685-65d2-43cf-be80-2cedf0bd81b0@frab.ccczh.ch
+DESCRIPTION:Der Badge ist eine Platine\, welche man sich um den Hals häng
+ en kann.\n\nWir haben ein paar Hintergrund-Infos zum Badge.\n- Was ist d
+ as Konzept hinter dem Badge\n- Wie wurde er designt\n- Wer hat 100 Säckl
+ i abgepackt
+URL:https://frab.ccczh.ch/de/zeteco/public/events/64
+SUMMARY:ZeTeCo Badge - bluetonyum
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T173000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T170000
+DTSTAMP;VALUE=DATE-TIME:20170719T212440Z
+UID:0f466c54-aac3-4942-b4fb-7ffbe11baf22@frab.ccczh.ch
+DESCRIPTION:Bei den Ponys haben wir von gehört. Doch nun wird es realität
+ .\napple bobbing - Apfelschnappen!\n\nIm Pool der ZeTeCo!
+URL:https://frab.ccczh.ch/de/zeteco/public/events/89
+SUMMARY:apple bobbing - L3D
+LOCATION:Pool #po
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T151500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTAMP;VALUE=DATE-TIME:20170719T214226Z
+UID:c9f313f2-cb86-4601-afb5-ee73a2e7e2eb@frab.ccczh.ch
+DESCRIPTION:Dieses Open-source Projekt erarbeitet die Moeglichkeiten und 
+ Grenzen um Daten langfristig sicher zu verwalten.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/87
+SUMMARY:ein "privacy" Elixier fuer Daten - codieplusplus
+LOCATION:Tribüne #tr
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T223000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T213000
+DTSTAMP;VALUE=DATE-TIME:20170719T214505Z
+UID:c6cc2c50-44f0-4a02-a72f-5ec6f654d044@frab.ccczh.ch
+DESCRIPTION:
+URL:https://frab.ccczh.ch/de/zeteco/public/events/42
+SUMMARY:gem-stuff - kr0l
+LOCATION:Tribüne #tr
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Theater/Performance: Freestyle Compo Griesbach «eXe»</h2>
+<h3 class="title"></h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png" alt="Freestyle compo griesbach"></div>
+<p>
+<b>Diese Veranstaltung wird nicht aufgezeichnet</b>
+</p>
+<p class="abstract">English: Now it's getting serious – may all who enter demos, leave fond memories with the audience!</p>
+
+<p class="abstract">Deutsch: Jetzt gilt es ernst – mögen möglichst alle Demos guten Anklang beim Publikum finden!</p>
+<p class="description">English: The demoparty for people with a pleasure for creativity with the computer! At the «iNi» the specifications for the submission are discussed. After that you’ll design your demo and show it at the «eXe»</p>
+
+<p class="description">Because we’ll freestyle, computer performance is the limit; (Non-) real-time demo, something interactive (e.g. a game), graphics, music, photo montage, animation, or even a surprise 🙂</p>
+
+<p class="description">Deutsch: Demoparty für Leute mit Freude an Kreativität mit dem Computer! Beim «iNi» werden Vorgaben (insb. die Abgabe) besprochen. Nachher gestaltest du deine Demo und zeigst sie an der «eXe»</p>
+
+<p class="description">Da wir freestylen, ist die Rechenleistung das Limit, denkbar sind z.B. (Nicht-) Echtzeitdemo, etwas Interaktives (z.B. ein Spiel), Grafik, Musik, Fotomontage, Animation oder auch eine Überraschung 🙂</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/3.html">23.07.2017</a>
+<br>
+<b>Anfang:</b>
+20:00 Uhr
+<br>
+<b>Dauer:</b>
+01:30
+<br>
+<b>Raum:</b>
+Tribüne #tr
+<br>
+<b>Track:</b>
+<font class="event track-unterhaltung">
+<a href="/events.html#unterhaltung">Unterhaltung</a>
+</font>
+<br>
+<b>Sprache:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/73.ics">iCalendar</a></li>
+<li><a href="https://b76.ch/9648">Blog-Post</a></li>
+<li><a href="https://youtu.be/oLBv_uM56Kw">Invitation</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/people/avatars/000/000/046/small/martin-voegeli.v3.png" alt="Martin voegeli.v3"></div></td>
+<td><a href="/speakers/46.html">birdy1976</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

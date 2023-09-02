@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Vortrag: Abstraktion im Design – von der Hand zum Code </h2>
+<h3 class="title">Das Undenkbare gestalten – Einfluss der Technologie </h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large"></div>
+<p class="abstract">Die Gestaltung von Grafik und Typografie hat sich seit der Erfindung des Buchdrucks mitte des 15. Jahrhunderts technologisch sehr stark verändert. Nicht nur der Zeitgeist, sondern auch der Zugang zu immer komplexeren Produktionsmittel hat sich verändert. Gestaltungsprinzipien haben sich derart transformiert, dass ohne dem Werkzeug die Form gar nicht mehr gefunden oder gedacht werden kann. So entsteht aus einer wagen Vorstellung erst durch Programmierung (Code) eine realisierte Gestalt und die Form wird durch den Softwareausbau und nicht durch die Hand geführt.</p>
+<p class="description">
+### Beispiele im Vortrag
+<br>* Produktionsmittel: Entwurf eines Fingerings von der 3D-Skizze über Wachsmodelle zum 3D-Print in Silber
+<br>* Holzbuchstaben für den Hochdruck auf einer CNC fräsen (21. Jh. meets 15. Jh.)
+<br>* Farbmischung am Computer oder von Hand (1977 vs. 1997 vs. 2017)
+<br>* Generative Logos (ZeTeCo &amp; Logrinto)</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/3.html">23.07.2017</a>
+<br>
+<b>Anfang:</b>
+13:45 Uhr
+<br>
+<b>Dauer:</b>
+00:30
+<br>
+<b>Raum:</b>
+Tribüne #tr
+<br>
+<b>Track:</b>
+<font class="event track-vortrag">
+<a href="/events.html#vortrag">Vortrag</a>
+</font>
+<br>
+<b>Sprache:</b>
+de
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/36.ics">iCalendar</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/people/avatars/000/000/012/small/avatar2012_2000px.png" alt="Avatar2012 2000px"></div></td>
+<td><a href="/speakers/12.html">signalwerk</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

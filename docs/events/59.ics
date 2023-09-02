@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T134500
+DTSTAMP;VALUE=DATE-TIME:20170720T183115Z
+UID:6953ca59-16e4-4b23-97dd-64675f6fbe79@frab.ccczh.ch
+DESCRIPTION:Termux ist ein Android App die sowohl Terminal Emulator und L
+ inux Umgebung. Verbunden an einen Laptop kann es als fast vollständiges 
+ CLI Betriebssystem genutzt werden. Auch ohne Laptop hat man aber ein mäc
+ htiges Linux in der Tasche. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/59
+SUMMARY:Termux als Betriebssystem
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

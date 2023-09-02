@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170724T133000
+DTSTAMP;VALUE=DATE-TIME:20170720T183534Z
+UID:f4c4d586-4b46-447f-8ce9-fe7d36fafd44@frab.ccczh.ch
+DESCRIPTION:the newest technical innovation to the sex trade is teledildo
+ nics - internet connected sex toys. with new technology comes new securi
+ ty concerns. i personally have found a number of alarming security vulne
+ rabilities with the most popular devices and i will describe what they a
+ re and how i found them.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/15
+SUMMARY:Accidental Ménage à trois and more!
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

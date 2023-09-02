@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Workshop: Intro to OpenJSCAD</h2>
+<h3 class="title">CAD for programmers - Creating 3D objects with JavaScript</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/events/logos/000/000/062/large/openjscad-logo-bigger.png" alt="Openjscad logo bigger"></div>
+<p class="abstract">OpenJSCAD is a script-only 3D CAD software, inspired by the similar OpenSCAD.
+<br>All manipulation of the 3D object is done through code, not through an user interface.</p>
+
+<p class="abstract">OpenJSCAD is, of course, Free Software and runs directly in the browser: <a href="https://openjscad.org/">OpenJSCAD.org</a></p>
+<p class="description">The workshop will be split in two parts.
+<br>First I'll give a bit of a tutorial where I'll be explaining the basic concepts of OpenJSCAD.
+<br>In the second part, I'll be around to help you while you work on your own ideas.</p>
+
+<p class="description">In preparation for this workshop, I suggest you try to come up with a small project for a 3D object you'd like to build using OpenJSCAD.</p>
+
+<p class="description">Skills required: It helps if you can program, but it's not strictly necessary, I think.</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/2.html">22.07.2017</a>
+<br>
+<b>Anfang:</b>
+12:30 Uhr
+<br>
+<b>Dauer:</b>
+02:00
+<br>
+<b>Raum:</b>
+Hackcenter #hc
+<br>
+<b>Track:</b>
+<font class="event track-workshop">
+<a href="/events.html#workshop">Workshop</a>
+</font>
+<br>
+<b>Sprache:</b>
+de
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/62.ics">iCalendar</a></li>
+<li><a href="https://openjscad.org/">OpenJSCAD.org</a></li>
+<li><a href="https://github.com/jscad/OpenJSCAD.org">GitHub: OpenJSCAD</a></li>
+</ul>
+<h3>Dateien</h3>
+<ul>
+<li><a href="/system/event_attachments/attachments/000/000/009/original/earrings.png">DNA Earrings</a></li>
+<li><a href="/system/event_attachments/attachments/000/000/008/original/turbine.png">Pelton Turbine</a></li>
+<li><a href="/system/event_attachments/attachments/000/000/007/original/wagon.png">Model Train Wagon</a></li>
+<li><a href="/system/event_attachments/attachments/000/000/006/original/democube.png">Cube Demo</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/people/avatars/000/000/050/small/zetecavatar.jpg" alt="Zetecavatar"></div></td>
+<td><a href="/speakers/50.html">draemmli</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

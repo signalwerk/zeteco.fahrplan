@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T130000
+DTSTAMP;VALUE=DATE-TIME:20170719T214733Z
+UID:93b0df1c-bd7d-488a-b641-e91128eaf4f0@frab.ccczh.ch
+DESCRIPTION:Jugend hackt ist ein Programm zur Förderung des Programmierna
+ chwuchses.\n\nWer Lust hat\, kann uns - Teile des Orgateams und einige e
+ rfahrene MentorInnen - treffen. Wir freuen uns auf spannende Menschen\, 
+ ihr könnt uns löchern\, Fragen zu Mentoring bei Jugend hackt oder für eu
+ ren eigenen Nachwuchs loswerden und in netter Runde Ideen zur Förderung 
+ des Hacker-Nachwuchses weiter entwickeln. 
+URL:https://frab.ccczh.ch/de/zeteco/public/events/61
+SUMMARY:Jugend hackt Meetup
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

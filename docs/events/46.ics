@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T133000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T130000
+DTSTAMP;VALUE=DATE-TIME:20170720T183322Z
+UID:aa3b2924-157d-41fc-a48b-d5230919b1ed@frab.ccczh.ch
+DESCRIPTION:Drei interessante Themen werden angeschat\, welche der Votrag
+ ende als Trends im Netzwerkbereich emofindet:\n* Linux\n* Software Defin
+ ed Networks\n* programmierbare Chips
+URL:https://frab.ccczh.ch/de/zeteco/public/events/46
+SUMMARY:Trends im Netzwerk: Software Defined Networks\, Linux\, programmi
+ erbare Chips
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1710 @@
+{
+  "https://fahrplan.zeteco.ch/": {
+    "url": "https://fahrplan.zeteco.ch/",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/index.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule.html": {
+    "url": "https://fahrplan.zeteco.ch/schedule.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/1.html": {
+    "url": "https://fahrplan.zeteco.ch/schedule/1.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/1.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/2.html": {
+    "url": "https://fahrplan.zeteco.ch/schedule/2.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/2.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/3.html": {
+    "url": "https://fahrplan.zeteco.ch/schedule/3.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/3.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/4.html": {
+    "url": "https://fahrplan.zeteco.ch/schedule/4.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/4.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events.html": {
+    "url": "https://fahrplan.zeteco.ch/events.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/qrcode.html": {
+    "url": "https://fahrplan.zeteco.ch/qrcode.html",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://fahrplan.zeteco.ch/schedule/1.pdf": {
+    "url": "https://fahrplan.zeteco.ch/schedule/1.pdf",
+    "status": 200,
+    "mimeType": "application/pdf",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/1.pdf",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/2.pdf": {
+    "url": "https://fahrplan.zeteco.ch/schedule/2.pdf",
+    "status": 200,
+    "mimeType": "application/pdf",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/2.pdf",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/3.pdf": {
+    "url": "https://fahrplan.zeteco.ch/schedule/3.pdf",
+    "status": 200,
+    "mimeType": "application/pdf",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/3.pdf",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule.ics": {
+    "url": "https://fahrplan.zeteco.ch/schedule.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule/4.pdf": {
+    "url": "https://fahrplan.zeteco.ch/schedule/4.pdf",
+    "status": 200,
+    "mimeType": "application/pdf",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/4.pdf",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule.xcal": {
+    "url": "https://fahrplan.zeteco.ch/schedule.xcal",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.xcal",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule.xml": {
+    "url": "https://fahrplan.zeteco.ch/schedule.xml",
+    "status": 200,
+    "mimeType": "text/xml",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.xml",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers.json": {
+    "url": "https://fahrplan.zeteco.ch/speakers.json",
+    "status": 200,
+    "mimeType": "application/json",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers.json",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/schedule.json": {
+    "url": "https://fahrplan.zeteco.ch/schedule.json",
+    "status": 200,
+    "mimeType": "application/json",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.json",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css": {
+    "url": "https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/style.css": {
+    "url": "https://fahrplan.zeteco.ch/style.css",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/style.css",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css": {
+    "url": "https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/1.html": {
+    "url": "https://fahrplan.zeteco.ch/events/1.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/1.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/46.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/46.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/46.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/70.html": {
+    "url": "https://fahrplan.zeteco.ch/events/70.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/70.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/64.html": {
+    "url": "https://fahrplan.zeteco.ch/events/64.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/64.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/9.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/9.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/9.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/72.html": {
+    "url": "https://fahrplan.zeteco.ch/events/72.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/72.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/57.html": {
+    "url": "https://fahrplan.zeteco.ch/events/57.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/57.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/37.html": {
+    "url": "https://fahrplan.zeteco.ch/events/37.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/37.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/49.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/49.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/49.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/32.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/32.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/32.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/69.html": {
+    "url": "https://fahrplan.zeteco.ch/events/69.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/69.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/52.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/52.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/52.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/60.html": {
+    "url": "https://fahrplan.zeteco.ch/events/60.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/60.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/40.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/40.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/40.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/48.html": {
+    "url": "https://fahrplan.zeteco.ch/events/48.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/48.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/84.html": {
+    "url": "https://fahrplan.zeteco.ch/events/84.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/84.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/19.html": {
+    "url": "https://fahrplan.zeteco.ch/events/19.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/19.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/90.html": {
+    "url": "https://fahrplan.zeteco.ch/events/90.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/90.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/61.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/61.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/61.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/43.html": {
+    "url": "https://fahrplan.zeteco.ch/events/43.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/43.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/34.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/34.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/34.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/74.html": {
+    "url": "https://fahrplan.zeteco.ch/events/74.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/74.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/56.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/56.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/56.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/40.html": {
+    "url": "https://fahrplan.zeteco.ch/events/40.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/40.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/62.html": {
+    "url": "https://fahrplan.zeteco.ch/events/62.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/62.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/50.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/50.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/50.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/61.html": {
+    "url": "https://fahrplan.zeteco.ch/events/61.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/61.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/67.html": {
+    "url": "https://fahrplan.zeteco.ch/events/67.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/67.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/39.html": {
+    "url": "https://fahrplan.zeteco.ch/events/39.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/39.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/78.html": {
+    "url": "https://fahrplan.zeteco.ch/events/78.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/78.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/51.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/51.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/51.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/59.html": {
+    "url": "https://fahrplan.zeteco.ch/events/59.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/59.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/87.html": {
+    "url": "https://fahrplan.zeteco.ch/events/87.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/87.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/88.html": {
+    "url": "https://fahrplan.zeteco.ch/events/88.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/88.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/47.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/47.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/47.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/58.html": {
+    "url": "https://fahrplan.zeteco.ch/events/58.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/58.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/63.html": {
+    "url": "https://fahrplan.zeteco.ch/events/63.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/63.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/53.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/53.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/53.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/47.html": {
+    "url": "https://fahrplan.zeteco.ch/events/47.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/47.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/89.html": {
+    "url": "https://fahrplan.zeteco.ch/events/89.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/89.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/75.html": {
+    "url": "https://fahrplan.zeteco.ch/events/75.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/75.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/94.html": {
+    "url": "https://fahrplan.zeteco.ch/events/94.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/94.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/86.html": {
+    "url": "https://fahrplan.zeteco.ch/events/86.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/86.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/68.html": {
+    "url": "https://fahrplan.zeteco.ch/events/68.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/68.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/41.html": {
+    "url": "https://fahrplan.zeteco.ch/events/41.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/41.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/79.html": {
+    "url": "https://fahrplan.zeteco.ch/events/79.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/79.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/38.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/38.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/38.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/46.html": {
+    "url": "https://fahrplan.zeteco.ch/events/46.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/46.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/92.html": {
+    "url": "https://fahrplan.zeteco.ch/events/92.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/92.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/36.html": {
+    "url": "https://fahrplan.zeteco.ch/events/36.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/36.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/12.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/12.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/12.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/66.html": {
+    "url": "https://fahrplan.zeteco.ch/events/66.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/66.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/54.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/54.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/54.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/49.html": {
+    "url": "https://fahrplan.zeteco.ch/events/49.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/49.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/43.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/43.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/43.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/81.html": {
+    "url": "https://fahrplan.zeteco.ch/events/81.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/81.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/56.html": {
+    "url": "https://fahrplan.zeteco.ch/events/56.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/56.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/38.html": {
+    "url": "https://fahrplan.zeteco.ch/events/38.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/38.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/85.html": {
+    "url": "https://fahrplan.zeteco.ch/events/85.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/85.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/59.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/59.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/59.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/95.html": {
+    "url": "https://fahrplan.zeteco.ch/events/95.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/95.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/96.html": {
+    "url": "https://fahrplan.zeteco.ch/events/96.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/96.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/93.html": {
+    "url": "https://fahrplan.zeteco.ch/events/93.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/93.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/83.html": {
+    "url": "https://fahrplan.zeteco.ch/events/83.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/83.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/73.html": {
+    "url": "https://fahrplan.zeteco.ch/events/73.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/73.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/42.html": {
+    "url": "https://fahrplan.zeteco.ch/events/42.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/42.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/80.html": {
+    "url": "https://fahrplan.zeteco.ch/events/80.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/80.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/17.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/17.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/17.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/71.html": {
+    "url": "https://fahrplan.zeteco.ch/events/71.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/71.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/15.html": {
+    "url": "https://fahrplan.zeteco.ch/events/15.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/15.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/25.html": {
+    "url": "https://fahrplan.zeteco.ch/events/25.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/25.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/58.html": {
+    "url": "https://fahrplan.zeteco.ch/speakers/58.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/58.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/82.html": {
+    "url": "https://fahrplan.zeteco.ch/events/82.html",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://fahrplan.zeteco.ch/events/2.html": {
+    "url": "https://fahrplan.zeteco.ch/events/2.html",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/2.html",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png": {
+    "url": "https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png": {
+    "url": "https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/1.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/1.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/1.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/70.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/70.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/70.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/64.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/64.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/64.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/72.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/72.ics",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "getaddrinfo ENOTFOUND fahrplan.zeteco.ch"
+  },
+  "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf": {
+    "url": "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf",
+    "status": 200,
+    "mimeType": "application/pdf",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/57.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/57.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/57.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/www.nodebots.ch": {
+    "url": "https://fahrplan.zeteco.ch/events/www.nodebots.ch",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png": {
+    "url": "https://fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/37.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/37.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/37.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/69.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/69.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/69.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png": {
+    "url": "https://fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/48.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/48.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/48.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/60.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/60.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/60.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/84.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/84.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/84.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/90.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/90.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/90.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/19.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/19.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/19.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/43.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/43.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/43.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/www.flipfloater.net": {
+    "url": "https://fahrplan.zeteco.ch/events/www.flipfloater.net",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://fahrplan.zeteco.ch/events/74.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/74.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/74.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/speakers/www.flipfloater.net": {
+    "url": "https://fahrplan.zeteco.ch/speakers/www.flipfloater.net",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/62.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/62.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/62.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/40.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/40.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/40.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png": {
+    "url": "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png": {
+    "url": "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png": {
+    "url": "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png": {
+    "url": "https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/61.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/61.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/61.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/67.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/67.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/67.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/39.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/39.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/39.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/59.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/59.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/59.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/78.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/78.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/78.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/87.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/87.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/87.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/88.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/88.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/88.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/58.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/58.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/58.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/63.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/63.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/63.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/47.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/47.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/47.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/89.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/89.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/89.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/75.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/75.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/75.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/94.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/94.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/94.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/86.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/86.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/86.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/68.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/68.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/68.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/41.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/41.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/41.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/46.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/46.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/46.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/79.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/79.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/79.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/92.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/92.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/92.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/36.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/36.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/36.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/66.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/66.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/66.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/49.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/49.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/49.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/81.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/81.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/81.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/56.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/56.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/56.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/85.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/85.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/85.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/38.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/38.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/38.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/95.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/95.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/95.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/96.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/96.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/96.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/93.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/93.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/93.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/83.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/83.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/83.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/73.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/73.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/73.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/42.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/42.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/42.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/80.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/80.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/80.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/71.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/71.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/71.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif",
+    "status": 200,
+    "mimeType": "image/gif",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/15.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/15.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/15.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/25.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/25.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/25.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/events/2.ics": {
+    "url": "https://fahrplan.zeteco.ch/events/2.ics",
+    "status": 200,
+    "mimeType": "application/octet-stream",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/2.ics",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png",
+    "error": null
+  },
+  "https://fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png": {
+    "url": "https://fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png",
+    "error": null
+  }
+}

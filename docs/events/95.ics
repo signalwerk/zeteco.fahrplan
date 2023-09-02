@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T170000
+DTSTAMP;VALUE=DATE-TIME:20170722T211736Z
+UID:d99ce4e4-c2d4-4c64-91b6-27a1cc236789@frab.ccczh.ch
+DESCRIPTION:Wir stellen unser eigenbau Wasserbad zum sous-vide garen (Vak
+ uumgaren) bereit. Bei dieser Methode wird das Nahrungsmittel mit tiefer 
+ Temperatur über längere (ein bis zwei Stunden) Zeit erhitzt (Details sie
+ he <a href="https://de.wikipedia.org/wiki/Vakuumgaren">https://de.wikipe
+ dia.org/wiki/Vakuumgaren</a>).\n\nVakuumiertes Fleisch (z.B. bereits abg
+ epacktes aus dem Supermarkt / Tankstelle) oder andere Nahrungsmittel müs
+ sen selber mitgebracht werden.\n\nKontakt: pharmafirma / DECT 7833\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/95
+SUMMARY:Sous-vide
+ORGANIZER:zeteco
+LOCATION:zeteco - Dorfplatz #do
+END:VEVENT
+END:VCALENDAR

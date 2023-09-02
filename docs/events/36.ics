@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T141500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T134500
+DTSTAMP;VALUE=DATE-TIME:20170720T183325Z
+UID:bad04725-b155-4c85-9a5d-87192c88994a@frab.ccczh.ch
+DESCRIPTION:Die Gestaltung von Grafik und Typografie hat sich seit der Er
+ findung des Buchdrucks mitte des 15. Jahrhunderts technologisch sehr sta
+ rk verändert. Nicht nur der Zeitgeist\, sondern auch der Zugang zu immer
+  komplexeren Produktionsmittel hat sich verändert. Gestaltungsprinzipien
+  haben sich derart transformiert\, dass ohne dem Werkzeug die Form gar n
+ icht mehr gefunden oder gedacht werden kann. So entsteht aus einer wagen
+  Vorstellung erst durch Programmierung (Code) eine realisierte Gestalt u
+ nd die Form wird durch den Softwareausbau und nicht durch die Hand gefüh
+ rt.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/36
+SUMMARY:Abstraktion im Design – von der Hand zum Code 
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

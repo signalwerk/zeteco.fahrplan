@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/speakers.html">Referenten</a>
+</li>
+<li>
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2 class="title">Referent: birdy1976</h2>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/people/avatars/000/000/046/large/martin-voegeli.v3.png" alt="Martin voegeli.v3"></div>
+<p class="abstract"></p>
+<p class="description"></p>
+</div>
+<div class="column left" id="details">
+<h3>Links</h3>
+<ul>
+<li><a href="https://b76.ch/about">Kontakt</a></li>
+</ul>
+</div>
+<div class="column right" id="sidebar">
+<h3>Veranstaltungen auf dieser Konferenz</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/068/small/dreams-of-the-future.jpg" alt="Dreams of the future"></div></td>
+<td><a href="/events/68.html">Dreams of the Future – Learning in Science Fiction Movies</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/069/small/mechanische-spiele.jpg" alt="Mechanische spiele"></div></td>
+<td><a href="/events/69.html">Summer Mechanic Games (Opening)</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png" alt="Schneeflocken im sommer"></div></td>
+<td><a href="/events/70.html">Leute am Camp kennen lernen</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/071/small/mechanische-spiele.jpg" alt="Mechanische spiele"></div></td>
+<td><a href="/events/71.html">Summer Mechanic Games (Spectacle)</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png" alt="Freestyle compo griesbach"></div></td>
+<td><a href="/events/72.html">Freestyle Compo Griesbach «iNi»</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png" alt="Freestyle compo griesbach"></div></td>
+<td><a href="/events/73.html">Freestyle Compo Griesbach «eXe»</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

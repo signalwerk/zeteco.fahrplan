@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li>
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+<p class="tracks">Tracks:</p>
+<ul class="tracks">
+<li>
+<div class="event track-essen" href="#essen">Essen</div>
+</li>
+<li>
+<div class="event track-lounge" href="#lounge">Lounge</div>
+</li>
+<li>
+<div class="event track-spiel-und-sport" href="#spiel%20und%20sport">Spiel und Sport</div>
+</li>
+<li>
+<div class="event track-unterhaltung" href="#unterhaltung">Unterhaltung</div>
+</li>
+<li>
+<div class="event track-vortrag" href="#vortrag">Vortrag</div>
+</li>
+<li>
+<div class="event track-workshop" href="#workshop">Workshop</div>
+</li>
+<li>
+<div class="event track-zeteco-orga" href="#zeteco%20orga">ZeTeCo Orga</div>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>
+Zeitplan für Tag 2 – 22.07.2017
+</h2>
+<p class="rooms">
+Rooms:
+</p>
+<ul class="rooms">
+<li>
+<a href="#0">Tribüne #tr, Hackcenter #hc, Elektronik-Ecke (Hackcenter) #ee, Lounge #lo, Dorfplatz #do, Draussen #dr, Pool #po</a>
+</li>
+</ul>
+
+<br class="clear">
+<div id="main-table">
+<div id="conference-rooms_0">
+<a name="0"></a>
+<table class="rooms-table">
+<thead>
+<tr>
+<th class="cell-time"></th>
+<th>Tribüne #tr</th>
+<th>Hackcenter #hc</th>
+<th>Elektronik-Ecke (Hackcenter) #ee</th>
+<th>Lounge #lo</th>
+<th>Dorfplatz #do</th>
+<th>Draussen #dr</th>
+<th>Pool #po</th>
+</tr>
+</thead>
+<tbody>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>10:00</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>10:45</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>11:30</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>12:15</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td class="cell-height8" rowspan="8">
+<div class="event track-workshop">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/62.html">Intro to OpenJSCAD</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+CAD for programmers - Creating 3D objects with JavaScript
+(de)
+</div>
+<div class="speakers"><a href="/speakers/50.html">draemmli</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>13:00</p>
+</td>
+<td class="cell-height2" rowspan="2">
+<div class="event track-vortrag">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/61.html">Jugend hackt Meetup</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+
+(de)
+</div>
+<div class="speakers"><a href="/speakers/9.html">bluetonyum</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+<td class="cell-height8" rowspan="8">
+<div class="event track-essen">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/67.html">Thai Food</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+For people who love thai food
+(de)
+</div>
+<div class="speakers"><a href="/speakers/61.html">proprietäres Essen </a></div>
+</div>
+</div>
+</div>
+</td>
+<td class="cell-height6" rowspan="6">
+<div class="event track-spiel-und-sport">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/78.html">Wax on - wax off II</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Entry level Aikido self-defense (Treffpunkt: Dojo)
+(en)
+</div>
+<div class="speakers"><a href="/speakers/52.html">Thors</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td class="cell-height14" rowspan="14">
+<div class="event track-workshop">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/39.html">Arduino For Total Newbies</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Anyone Can Learn to Play with Arduino
+(en)
+</div>
+<div class="speakers"><a href="/speakers/32.html">Mitch</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>13:45</p>
+</td>
+<td class="cell-height2" rowspan="2">
+<div class="event track-vortrag">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/59.html">Termux als Betriebssystem</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Das Linux in der Tasche
+(de)
+</div>
+<div class="speakers"><a href="/speakers/51.html">glow</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>14:30</p>
+</td>
+<td class="cell-height3" rowspan="3">
+<div class="event track-vortrag">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/87.html">ein "privacy" Elixier fuer Daten</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Open-source Projekt um Daten langfristig und sicher zu speichern und zu erhalten
+(de)
+</div>
+<div class="speakers"><a href="/speakers/47.html">codieplusplus</a></div>
+</div>
+</div>
+</div>
+</td>
+<td class="cell-height6" rowspan="6">
+<div class="event track-workshop">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/88.html">Termux for Beginners</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Lerne Termux als richtiges Betriebssystem einzusetzem
+(de)
+</div>
+<div class="speakers"><a href="/speakers/51.html">glow</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td class="cell-height8" rowspan="8">
+<div class="event track-workshop">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/58.html">Wir bauen uns Kartongleiter</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+(Treffpunkt: Dorfplatz)
+(de)
+</div>
+<div class="speakers"><a href="/speakers/49.html">Markus Leutwyler</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>15:15</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td class="cell-height3" rowspan="3">
+<div class="event track-vortrag">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/63.html">Illumos uns gibt es noch</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+was läuft so im lande von Illumos
+(de)
+</div>
+<div class="speakers"><a href="/speakers/53.html">Toasterson</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>16:00</p>
+</td>
+<td class="cell-height3" rowspan="3">
+<div class="event track-workshop">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/47.html">Freifunk Firmware kompilieren</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Firmware selber kompilieren - kann ich nicht!
+(de)
+</div>
+<div class="speakers"><a href="/speakers/40.html">L3D</a></div>
+</div>
+</div>
+</div>
+</td>
+<td class="cell-height4" rowspan="4">
+<div class="event track-lounge">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/75.html">Cirquit Bending Orchestra</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+
+(de)
+</div>
+<div class="speakers"><a href="/speakers/56.html">FlipFloater</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>16:45</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cell-height2" rowspan="2">
+<div class="event track-spiel-und-sport">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/89.html">apple bobbing</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Apfelschnappen - im Pool
+()
+</div>
+<div class="speakers"><a href="/speakers/40.html">L3D</a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>17:30</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cell-height10" rowspan="10">
+<div class="event track-essen">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/94.html">It's Pizza Time</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Holzofen. Teig. Belag. Schmeckt!
+()
+</div>
+<div class="speakers"><a href="/speakers/40.html">L3D</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td class="cell-height16" rowspan="16">
+<div class="event track-lounge">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/86.html">W3rkh0f Licht + Ton vs SGMK Allstars plus special guest feat. music for robots and plants.</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+
+()
+</div>
+<div class="speakers"></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>18:15</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>19:00</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>19:45</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>20:30</p>
+</td>
+<td class="cell-height3" rowspan="3">
+<div class="event track-vortrag">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/68.html">Dreams of the Future – Learning in Science Fiction Movies</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+
+(en)
+</div>
+<div class="speakers"><a href="/speakers/46.html">birdy1976</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>21:15</p>
+</td>
+<td class="cell-height4" rowspan="4">
+<div class="event track-unterhaltung">
+<div class="event-wrapper">
+<div class="event-header">
+<h2><a href="/events/41.html">The art of Little Ponys</a></h2>
+</div>
+<div class="event-details">
+<div class="subtitle">
+Pony Public Viewing
+(en)
+</div>
+<div class="speakers"><a href="/speakers/34.html">kr0l</a></div>
+</div>
+</div>
+</div>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>22:00</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>22:45</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>23:30</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+<p>00:15</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="cell-height1">
+<td class="cell-time">
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/speakers.html">Referenten</a>
+</li>
+<li>
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2 class="title">Referent: FlipFloater</h2>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/people/avatars/000/000/056/large/IMG_3270.jpg" alt="Img 3270"></div>
+<p class="abstract">FlipFloater, Musiker, Elektronik, Workshop</p>
+<p class="description">FlipFloater erschliesst mit seinem Minimal DIY Electro Set eigene Klangwelten mit kratzigen Lo-Fi Sounds. 
+<br>Seine druckvollen Bässe und breakigen Beats geben ein solides tanzbares Fundament. 
+<br>Auf der Bühne benützt FlipFloater fast ausschliesslich selbst gebaute Klanggeneratoren, Synthesizer und Effektgeräte. 
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Links</h3>
+<ul>
+<li><a href="www.flipfloater.net">FlipFloater</a></li>
+</ul>
+</div>
+<div class="column right" id="sidebar">
+<h3>Veranstaltungen auf dieser Konferenz</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG" alt="Flipfloater live1"></div></td>
+<td><a href="/events/74.html">FlipFloater</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG" alt="Cirquit bending orchestra"></div></td>
+<td><a href="/events/75.html">Cirquit Bending Orchestra</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

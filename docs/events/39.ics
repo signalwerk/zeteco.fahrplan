@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T133000
+DTSTAMP;VALUE=DATE-TIME:20170719T214416Z
+UID:b8cb3d00-43dd-42fe-82d5-9183b270c376@frab.ccczh.ch
+DESCRIPTION:''Learn Arduino using TV-B-Gone as an example project''<br>\n
+ <br>\nYou've probably heard lots about '''Arduino'''. But if you don't k
+ now what it is\, or how you can use it to do all sorts of cool things\, 
+ then this fun and easy workshop is for you. As an example project\, we'l
+ l be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' y
+ ou can take home with you.<br>\n
+URL:https://frab.ccczh.ch/de/zeteco/public/events/39
+SUMMARY:Arduino For Total Newbies
+ORGANIZER:zeteco
+LOCATION:zeteco - Elektronik-Ecke (Hackcenter) #ee
+END:VEVENT
+END:VCALENDAR

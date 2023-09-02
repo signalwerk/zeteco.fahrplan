@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Workshop: Arduino For Total Newbies</h2>
+<h3 class="title">Anyone Can Learn to Play with Arduino</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/events/logos/000/000/039/large/LearnToSolder.jpg" alt="Learntosolder"></div>
+<p class="abstract">''Learn Arduino using TV-B-Gone as an example project''<br>
+<br><br>
+<br>You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br>
+</p>
+<p class="description">Arduino is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that uber-geeks can use it for their projects as well.</p>
+
+<p class="description">This workshop is easy enough for '''''total newbies''''' to learn all you need to know to get going on an Arduino.</p>
+
+<p class="description">Taught by [http://en.wikipedia.org/wiki/Mitch_Altman Mitch Altman]. Participants will make their own Arduino clone, and set it up on solderless breadboards to make their own TV-B-Gone remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics. Bring your laptop, if you can.</p>
+
+<p class="description">''Big thanks to Ken Shirriff, who came up with the original [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html TV-B-Gone for Arduino].''</p>
+
+<p class="description">== Workshop Itinerary ==
+<br>* Intro to Arduino</p>
+
+<p class="description">* Very short lesson to learn everything you need to know about electronics!</p>
+
+<p class="description">* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.</p>
+
+<p class="description">* Then we will each make our own Arduino clone from a kit made by Samurai Circuits: [http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino U-Do-It-Duino].</p>
+
+<p class="description">* Now that we each have our own Arduino, we will set up the free and open-source software on our laptops (if you bring one) -- Windows, MacOS, or Linux are all fine!</p>
+
+<p class="description">* And then its time to make something and learn how easy it is to use Aruino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your [http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino U-Do-It-Duino]. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.</p>
+
+<p class="description">* Target practice is available after the workshop.</p>
+
+<p class="description">== Summary ==
+<br>     '''What''': [http://arduino.cc/ Arduino] workshop for total newbies, using [http://www.tvbgone.com TV-B-Gone] remote controls as an intro<br>
+<br>     '''When''': TBD<br>
+<br>     '''Who''': Anyone and everyone can have fun learning Arduino. Ages 10 to 100<br>
+<br>     '''Max #''': 10 participants -- <span>'''''This workshop will fill up, so please arrive early!'''''</span><br>
+<br>          <span>''' -- No need to register -- just show up early and get a kit to take the workshop'''</span><br>
+<br>     '''Cost''': Instruction is free!<br>
+<br>          €35 for materials -- includes everything you need to make your [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html Arduino TV-B-Gone]!<br>
+<br>          And you get to bring your [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html Arduino TV-B-Gone] home with you.<br></p>
+
+<p class="description">     '''Instructor''':  [http://en.wikipedia.org/wiki/Mitch_Altman Mitch]</p>
+
+<p class="description">     <span>'''You do not need to register in advance to take this workshop -- just show up early and get a kit.''':</span><br></p>
+
+<p class="description">Bring your laptop if you want to go home with the free Arduino software installed on it.<br> Arduino software runs on Windows, MacOS and Linux.
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/2.html">22.07.2017</a>
+<br>
+<b>Anfang:</b>
+13:30 Uhr
+<br>
+<b>Dauer:</b>
+03:30
+<br>
+<b>Raum:</b>
+Elektronik-Ecke (Hackcenter) #ee
+<br>
+<b>Track:</b>
+<font class="event track-workshop">
+<a href="/events.html#workshop">Workshop</a>
+</font>
+<br>
+<b>Sprache:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/39.ics">iCalendar</a></li>
+<li><a href="http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php">Arduino For Total Newbies</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg" alt="Brainmachineavatar3"></div></td>
+<td><a href="/speakers/32.html">Mitch</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

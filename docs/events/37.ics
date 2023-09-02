@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T180000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170721T150000
+DTSTAMP;VALUE=DATE-TIME:20170719T214406Z
+UID:6e9c7703-13ab-4cc0-8f5a-97bc2aa1ad77@frab.ccczh.ch
+DESCRIPTION:Learn to Solder! A large variety of way cool kits are availab
+ le\, all designed for total beginners to complete successfully -- and in
+ triguing enough for the total hardware geek.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/37
+SUMMARY:Learn to Solder!
+ORGANIZER:zeteco
+LOCATION:zeteco - Elektronik-Ecke (Hackcenter) #ee
+END:VEVENT
+END:VCALENDAR

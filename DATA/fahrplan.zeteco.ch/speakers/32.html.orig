@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/speakers.html">Referenten</a>
+</li>
+<li>
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2 class="title">Referent: Mitch</h2>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg" alt="Brainmachineavatar3"></div>
+<p class="abstract">Inventor of TV-B-Gone, co-founder of Noisebridge, promoter of hackerspaces and open hardware, teaches soldering and electronics.</p>
+<p class="description">Mitch Altman is a San Francisco-based hacker and inventor, best known for inventing TV-B-Gone remote controls, a keychain that turns off TVs in public places.  He was also co-founder of 3ware, a successful Silicon Valley startup in the late 1990s, and did pioneering work in Virtual Reality in the mid-1980s.  He has contributed to MAKE Magazine and other magazines, and wrote a chapter for “Maker Pro”, a book about making a living from projects one loves.  For the last several years Mitch has been giving talks, and leading workshops around the world, teaching people to make cool things with microcontrollers and teaching everyone to solder.  He promotes hackerspaces and open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and is President and CEO of Cornfield Electronics.
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Kontakt</h3>
+<p>
+<b>E-Mail:</b>
+<a replace_at="(at)" replace_dot="(dot)" encode="javascript" href="mailto:mitch@CornfieldElectronics.com">mitch@CornfieldElectronics.com</a>
+</p>
+<h3>Links</h3>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Mitch_Altman">Wikipedia page</a></li>
+<li><a href="http://tedxtalks.ted.com/video/Mitch-Altman-at-TEDxBrussels">TEDxBrussels talk: "The Hackerspace Movement"</a></li>
+</ul>
+</div>
+<div class="column right" id="sidebar">
+<h3>Veranstaltungen auf dieser Konferenz</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/019/small/LAN_Party.jpg" alt="Lan party"></div></td>
+<td><a href="/events/19.html">Hacker Space Design Patterns</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/037/small/HappySolderers.jpg" alt="Happysolderers"></div></td>
+<td><a href="/events/37.html">Learn to Solder!</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/038/small/WelcomeHackers.jpg" alt="Welcomehackers"></div></td>
+<td><a href="/events/38.html">Hacking in China</a></td>
+</tr>
+<tr>
+<td><div class="image small"><img src="/system/events/logos/000/000/039/small/LearnToSolder.jpg" alt="Learntosolder"></div></td>
+<td><a href="/events/39.html">Arduino For Total Newbies</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

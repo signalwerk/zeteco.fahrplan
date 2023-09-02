@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Workshop: Learn to Solder!</h2>
+<h3 class="title">Variety of Cool Kits</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/events/logos/000/000/037/large/HappySolderers.jpg" alt="Happysolderers"></div>
+<p class="abstract">Learn to Solder! A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.</p>
+<p class="description">'''What''': A place to get together to solder stuff!<br>
+<br>       Learn to Solder!<br>
+<br>       You can easily learn all of the skills you need in a short time.<br>
+<br>       Make a project, and take it home with you!<br>
+<br>       If you have your own project (advanced or simple),<br>
+<br>       bring it by, and if you would like help, you can get it!<br>
+<br>'''When''': All day and all night -- Every day of ZeTeCo<br>
+<br>       Most projects take about 1.5 to 2 hours<br>
+<br>'''Who''': You! All ages, all skill levels -- It is fun to make things in together<br>
+<br>       ''Come join us. Everyone is welcome.''<br>
+<br>'''Cost''': Instruction is free! We ask that people pay only for the cost of<br>
+<br>       the parts used -- kit prices range from €10 to €30.<br>
+<br>          <span>''' -- No need to register -- just come on by, any time!'''</span><br></p>
+
+<p class="description">Learn to solder! Mitch Altman will bring kits to make cool, practical, intriguing, hackable things that you can bring home after you make it. Of course, you can also bring your own projects to hack. And if you have anything to fix, bring it by!</p>
+
+<p class="description">Plenty of cool kits are available to make, including:<br>
+<br>* TV-B-Gone (turn off TVs in public places!)<br>
+<br>* Brain Machine (Meditate, Hallucinate, and Trip Out!)<br>
+<br>* Trippy RGB Waves (interactive art blinky lights!)<br>
+<br>* MiniPOV (write your message in the air!)<br>
+<br>* MintyBoost (charge your USB enabled gadgets!)<br>
+<br>* Hello My Name Is... badge (Geeky, blinky version of the sticker!)<br>
+<br>* microcontroller programmers (program all your AVR family chips!)<br>
+<br>* Arduino clones (make just about anything!)<br>
+<br>* ArduTouch Music Synthesizer (make cool noise and music with this Arduino-comaptible kit!)<br>
+<br>* And more!<br></p>
+
+<p class="description">More info on these projects is available at:<br>
+<br>[http://www.CornfieldElectronics.com Cornfield Electronics] (click on the "projects" tab)<br>
+<br>[http://www.adafruit.com/ Adafruit]<br>
+<br>[http://www.evilmadscientist.com/ Evil Mad Scientist]<br>
+<br>[http://analogmachines.com Analog Machines]<br>
+<br>[http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino Samurai Circuits]<br></p>
+
+<p class="description">Anyone can learn to solder!  Even if you have never made anything in your life, you can learn this very useful and enjoyable skill. It really is fun!  Mitch has taught tens of thousands of people to solder all around the world, and he can teach you, too!  Add yourself to the ever increasing community!<br>
+<br><br>
+<br><br>
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/1.html">21.07.2017</a>
+<br>
+<b>Anfang:</b>
+15:00 Uhr
+<br>
+<b>Dauer:</b>
+03:00
+<br>
+<b>Raum:</b>
+Elektronik-Ecke (Hackcenter) #ee
+<br>
+<b>Track:</b>
+<font class="event track-workshop">
+<a href="/events.html#workshop">Workshop</a>
+</font>
+<br>
+<b>Sprache:</b>
+en
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/37.ics">iCalendar</a></li>
+<li><a href="http://cornfieldelectronics.com/cfe/projects.php">Cornfield Electronics</a></li>
+<li><a href="http://www.adafruit.com">Adafruit</a></li>
+<li><a href="http://www.evilmadscientist.com">Evil Mad Scientist</a></li>
+<li><a href="http://analogmachines.com">Analog Machines</a></li>
+<li><a href="http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino">Samurai Circuits</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+<dt>Hackcenter #hc</dt>
+<dd><a href="/events/57.html">Let's Build Nodebots</a></dd>
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg" alt="Brainmachineavatar3"></div></td>
+<td><a href="/speakers/32.html">Mitch</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

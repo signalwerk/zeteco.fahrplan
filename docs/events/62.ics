@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T143000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170722T123000
+DTSTAMP;VALUE=DATE-TIME:20170721T113340Z
+UID:98067bff-4776-44a2-b84c-f78a94d3db1d@frab.ccczh.ch
+DESCRIPTION:OpenJSCAD is a script-only 3D CAD software\, inspired by the 
+ similar OpenSCAD.\nAll manipulation of the 3D object is done through cod
+ e\, not through an user interface.\n\nOpenJSCAD is\, of course\, Free So
+ ftware and runs directly in the browser: <a href="https://openjscad.org/
+ ">OpenJSCAD.org</a>
+URL:https://frab.ccczh.ch/de/zeteco/public/events/62
+SUMMARY:Intro to OpenJSCAD
+ORGANIZER:zeteco
+LOCATION:zeteco - Hackcenter #hc
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/speakers.html">Referenten</a>
+</li>
+<li class="selected">
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2>Vortrag: Termux als Betriebssystem</h2>
+<h3 class="title">Das Linux in der Tasche</h3>
+<div class="column left" id="basic">
+<div class="image large"><img src="/system/events/logos/000/000/059/large/ic_launcher.png" alt="Ic launcher"></div>
+<p class="abstract">Termux ist ein Android App die sowohl Terminal Emulator und Linux Umgebung. Verbunden an einen Laptop kann es als fast vollständiges CLI Betriebssystem genutzt werden. Auch ohne Laptop hat man aber ein mächtiges Linux in der Tasche. </p>
+<p class="description">Termux ist ein Android App die sowohl Terminal Emulator und Linux Umgebung. http://termux.com
+<br>Themen:
+<br>Einführung in Termux
+<br>- Was ist Termux
+<br>- Wo bekomme ich Termux
+<br>- Was kann Termux alles
+<br>- Unterschiede zu "richtigem" Linux
+<br>- Wie kann man Termux als sein Hauptbetriebssystem benutzen
+</p>
+</div>
+<div class="column left" id="details">
+<h3>Info</h3>
+<p>
+<b>Tag:</b>
+<a href="/schedule/2.html">22.07.2017</a>
+<br>
+<b>Anfang:</b>
+13:45 Uhr
+<br>
+<b>Dauer:</b>
+00:30
+<br>
+<b>Raum:</b>
+Tribüne #tr
+<br>
+<b>Track:</b>
+<font class="event track-vortrag">
+<a href="/events.html#vortrag">Vortrag</a>
+</font>
+<br>
+<b>Sprache:</b>
+de
+</p>
+<h3>Links:</h3>
+<ul>
+<li><a href="/events/59.ics">iCalendar</a></li>
+<li><a href="http://termux.com">Termux App</a></li>
+<li><a href="https://termux.com/help.html">Termux Help</a></li>
+<li><a href="https://wiki.termux.com">Termux Wiki</a></li>
+</ul>
+<div class="column left" id="concurrent_events">
+<h3><span class="translation_missing" title="translation missing: de.public.schedule.event.concurrent_events">Concurrent Events</span></h3>
+<dl class="dl-horizontal">
+</dl>
+</div>
+</div>
+<div class="column right" id="sidebar">
+<h3>Referenten</h3>
+<table class="list">
+<tbody>
+<tr>
+<td><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></td>
+<td><a href="/speakers/51.html">glow</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="span16">
+</div>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

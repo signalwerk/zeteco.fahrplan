@@ -1,0 +1,1129 @@
+2023-09-02T00:58:21.207Z START Downloading: https://fahrplan.zeteco.ch/
+2023-09-02T00:58:21.404Z                    END https://fahrplan.zeteco.ch/
+2023-09-02T00:58:22.231Z START processFile:
+2023-09-02T00:58:22.231Z START processFile: https://fahrplan.zeteco.ch/
+2023-09-02T00:58:22.232Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/index.html
+2023-09-02T00:58:22.239Z Append Downloading: https://fahrplan.zeteco.ch/schedule.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.239Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/speakers.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/events.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/qrcode.html (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.pdf (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.pdf (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.240Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.pdf (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.pdf (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule.ics (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule.xcal (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule.xml (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule.json (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/speakers.json (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.241Z Append Downloading: https://fahrplan.zeteco.ch/style.css (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:22.242Z Append Downloading: https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css (from https://fahrplan.zeteco.ch/)
+2023-09-02T00:58:23.233Z START Downloading: https://fahrplan.zeteco.ch/schedule.html
+2023-09-02T00:58:23.298Z                    END https://fahrplan.zeteco.ch/schedule.html
+2023-09-02T00:58:23.299Z START Downloading: https://fahrplan.zeteco.ch/schedule/1.html
+2023-09-02T00:58:23.382Z                    END https://fahrplan.zeteco.ch/schedule/1.html
+2023-09-02T00:58:23.382Z START Downloading: https://fahrplan.zeteco.ch/schedule/2.html
+2023-09-02T00:58:23.471Z                    END https://fahrplan.zeteco.ch/schedule/2.html
+2023-09-02T00:58:23.472Z START Downloading: https://fahrplan.zeteco.ch/schedule/3.html
+2023-09-02T00:58:23.555Z                    END https://fahrplan.zeteco.ch/schedule/3.html
+2023-09-02T00:58:23.556Z START Downloading: https://fahrplan.zeteco.ch/schedule/4.html
+2023-09-02T00:58:23.630Z                    END https://fahrplan.zeteco.ch/schedule/4.html
+2023-09-02T00:58:23.631Z START Downloading: https://fahrplan.zeteco.ch/speakers.html
+2023-09-02T00:58:23.701Z                    END https://fahrplan.zeteco.ch/speakers.html
+2023-09-02T00:58:23.702Z START Downloading: https://fahrplan.zeteco.ch/events.html
+2023-09-02T00:58:23.779Z                    END https://fahrplan.zeteco.ch/events.html
+2023-09-02T00:58:23.780Z START Downloading: https://fahrplan.zeteco.ch/qrcode.html
+2023-09-02T00:58:23.847Z                    ERROR https://fahrplan.zeteco.ch/qrcode.html
+2023-09-02T00:58:23.848Z Failed to download https://fahrplan.zeteco.ch/qrcode.html: Request failed with status code 404
+2023-09-02T00:58:23.852Z START Downloading: https://fahrplan.zeteco.ch/schedule/1.pdf
+2023-09-02T00:58:23.927Z                    END https://fahrplan.zeteco.ch/schedule/1.pdf
+2023-09-02T00:58:23.969Z START Downloading: https://fahrplan.zeteco.ch/schedule/2.pdf
+2023-09-02T00:58:24.051Z                    END https://fahrplan.zeteco.ch/schedule/2.pdf
+2023-09-02T00:58:24.106Z START Downloading: https://fahrplan.zeteco.ch/schedule/3.pdf
+2023-09-02T00:58:24.191Z                    END https://fahrplan.zeteco.ch/schedule/3.pdf
+2023-09-02T00:58:24.233Z START Downloading: https://fahrplan.zeteco.ch/schedule/4.pdf
+2023-09-02T00:58:24.234Z START Downloading: https://fahrplan.zeteco.ch/schedule.ics
+2023-09-02T00:58:24.235Z START processFile:
+2023-09-02T00:58:24.235Z START processFile: https://fahrplan.zeteco.ch/schedule.html
+2023-09-02T00:58:24.235Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule.html
+2023-09-02T00:58:24.237Z Append Downloading: https://fahrplan.zeteco.ch/schedule.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.237Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/speakers.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/events.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/qrcode.html (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.pdf (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.pdf (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.pdf (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.pdf (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.238Z Append Downloading: https://fahrplan.zeteco.ch/schedule.ics (from https://fahrplan.zeteco.ch/schedule.html)
+2023-09-02T00:58:24.239Z START processFile:
+2023-09-02T00:58:24.239Z START processFile: https://fahrplan.zeteco.ch/schedule/1.html
+2023-09-02T00:58:24.239Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/1.html
+2023-09-02T00:58:24.252Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.html#0 (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.252Z Append Downloading: https://fahrplan.zeteco.ch/events/1.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/70.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/46.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/64.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/9.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/72.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/57.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/49.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/37.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/32.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/69.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/60.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/52.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/48.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/speakers/40.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/84.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/19.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.253Z Append Downloading: https://fahrplan.zeteco.ch/events/90.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/speakers/61.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/events/43.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/speakers/34.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/events/74.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/speakers/56.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.254Z Append Downloading: https://fahrplan.zeteco.ch/events/40.html (from https://fahrplan.zeteco.ch/schedule/1.html)
+2023-09-02T00:58:24.259Z START processFile:
+2023-09-02T00:58:24.259Z START processFile: https://fahrplan.zeteco.ch/schedule/2.html
+2023-09-02T00:58:24.259Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/2.html
+2023-09-02T00:58:24.267Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.html#0 (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/62.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/speakers/50.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/61.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/67.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/78.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/39.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/59.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/speakers/51.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/87.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/speakers/47.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/88.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/58.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/63.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/speakers/53.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/47.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/75.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/89.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/94.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.268Z Append Downloading: https://fahrplan.zeteco.ch/events/86.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.269Z Append Downloading: https://fahrplan.zeteco.ch/events/68.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.269Z Append Downloading: https://fahrplan.zeteco.ch/events/41.html (from https://fahrplan.zeteco.ch/schedule/2.html)
+2023-09-02T00:58:24.271Z START processFile:
+2023-09-02T00:58:24.271Z START processFile: https://fahrplan.zeteco.ch/schedule/3.html
+2023-09-02T00:58:24.271Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/3.html
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.html#0 (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/79.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/46.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/speakers/38.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/92.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/36.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/speakers/12.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/66.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/speakers/54.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/49.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/speakers/43.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/81.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/56.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.279Z Append Downloading: https://fahrplan.zeteco.ch/events/38.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/85.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/speakers/59.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/96.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/95.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/93.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/83.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/73.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.280Z Append Downloading: https://fahrplan.zeteco.ch/events/42.html (from https://fahrplan.zeteco.ch/schedule/3.html)
+2023-09-02T00:58:24.282Z START processFile:
+2023-09-02T00:58:24.282Z START processFile: https://fahrplan.zeteco.ch/schedule/4.html
+2023-09-02T00:58:24.282Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/schedule/4.html
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.html#0 (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/events/80.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/events/71.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/events/15.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/speakers/17.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/events/25.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.286Z Append Downloading: https://fahrplan.zeteco.ch/events/2.html (from https://fahrplan.zeteco.ch/schedule/4.html)
+2023-09-02T00:58:24.287Z START processFile:
+2023-09-02T00:58:24.287Z START processFile: https://fahrplan.zeteco.ch/speakers.html
+2023-09-02T00:58:24.287Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers.html
+2023-09-02T00:58:24.289Z Append Downloading: https://fahrplan.zeteco.ch/speakers/58.html (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.289Z Append Downloading: https://fahrplan.zeteco.ch/events/82.html (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.290Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png (from https://fahrplan.zeteco.ch/speakers.html)
+2023-09-02T00:58:24.293Z START processFile:
+2023-09-02T00:58:24.293Z START processFile: https://fahrplan.zeteco.ch/events.html
+2023-09-02T00:58:24.293Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events.html
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#vortrag (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#spiel%20und%20sport (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#workshop (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#essen (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#lounge (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#zeteco%20orga (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.305Z Append Downloading: https://fahrplan.zeteco.ch/events.html#unterhaltung (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.306Z Append Downloading: https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.307Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.308Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png (from https://fahrplan.zeteco.ch/events.html)
+2023-09-02T00:58:24.335Z                    END https://fahrplan.zeteco.ch/schedule/4.pdf
+2023-09-02T00:58:24.336Z                    END https://fahrplan.zeteco.ch/schedule.ics
+2023-09-02T00:58:24.337Z START Downloading: https://fahrplan.zeteco.ch/schedule.xcal
+2023-09-02T00:58:24.359Z START Downloading: https://fahrplan.zeteco.ch/schedule.xml
+2023-09-02T00:58:24.417Z                    END https://fahrplan.zeteco.ch/schedule.xcal
+2023-09-02T00:58:24.459Z                    END https://fahrplan.zeteco.ch/schedule.xml
+2023-09-02T00:58:24.463Z START Downloading: https://fahrplan.zeteco.ch/schedule.json
+2023-09-02T00:58:24.493Z START Downloading: https://fahrplan.zeteco.ch/speakers.json
+2023-09-02T00:58:24.551Z                    END https://fahrplan.zeteco.ch/schedule.json
+2023-09-02T00:58:24.566Z                    END https://fahrplan.zeteco.ch/speakers.json
+2023-09-02T00:58:24.568Z START Downloading: https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css
+2023-09-02T00:58:24.572Z START Downloading: https://fahrplan.zeteco.ch/style.css
+2023-09-02T00:58:24.667Z                    END https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css
+2023-09-02T00:58:24.668Z                    END https://fahrplan.zeteco.ch/style.css
+2023-09-02T00:58:24.669Z START Downloading: https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css
+2023-09-02T00:58:24.670Z START Downloading: https://fahrplan.zeteco.ch/events/1.html
+2023-09-02T00:58:24.739Z                    END https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css
+2023-09-02T00:58:24.740Z START Downloading: https://fahrplan.zeteco.ch/events/70.html
+2023-09-02T00:58:24.745Z                    END https://fahrplan.zeteco.ch/events/1.html
+2023-09-02T00:58:24.746Z START Downloading: https://fahrplan.zeteco.ch/speakers/46.html
+2023-09-02T00:58:24.807Z                    END https://fahrplan.zeteco.ch/speakers/46.html
+2023-09-02T00:58:24.808Z                    END https://fahrplan.zeteco.ch/events/70.html
+2023-09-02T00:58:24.808Z START Downloading: https://fahrplan.zeteco.ch/events/64.html
+2023-09-02T00:58:24.809Z START Downloading: https://fahrplan.zeteco.ch/speakers/9.html
+2023-09-02T00:58:24.870Z                    END https://fahrplan.zeteco.ch/events/64.html
+2023-09-02T00:58:24.871Z                    END https://fahrplan.zeteco.ch/speakers/9.html
+2023-09-02T00:58:24.871Z START Downloading: https://fahrplan.zeteco.ch/events/72.html
+2023-09-02T00:58:24.872Z START Downloading: https://fahrplan.zeteco.ch/events/57.html
+2023-09-02T00:58:24.934Z                    END https://fahrplan.zeteco.ch/events/72.html
+2023-09-02T00:58:24.936Z START Downloading: https://fahrplan.zeteco.ch/speakers/49.html
+2023-09-02T00:58:24.936Z                    END https://fahrplan.zeteco.ch/events/57.html
+2023-09-02T00:58:24.937Z START Downloading: https://fahrplan.zeteco.ch/events/37.html
+2023-09-02T00:58:25.002Z                    END https://fahrplan.zeteco.ch/events/37.html
+2023-09-02T00:58:25.003Z                    END https://fahrplan.zeteco.ch/speakers/49.html
+2023-09-02T00:58:25.004Z START Downloading: https://fahrplan.zeteco.ch/speakers/32.html
+2023-09-02T00:58:25.004Z START Downloading: https://fahrplan.zeteco.ch/events/69.html
+2023-09-02T00:58:25.066Z                    END https://fahrplan.zeteco.ch/speakers/32.html
+2023-09-02T00:58:25.067Z                    END https://fahrplan.zeteco.ch/events/69.html
+2023-09-02T00:58:25.067Z START Downloading: https://fahrplan.zeteco.ch/events/60.html
+2023-09-02T00:58:25.068Z START Downloading: https://fahrplan.zeteco.ch/speakers/52.html
+2023-09-02T00:58:25.132Z                    END https://fahrplan.zeteco.ch/speakers/52.html
+2023-09-02T00:58:25.133Z START Downloading: https://fahrplan.zeteco.ch/events/48.html
+2023-09-02T00:58:25.134Z                    END https://fahrplan.zeteco.ch/events/60.html
+2023-09-02T00:58:25.135Z START Downloading: https://fahrplan.zeteco.ch/speakers/40.html
+2023-09-02T00:58:25.196Z                    END https://fahrplan.zeteco.ch/speakers/40.html
+2023-09-02T00:58:25.197Z START Downloading: https://fahrplan.zeteco.ch/events/84.html
+2023-09-02T00:58:25.205Z                    END https://fahrplan.zeteco.ch/events/48.html
+2023-09-02T00:58:25.206Z START Downloading: https://fahrplan.zeteco.ch/events/19.html
+2023-09-02T00:58:25.236Z START Downloading: https://fahrplan.zeteco.ch/events/90.html
+2023-09-02T00:58:25.237Z START processFile:
+2023-09-02T00:58:25.237Z START processFile: https://fahrplan.zeteco.ch/events/1.html
+2023-09-02T00:58:25.237Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/1.html
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule/1.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule/2.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule/3.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/schedule/4.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/speakers.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/events.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/qrcode.html (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/events/1.ics (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/style.css (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.241Z Append Downloading: https://fahrplan.zeteco.ch/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css (from https://fahrplan.zeteco.ch/events/1.html)
+2023-09-02T00:58:25.242Z START processFile:
+2023-09-02T00:58:25.242Z START processFile: https://fahrplan.zeteco.ch/speakers/46.html
+2023-09-02T00:58:25.242Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/46.html
+2023-09-02T00:58:25.244Z Append Downloading: https://b76.ch/about (from https://fahrplan.zeteco.ch/speakers/46.html)
+2023-09-02T00:58:25.244Z Append Downloading: https://fahrplan.zeteco.ch/events/69.html (from https://fahrplan.zeteco.ch/speakers/46.html)
+2023-09-02T00:58:25.244Z Append Downloading: https://fahrplan.zeteco.ch/events/70.html (from https://fahrplan.zeteco.ch/speakers/46.html)
+2023-09-02T00:58:25.244Z Append Downloading: https://fahrplan.zeteco.ch/events/72.html (from https://fahrplan.zeteco.ch/speakers/46.html)
+2023-09-02T00:58:25.244Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png (from https://fahrplan.zeteco.ch/speakers/46.html)
+2023-09-02T00:58:25.245Z START processFile:
+2023-09-02T00:58:25.245Z START processFile: https://fahrplan.zeteco.ch/events/70.html
+2023-09-02T00:58:25.245Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/70.html
+2023-09-02T00:58:25.246Z Append Downloading: https://fahrplan.zeteco.ch/events/70.ics (from https://fahrplan.zeteco.ch/events/70.html)
+2023-09-02T00:58:25.246Z Append Downloading: https://b76.ch/9637 (from https://fahrplan.zeteco.ch/events/70.html)
+2023-09-02T00:58:25.246Z Append Downloading: https://fahrplan.zeteco.ch/speakers/46.html (from https://fahrplan.zeteco.ch/events/70.html)
+2023-09-02T00:58:25.246Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png (from https://fahrplan.zeteco.ch/events/70.html)
+2023-09-02T00:58:25.247Z START processFile:
+2023-09-02T00:58:25.247Z START processFile: https://fahrplan.zeteco.ch/events/64.html
+2023-09-02T00:58:25.247Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/64.html
+2023-09-02T00:58:25.248Z Append Downloading: https://fahrplan.zeteco.ch/events/64.ics (from https://fahrplan.zeteco.ch/events/64.html)
+2023-09-02T00:58:25.248Z Append Downloading: http://badge.zeteco.ch/ (from https://fahrplan.zeteco.ch/events/64.html)
+2023-09-02T00:58:25.248Z Append Downloading: https://fahrplan.zeteco.ch/speakers/9.html (from https://fahrplan.zeteco.ch/events/64.html)
+2023-09-02T00:58:25.248Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png (from https://fahrplan.zeteco.ch/events/64.html)
+2023-09-02T00:58:25.249Z START processFile:
+2023-09-02T00:58:25.249Z START processFile: https://fahrplan.zeteco.ch/speakers/9.html
+2023-09-02T00:58:25.249Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/9.html
+2023-09-02T00:58:25.250Z Append Downloading: mailto:bluetonyum@gmail.com (from https://fahrplan.zeteco.ch/speakers/9.html)
+2023-09-02T00:58:25.250Z Append Downloading: https://www.facebook.com/groups/32995461009/ (from https://fahrplan.zeteco.ch/speakers/9.html)
+2023-09-02T00:58:25.250Z Append Downloading: https://fahrplan.zeteco.ch/events/64.html (from https://fahrplan.zeteco.ch/speakers/9.html)
+2023-09-02T00:58:25.250Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg (from https://fahrplan.zeteco.ch/speakers/9.html)
+2023-09-02T00:58:25.251Z START processFile:
+2023-09-02T00:58:25.251Z START processFile: https://fahrplan.zeteco.ch/events/72.html
+2023-09-02T00:58:25.251Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/72.html
+2023-09-02T00:58:25.253Z Append Downloading: https://fahrplan.zeteco.ch/events/72.ics (from https://fahrplan.zeteco.ch/events/72.html)
+2023-09-02T00:58:25.253Z Append Downloading: https://b76.ch/9648 (from https://fahrplan.zeteco.ch/events/72.html)
+2023-09-02T00:58:25.253Z Append Downloading: https://youtu.be/oLBv_uM56Kw (from https://fahrplan.zeteco.ch/events/72.html)
+2023-09-02T00:58:25.253Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png (from https://fahrplan.zeteco.ch/events/72.html)
+2023-09-02T00:58:25.254Z START processFile:
+2023-09-02T00:58:25.254Z START processFile: https://fahrplan.zeteco.ch/events/57.html
+2023-09-02T00:58:25.254Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/57.html
+2023-09-02T00:58:25.256Z Append Downloading: https://fahrplan.zeteco.ch/events/57.ics (from https://fahrplan.zeteco.ch/events/57.html)
+2023-09-02T00:58:25.256Z Append Downloading: https://fahrplan.zeteco.ch/events/www.nodebots.ch (from https://fahrplan.zeteco.ch/events/57.html)
+2023-09-02T00:58:25.256Z Append Downloading: https://fahrplan.zeteco.ch/events/37.html (from https://fahrplan.zeteco.ch/events/57.html)
+2023-09-02T00:58:25.256Z Append Downloading: https://fahrplan.zeteco.ch/speakers/49.html (from https://fahrplan.zeteco.ch/events/57.html)
+2023-09-02T00:58:25.256Z Append Downloading: https://fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png (from https://fahrplan.zeteco.ch/events/57.html)
+2023-09-02T00:58:25.256Z START processFile:
+2023-09-02T00:58:25.256Z START processFile: https://fahrplan.zeteco.ch/events/37.html
+2023-09-02T00:58:25.256Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/37.html
+2023-09-02T00:58:25.260Z Append Downloading: https://fahrplan.zeteco.ch/events/37.ics (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: http://cornfieldelectronics.com/cfe/projects.php (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: http://www.adafruit.com/ (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: http://www.evilmadscientist.com/ (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: http://analogmachines.com/ (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: https://fahrplan.zeteco.ch/events/57.html (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: https://fahrplan.zeteco.ch/speakers/32.html (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.261Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg (from https://fahrplan.zeteco.ch/events/37.html)
+2023-09-02T00:58:25.262Z START processFile:
+2023-09-02T00:58:25.262Z START processFile: https://fahrplan.zeteco.ch/speakers/49.html
+2023-09-02T00:58:25.262Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/49.html
+2023-09-02T00:58:25.263Z                    END https://fahrplan.zeteco.ch/events/84.html
+2023-09-02T00:58:25.264Z Append Downloading: mailto:tomcat@inorbit.ch (from https://fahrplan.zeteco.ch/speakers/49.html)
+2023-09-02T00:58:25.264Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg (from https://fahrplan.zeteco.ch/speakers/49.html)
+2023-09-02T00:58:25.265Z START processFile:
+2023-09-02T00:58:25.265Z START processFile: https://fahrplan.zeteco.ch/speakers/32.html
+2023-09-02T00:58:25.265Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/32.html
+2023-09-02T00:58:25.267Z Append Downloading: mailto:mitch@CornfieldElectronics.com (from https://fahrplan.zeteco.ch/speakers/32.html)
+2023-09-02T00:58:25.267Z Append Downloading: http://en.wikipedia.org/wiki/Mitch_Altman (from https://fahrplan.zeteco.ch/speakers/32.html)
+2023-09-02T00:58:25.267Z Append Downloading: http://tedxtalks.ted.com/video/Mitch-Altman-at-TEDxBrussels (from https://fahrplan.zeteco.ch/speakers/32.html)
+2023-09-02T00:58:25.267Z Append Downloading: https://fahrplan.zeteco.ch/events/19.html (from https://fahrplan.zeteco.ch/speakers/32.html)
+2023-09-02T00:58:25.267Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg (from https://fahrplan.zeteco.ch/speakers/32.html)
+2023-09-02T00:58:25.268Z START processFile:
+2023-09-02T00:58:25.268Z START processFile: https://fahrplan.zeteco.ch/events/69.html
+2023-09-02T00:58:25.268Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/69.html
+2023-09-02T00:58:25.268Z START Downloading: https://fahrplan.zeteco.ch/speakers/61.html
+2023-09-02T00:58:25.269Z Append Downloading: https://fahrplan.zeteco.ch/events/69.ics (from https://fahrplan.zeteco.ch/events/69.html)
+2023-09-02T00:58:25.269Z Append Downloading: https://b76.ch/9640 (from https://fahrplan.zeteco.ch/events/69.html)
+2023-09-02T00:58:25.269Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg (from https://fahrplan.zeteco.ch/events/69.html)
+2023-09-02T00:58:25.270Z START processFile:
+2023-09-02T00:58:25.270Z START processFile: https://fahrplan.zeteco.ch/speakers/52.html
+2023-09-02T00:58:25.270Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/52.html
+2023-09-02T00:58:25.271Z Append Downloading: mailto:thorsten.sick@email.de (from https://fahrplan.zeteco.ch/speakers/52.html)
+2023-09-02T00:58:25.271Z Append Downloading: https://fahrplan.zeteco.ch/events/60.html (from https://fahrplan.zeteco.ch/speakers/52.html)
+2023-09-02T00:58:25.271Z Append Downloading: https://fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png (from https://fahrplan.zeteco.ch/speakers/52.html)
+2023-09-02T00:58:25.272Z START processFile:
+2023-09-02T00:58:25.272Z START processFile: https://fahrplan.zeteco.ch/events/60.html
+2023-09-02T00:58:25.272Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/60.html
+2023-09-02T00:58:25.273Z Append Downloading: https://fahrplan.zeteco.ch/events/60.ics (from https://fahrplan.zeteco.ch/events/60.html)
+2023-09-02T00:58:25.273Z Append Downloading: https://fahrplan.zeteco.ch/speakers/52.html (from https://fahrplan.zeteco.ch/events/60.html)
+2023-09-02T00:58:25.274Z START processFile:
+2023-09-02T00:58:25.274Z START processFile: https://fahrplan.zeteco.ch/speakers/40.html
+2023-09-02T00:58:25.274Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/40.html
+2023-09-02T00:58:25.274Z                    END https://fahrplan.zeteco.ch/events/19.html
+2023-09-02T00:58:25.276Z Append Downloading: mailto:l3d@see-base.de (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.276Z Append Downloading: https://ffbsee.de/ (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.276Z Append Downloading: https://see-base.de/ (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.276Z Append Downloading: https://toolbox-bodensee.de/ (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.276Z Append Downloading: https://fahrplan.zeteco.ch/events/48.html (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.276Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png (from https://fahrplan.zeteco.ch/speakers/40.html)
+2023-09-02T00:58:25.277Z START processFile:
+2023-09-02T00:58:25.277Z START processFile: https://fahrplan.zeteco.ch/events/48.html
+2023-09-02T00:58:25.277Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/48.html
+2023-09-02T00:58:25.277Z START Downloading: https://fahrplan.zeteco.ch/events/43.html
+2023-09-02T00:58:25.279Z Append Downloading: https://fahrplan.zeteco.ch/events/48.ics (from https://fahrplan.zeteco.ch/events/48.html)
+2023-09-02T00:58:25.279Z Append Downloading: https://fahrplan.zeteco.ch/speakers/40.html (from https://fahrplan.zeteco.ch/events/48.html)
+2023-09-02T00:58:25.279Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe (from https://fahrplan.zeteco.ch/events/48.html)
+2023-09-02T00:58:25.279Z START processFile:
+2023-09-02T00:58:25.279Z START processFile: https://fahrplan.zeteco.ch/events/84.html
+2023-09-02T00:58:25.279Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/84.html
+2023-09-02T00:58:25.280Z Append Downloading: https://fahrplan.zeteco.ch/events/84.ics (from https://fahrplan.zeteco.ch/events/84.html)
+2023-09-02T00:58:25.281Z START processFile:
+2023-09-02T00:58:25.281Z START processFile: https://fahrplan.zeteco.ch/events/19.html
+2023-09-02T00:58:25.281Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/19.html
+2023-09-02T00:58:25.282Z Append Downloading: https://fahrplan.zeteco.ch/events/19.ics (from https://fahrplan.zeteco.ch/events/19.html)
+2023-09-02T00:58:25.282Z Append Downloading: https://fahrplan.zeteco.ch/events/90.html (from https://fahrplan.zeteco.ch/events/19.html)
+2023-09-02T00:58:25.282Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg (from https://fahrplan.zeteco.ch/events/19.html)
+2023-09-02T00:58:25.305Z                    END https://fahrplan.zeteco.ch/events/90.html
+2023-09-02T00:58:25.307Z START Downloading: https://fahrplan.zeteco.ch/speakers/34.html
+2023-09-02T00:58:25.338Z                    END https://fahrplan.zeteco.ch/speakers/61.html
+2023-09-02T00:58:25.339Z START Downloading: https://fahrplan.zeteco.ch/events/74.html
+2023-09-02T00:58:25.346Z                    END https://fahrplan.zeteco.ch/events/43.html
+2023-09-02T00:58:25.347Z START Downloading: https://fahrplan.zeteco.ch/speakers/56.html
+2023-09-02T00:58:25.363Z                    END https://fahrplan.zeteco.ch/speakers/34.html
+2023-09-02T00:58:25.364Z START Downloading: https://fahrplan.zeteco.ch/events/40.html
+2023-09-02T00:58:25.404Z                    END https://fahrplan.zeteco.ch/events/74.html
+2023-09-02T00:58:25.405Z START Downloading: https://fahrplan.zeteco.ch/events/62.html
+2023-09-02T00:58:25.411Z                    END https://fahrplan.zeteco.ch/speakers/56.html
+2023-09-02T00:58:25.413Z START Downloading: https://fahrplan.zeteco.ch/speakers/50.html
+2023-09-02T00:58:25.429Z                    END https://fahrplan.zeteco.ch/events/40.html
+2023-09-02T00:58:25.430Z START Downloading: https://fahrplan.zeteco.ch/events/61.html
+2023-09-02T00:58:25.498Z                    END https://fahrplan.zeteco.ch/events/62.html
+2023-09-02T00:58:25.499Z                    END https://fahrplan.zeteco.ch/speakers/50.html
+2023-09-02T00:58:25.500Z START Downloading: https://fahrplan.zeteco.ch/events/67.html
+2023-09-02T00:58:25.501Z START Downloading: https://fahrplan.zeteco.ch/events/78.html
+2023-09-02T00:58:25.505Z                    END https://fahrplan.zeteco.ch/events/61.html
+2023-09-02T00:58:25.506Z START Downloading: https://fahrplan.zeteco.ch/events/39.html
+2023-09-02T00:58:25.570Z                    END https://fahrplan.zeteco.ch/events/67.html
+2023-09-02T00:58:25.571Z                    END https://fahrplan.zeteco.ch/events/39.html
+2023-09-02T00:58:25.571Z                    END https://fahrplan.zeteco.ch/events/78.html
+2023-09-02T00:58:25.572Z START Downloading: https://fahrplan.zeteco.ch/events/59.html
+2023-09-02T00:58:25.573Z START Downloading: https://fahrplan.zeteco.ch/speakers/51.html
+2023-09-02T00:58:25.574Z START Downloading: https://fahrplan.zeteco.ch/events/87.html
+2023-09-02T00:58:25.632Z                    END https://fahrplan.zeteco.ch/speakers/51.html
+2023-09-02T00:58:25.633Z START Downloading: https://fahrplan.zeteco.ch/speakers/47.html
+2023-09-02T00:58:25.643Z                    END https://fahrplan.zeteco.ch/events/59.html
+2023-09-02T00:58:25.644Z START Downloading: https://fahrplan.zeteco.ch/events/88.html
+2023-09-02T00:58:25.650Z                    END https://fahrplan.zeteco.ch/events/87.html
+2023-09-02T00:58:25.650Z START Downloading: https://fahrplan.zeteco.ch/events/58.html
+2023-09-02T00:58:25.698Z                    END https://fahrplan.zeteco.ch/events/88.html
+2023-09-02T00:58:25.699Z                    END https://fahrplan.zeteco.ch/speakers/47.html
+2023-09-02T00:58:25.699Z START Downloading: https://fahrplan.zeteco.ch/events/63.html
+2023-09-02T00:58:25.700Z START Downloading: https://fahrplan.zeteco.ch/speakers/53.html
+2023-09-02T00:58:25.731Z                    END https://fahrplan.zeteco.ch/events/58.html
+2023-09-02T00:58:25.732Z START Downloading: https://fahrplan.zeteco.ch/events/47.html
+2023-09-02T00:58:25.771Z                    END https://fahrplan.zeteco.ch/events/63.html
+2023-09-02T00:58:25.771Z                    END https://fahrplan.zeteco.ch/speakers/53.html
+2023-09-02T00:58:25.772Z START Downloading: https://fahrplan.zeteco.ch/events/75.html
+2023-09-02T00:58:25.773Z START Downloading: https://fahrplan.zeteco.ch/events/89.html
+2023-09-02T00:58:25.797Z                    END https://fahrplan.zeteco.ch/events/47.html
+2023-09-02T00:58:25.798Z START Downloading: https://fahrplan.zeteco.ch/events/94.html
+2023-09-02T00:58:25.834Z                    END https://fahrplan.zeteco.ch/events/89.html
+2023-09-02T00:58:25.835Z START Downloading: https://fahrplan.zeteco.ch/events/86.html
+2023-09-02T00:58:25.840Z                    END https://fahrplan.zeteco.ch/events/75.html
+2023-09-02T00:58:25.841Z START Downloading: https://fahrplan.zeteco.ch/events/68.html
+2023-09-02T00:58:25.866Z                    END https://fahrplan.zeteco.ch/events/94.html
+2023-09-02T00:58:25.867Z START Downloading: https://fahrplan.zeteco.ch/events/41.html
+2023-09-02T00:58:25.905Z                    END https://fahrplan.zeteco.ch/events/86.html
+2023-09-02T00:58:25.907Z START Downloading: https://fahrplan.zeteco.ch/events/79.html
+2023-09-02T00:58:25.926Z                    END https://fahrplan.zeteco.ch/events/68.html
+2023-09-02T00:58:25.927Z START Downloading: https://fahrplan.zeteco.ch/events/46.html
+2023-09-02T00:58:25.930Z                    END https://fahrplan.zeteco.ch/events/41.html
+2023-09-02T00:58:25.932Z START Downloading: https://fahrplan.zeteco.ch/speakers/38.html
+2023-09-02T00:58:25.975Z                    END https://fahrplan.zeteco.ch/events/79.html
+2023-09-02T00:58:25.976Z START Downloading: https://fahrplan.zeteco.ch/events/92.html
+2023-09-02T00:58:25.997Z                    END https://fahrplan.zeteco.ch/speakers/38.html
+2023-09-02T00:58:25.998Z START Downloading: https://fahrplan.zeteco.ch/events/36.html
+2023-09-02T00:58:26.003Z                    END https://fahrplan.zeteco.ch/events/46.html
+2023-09-02T00:58:26.004Z START Downloading: https://fahrplan.zeteco.ch/speakers/12.html
+2023-09-02T00:58:26.038Z                    END https://fahrplan.zeteco.ch/events/92.html
+2023-09-02T00:58:26.039Z START Downloading: https://fahrplan.zeteco.ch/events/66.html
+2023-09-02T00:58:26.070Z                    END https://fahrplan.zeteco.ch/events/36.html
+2023-09-02T00:58:26.071Z START Downloading: https://fahrplan.zeteco.ch/speakers/54.html
+2023-09-02T00:58:26.077Z                    END https://fahrplan.zeteco.ch/speakers/12.html
+2023-09-02T00:58:26.077Z START Downloading: https://fahrplan.zeteco.ch/events/49.html
+2023-09-02T00:58:26.096Z                    END https://fahrplan.zeteco.ch/events/66.html
+2023-09-02T00:58:26.097Z START Downloading: https://fahrplan.zeteco.ch/speakers/43.html
+2023-09-02T00:58:26.139Z                    END https://fahrplan.zeteco.ch/speakers/54.html
+2023-09-02T00:58:26.140Z START Downloading: https://fahrplan.zeteco.ch/events/81.html
+2023-09-02T00:58:26.180Z                    END https://fahrplan.zeteco.ch/events/49.html
+2023-09-02T00:58:26.181Z START Downloading: https://fahrplan.zeteco.ch/events/56.html
+2023-09-02T00:58:26.182Z                    END https://fahrplan.zeteco.ch/speakers/43.html
+2023-09-02T00:58:26.183Z START Downloading: https://fahrplan.zeteco.ch/events/38.html
+2023-09-02T00:58:26.200Z                    END https://fahrplan.zeteco.ch/events/81.html
+2023-09-02T00:58:26.200Z START Downloading: https://fahrplan.zeteco.ch/events/85.html
+2023-09-02T00:58:26.238Z START Downloading: https://fahrplan.zeteco.ch/speakers/59.html
+2023-09-02T00:58:26.238Z START processFile:
+2023-09-02T00:58:26.239Z START processFile: https://fahrplan.zeteco.ch/events/90.html
+2023-09-02T00:58:26.239Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/90.html
+2023-09-02T00:58:26.239Z Append Downloading: https://fahrplan.zeteco.ch/events/90.ics (from https://fahrplan.zeteco.ch/events/90.html)
+2023-09-02T00:58:26.239Z Append Downloading: https://www.holy-crepe.ch/ (from https://fahrplan.zeteco.ch/events/90.html)
+2023-09-02T00:58:26.239Z Append Downloading: https://fahrplan.zeteco.ch/speakers/61.html (from https://fahrplan.zeteco.ch/events/90.html)
+2023-09-02T00:58:26.240Z START processFile:
+2023-09-02T00:58:26.240Z START processFile: https://fahrplan.zeteco.ch/speakers/61.html
+2023-09-02T00:58:26.240Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/61.html
+2023-09-02T00:58:26.241Z Append Downloading: mailto:bluetonyum@hotmail.com (from https://fahrplan.zeteco.ch/speakers/61.html)
+2023-09-02T00:58:26.241Z Append Downloading: https://fahrplan.zeteco.ch/events/67.html (from https://fahrplan.zeteco.ch/speakers/61.html)
+2023-09-02T00:58:26.241Z Append Downloading: https://fahrplan.zeteco.ch/events/92.html (from https://fahrplan.zeteco.ch/speakers/61.html)
+2023-09-02T00:58:26.242Z START processFile:
+2023-09-02T00:58:26.242Z START processFile: https://fahrplan.zeteco.ch/events/43.html
+2023-09-02T00:58:26.242Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/43.html
+2023-09-02T00:58:26.243Z Append Downloading: https://fahrplan.zeteco.ch/events/43.ics (from https://fahrplan.zeteco.ch/events/43.html)
+2023-09-02T00:58:26.243Z Append Downloading: https://fahrplan.zeteco.ch/events/74.html (from https://fahrplan.zeteco.ch/events/43.html)
+2023-09-02T00:58:26.243Z Append Downloading: https://fahrplan.zeteco.ch/speakers/34.html (from https://fahrplan.zeteco.ch/events/43.html)
+2023-09-02T00:58:26.243Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif (from https://fahrplan.zeteco.ch/events/43.html)
+2023-09-02T00:58:26.244Z START processFile:
+2023-09-02T00:58:26.244Z START processFile: https://fahrplan.zeteco.ch/speakers/34.html
+2023-09-02T00:58:26.244Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/34.html
+2023-09-02T00:58:26.246Z Append Downloading: mailto:kr0l@see-base.de (from https://fahrplan.zeteco.ch/speakers/34.html)
+2023-09-02T00:58:26.246Z Append Downloading: https://fahrplan.zeteco.ch/events/40.html (from https://fahrplan.zeteco.ch/speakers/34.html)
+2023-09-02T00:58:26.246Z Append Downloading: https://fahrplan.zeteco.ch/events/41.html (from https://fahrplan.zeteco.ch/speakers/34.html)
+2023-09-02T00:58:26.246Z Append Downloading: https://fahrplan.zeteco.ch/events/43.html (from https://fahrplan.zeteco.ch/speakers/34.html)
+2023-09-02T00:58:26.248Z START processFile:
+2023-09-02T00:58:26.248Z START processFile: https://fahrplan.zeteco.ch/events/74.html
+2023-09-02T00:58:26.248Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/74.html
+2023-09-02T00:58:26.250Z                    END https://fahrplan.zeteco.ch/events/56.html
+2023-09-02T00:58:26.251Z                    END https://fahrplan.zeteco.ch/events/38.html
+2023-09-02T00:58:26.252Z Append Downloading: https://fahrplan.zeteco.ch/events/74.ics (from https://fahrplan.zeteco.ch/events/74.html)
+2023-09-02T00:58:26.252Z Append Downloading: https://fahrplan.zeteco.ch/events/www.flipfloater.net (from https://fahrplan.zeteco.ch/events/74.html)
+2023-09-02T00:58:26.252Z Append Downloading: https://fahrplan.zeteco.ch/speakers/56.html (from https://fahrplan.zeteco.ch/events/74.html)
+2023-09-02T00:58:26.253Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG (from https://fahrplan.zeteco.ch/events/74.html)
+2023-09-02T00:58:26.253Z START processFile:
+2023-09-02T00:58:26.253Z START processFile: https://fahrplan.zeteco.ch/speakers/56.html
+2023-09-02T00:58:26.253Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/56.html
+2023-09-02T00:58:26.254Z START Downloading: https://fahrplan.zeteco.ch/events/96.html
+2023-09-02T00:58:26.255Z Append Downloading: https://fahrplan.zeteco.ch/speakers/www.flipfloater.net (from https://fahrplan.zeteco.ch/speakers/56.html)
+2023-09-02T00:58:26.256Z Append Downloading: https://fahrplan.zeteco.ch/events/75.html (from https://fahrplan.zeteco.ch/speakers/56.html)
+2023-09-02T00:58:26.256Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg (from https://fahrplan.zeteco.ch/speakers/56.html)
+2023-09-02T00:58:26.256Z START processFile:
+2023-09-02T00:58:26.256Z START processFile: https://fahrplan.zeteco.ch/events/40.html
+2023-09-02T00:58:26.257Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/40.html
+2023-09-02T00:58:26.257Z START Downloading: https://fahrplan.zeteco.ch/events/95.html
+2023-09-02T00:58:26.258Z Append Downloading: https://fahrplan.zeteco.ch/events/40.ics (from https://fahrplan.zeteco.ch/events/40.html)
+2023-09-02T00:58:26.258Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg (from https://fahrplan.zeteco.ch/events/40.html)
+2023-09-02T00:58:26.259Z START processFile:
+2023-09-02T00:58:26.259Z START processFile: https://fahrplan.zeteco.ch/events/62.html
+2023-09-02T00:58:26.259Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/62.html
+2023-09-02T00:58:26.261Z Append Downloading: https://openjscad.org/ (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/events/62.ics (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://github.com/jscad/OpenJSCAD.org (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/speakers/50.html (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.262Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png (from https://fahrplan.zeteco.ch/events/62.html)
+2023-09-02T00:58:26.263Z START processFile:
+2023-09-02T00:58:26.263Z START processFile: https://fahrplan.zeteco.ch/speakers/50.html
+2023-09-02T00:58:26.263Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/50.html
+2023-09-02T00:58:26.264Z Append Downloading: https://draemm.li/ (from https://fahrplan.zeteco.ch/speakers/50.html)
+2023-09-02T00:58:26.264Z Append Downloading: https://fahrplan.zeteco.ch/events/62.html (from https://fahrplan.zeteco.ch/speakers/50.html)
+2023-09-02T00:58:26.264Z Append Downloading: https://fahrplan.zeteco.ch/events/96.html (from https://fahrplan.zeteco.ch/speakers/50.html)
+2023-09-02T00:58:26.265Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg (from https://fahrplan.zeteco.ch/speakers/50.html)
+2023-09-02T00:58:26.265Z START processFile:
+2023-09-02T00:58:26.265Z START processFile: https://fahrplan.zeteco.ch/events/61.html
+2023-09-02T00:58:26.265Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/61.html
+2023-09-02T00:58:26.267Z Append Downloading: https://fahrplan.zeteco.ch/events/61.ics (from https://fahrplan.zeteco.ch/events/61.html)
+2023-09-02T00:58:26.267Z Append Downloading: http://jugendhackt.ch/ (from https://fahrplan.zeteco.ch/events/61.html)
+2023-09-02T00:58:26.267Z Append Downloading: https://fahrplan.zeteco.ch/events/78.html (from https://fahrplan.zeteco.ch/events/61.html)
+2023-09-02T00:58:26.267Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png (from https://fahrplan.zeteco.ch/events/61.html)
+2023-09-02T00:58:26.268Z START processFile:
+2023-09-02T00:58:26.269Z START processFile: https://fahrplan.zeteco.ch/events/67.html
+2023-09-02T00:58:26.269Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/67.html
+2023-09-02T00:58:26.270Z Append Downloading: https://fahrplan.zeteco.ch/events/67.ics (from https://fahrplan.zeteco.ch/events/67.html)
+2023-09-02T00:58:26.270Z Append Downloading: http://jarthaicatering.ch/ (from https://fahrplan.zeteco.ch/events/67.html)
+2023-09-02T00:58:26.270Z Append Downloading: https://fahrplan.zeteco.ch/events/61.html (from https://fahrplan.zeteco.ch/events/67.html)
+2023-09-02T00:58:26.271Z START processFile:
+2023-09-02T00:58:26.271Z START processFile: https://fahrplan.zeteco.ch/events/39.html
+2023-09-02T00:58:26.271Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/39.html
+2023-09-02T00:58:26.272Z Append Downloading: https://fahrplan.zeteco.ch/events/39.ics (from https://fahrplan.zeteco.ch/events/39.html)
+2023-09-02T00:58:26.272Z Append Downloading: http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php (from https://fahrplan.zeteco.ch/events/39.html)
+2023-09-02T00:58:26.273Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg (from https://fahrplan.zeteco.ch/events/39.html)
+2023-09-02T00:58:26.274Z START processFile:
+2023-09-02T00:58:26.274Z START processFile: https://fahrplan.zeteco.ch/events/78.html
+2023-09-02T00:58:26.274Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/78.html
+2023-09-02T00:58:26.275Z                    END https://fahrplan.zeteco.ch/events/85.html
+2023-09-02T00:58:26.276Z Append Downloading: https://fahrplan.zeteco.ch/events/78.ics (from https://fahrplan.zeteco.ch/events/78.html)
+2023-09-02T00:58:26.277Z START processFile:
+2023-09-02T00:58:26.277Z START processFile: https://fahrplan.zeteco.ch/speakers/51.html
+2023-09-02T00:58:26.277Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/51.html
+2023-09-02T00:58:26.278Z Append Downloading: mailto:oli@glow.li (from https://fahrplan.zeteco.ch/speakers/51.html)
+2023-09-02T00:58:26.278Z Append Downloading: https://fahrplan.zeteco.ch/events/59.html (from https://fahrplan.zeteco.ch/speakers/51.html)
+2023-09-02T00:58:26.278Z Append Downloading: https://fahrplan.zeteco.ch/events/81.html (from https://fahrplan.zeteco.ch/speakers/51.html)
+2023-09-02T00:58:26.278Z Append Downloading: https://fahrplan.zeteco.ch/events/88.html (from https://fahrplan.zeteco.ch/speakers/51.html)
+2023-09-02T00:58:26.279Z START processFile:
+2023-09-02T00:58:26.279Z START processFile: https://fahrplan.zeteco.ch/events/59.html
+2023-09-02T00:58:26.279Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/59.html
+2023-09-02T00:58:26.279Z START Downloading: https://fahrplan.zeteco.ch/events/93.html
+2023-09-02T00:58:26.281Z Append Downloading: https://fahrplan.zeteco.ch/events/59.ics (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z Append Downloading: http://termux.com/ (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z Append Downloading: https://termux.com/help.html (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z Append Downloading: https://wiki.termux.com/ (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z Append Downloading: https://fahrplan.zeteco.ch/speakers/51.html (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png (from https://fahrplan.zeteco.ch/events/59.html)
+2023-09-02T00:58:26.281Z START processFile:
+2023-09-02T00:58:26.281Z START processFile: https://fahrplan.zeteco.ch/events/87.html
+2023-09-02T00:58:26.281Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/87.html
+2023-09-02T00:58:26.282Z Append Downloading: https://fahrplan.zeteco.ch/events/87.ics (from https://fahrplan.zeteco.ch/events/87.html)
+2023-09-02T00:58:26.282Z Append Downloading: https://github.com/CodiePP/elykseer-base (from https://fahrplan.zeteco.ch/events/87.html)
+2023-09-02T00:58:26.282Z Append Downloading: https://fahrplan.zeteco.ch/events/58.html (from https://fahrplan.zeteco.ch/events/87.html)
+2023-09-02T00:58:26.282Z Append Downloading: https://fahrplan.zeteco.ch/speakers/47.html (from https://fahrplan.zeteco.ch/events/87.html)
+2023-09-02T00:58:26.282Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png (from https://fahrplan.zeteco.ch/events/87.html)
+2023-09-02T00:58:26.283Z START processFile:
+2023-09-02T00:58:26.283Z START processFile: https://fahrplan.zeteco.ch/events/88.html
+2023-09-02T00:58:26.283Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/88.html
+2023-09-02T00:58:26.285Z Append Downloading: https://fahrplan.zeteco.ch/events/88.ics (from https://fahrplan.zeteco.ch/events/88.html)
+2023-09-02T00:58:26.285Z Append Downloading: https://glow.li/share/Termux_Workshop.html (from https://fahrplan.zeteco.ch/events/88.html)
+2023-09-02T00:58:26.285Z Append Downloading: https://fahrplan.zeteco.ch/events/87.html (from https://fahrplan.zeteco.ch/events/88.html)
+2023-09-02T00:58:26.285Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png (from https://fahrplan.zeteco.ch/events/88.html)
+2023-09-02T00:58:26.285Z START processFile:
+2023-09-02T00:58:26.285Z START processFile: https://fahrplan.zeteco.ch/speakers/47.html
+2023-09-02T00:58:26.286Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/47.html
+2023-09-02T00:58:26.287Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png (from https://fahrplan.zeteco.ch/speakers/47.html)
+2023-09-02T00:58:26.287Z START processFile:
+2023-09-02T00:58:26.287Z START processFile: https://fahrplan.zeteco.ch/events/58.html
+2023-09-02T00:58:26.287Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/58.html
+2023-09-02T00:58:26.288Z Append Downloading: https://fahrplan.zeteco.ch/events/58.ics (from https://fahrplan.zeteco.ch/events/58.html)
+2023-09-02T00:58:26.289Z START processFile:
+2023-09-02T00:58:26.289Z START processFile: https://fahrplan.zeteco.ch/events/63.html
+2023-09-02T00:58:26.289Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/63.html
+2023-09-02T00:58:26.290Z Append Downloading: https://fahrplan.zeteco.ch/events/63.ics (from https://fahrplan.zeteco.ch/events/63.html)
+2023-09-02T00:58:26.290Z Append Downloading: https://fahrplan.zeteco.ch/speakers/53.html (from https://fahrplan.zeteco.ch/events/63.html)
+2023-09-02T00:58:26.290Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png (from https://fahrplan.zeteco.ch/events/63.html)
+2023-09-02T00:58:26.291Z START processFile:
+2023-09-02T00:58:26.291Z START processFile: https://fahrplan.zeteco.ch/speakers/53.html
+2023-09-02T00:58:26.291Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/53.html
+2023-09-02T00:58:26.291Z Append Downloading: mailto:toasterson@gmail.com (from https://fahrplan.zeteco.ch/speakers/53.html)
+2023-09-02T00:58:26.291Z Append Downloading: https://fahrplan.zeteco.ch/events/63.html (from https://fahrplan.zeteco.ch/speakers/53.html)
+2023-09-02T00:58:26.292Z START processFile:
+2023-09-02T00:58:26.292Z START processFile: https://fahrplan.zeteco.ch/events/47.html
+2023-09-02T00:58:26.292Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/47.html
+2023-09-02T00:58:26.293Z Append Downloading: https://fahrplan.zeteco.ch/events/47.ics (from https://fahrplan.zeteco.ch/events/47.html)
+2023-09-02T00:58:26.293Z Append Downloading: https://freifunk.net/ (from https://fahrplan.zeteco.ch/events/47.html)
+2023-09-02T00:58:26.293Z Append Downloading: https://freifunk-bodensee.net/ (from https://fahrplan.zeteco.ch/events/47.html)
+2023-09-02T00:58:26.293Z Append Downloading: https://github.com/ffbsee/firmware/ (from https://fahrplan.zeteco.ch/events/47.html)
+2023-09-02T00:58:26.293Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png (from https://fahrplan.zeteco.ch/events/47.html)
+2023-09-02T00:58:26.293Z START processFile:
+2023-09-02T00:58:26.293Z START processFile: https://fahrplan.zeteco.ch/events/89.html
+2023-09-02T00:58:26.293Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/89.html
+2023-09-02T00:58:26.294Z Append Downloading: https://fahrplan.zeteco.ch/events/89.ics (from https://fahrplan.zeteco.ch/events/89.html)
+2023-09-02T00:58:26.294Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif (from https://fahrplan.zeteco.ch/events/89.html)
+2023-09-02T00:58:26.295Z START processFile:
+2023-09-02T00:58:26.295Z START processFile: https://fahrplan.zeteco.ch/events/75.html
+2023-09-02T00:58:26.295Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/75.html
+2023-09-02T00:58:26.296Z Append Downloading: https://fahrplan.zeteco.ch/events/75.ics (from https://fahrplan.zeteco.ch/events/75.html)
+2023-09-02T00:58:26.296Z Append Downloading: https://fahrplan.zeteco.ch/events/47.html (from https://fahrplan.zeteco.ch/events/75.html)
+2023-09-02T00:58:26.296Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG (from https://fahrplan.zeteco.ch/events/75.html)
+2023-09-02T00:58:26.296Z START processFile:
+2023-09-02T00:58:26.296Z START processFile: https://fahrplan.zeteco.ch/events/94.html
+2023-09-02T00:58:26.296Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/94.html
+2023-09-02T00:58:26.297Z Append Downloading: https://fahrplan.zeteco.ch/events/94.ics (from https://fahrplan.zeteco.ch/events/94.html)
+2023-09-02T00:58:26.297Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg (from https://fahrplan.zeteco.ch/events/94.html)
+2023-09-02T00:58:26.298Z START processFile:
+2023-09-02T00:58:26.298Z START processFile: https://fahrplan.zeteco.ch/events/86.html
+2023-09-02T00:58:26.298Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/86.html
+2023-09-02T00:58:26.299Z Append Downloading: https://fahrplan.zeteco.ch/events/86.ics (from https://fahrplan.zeteco.ch/events/86.html)
+2023-09-02T00:58:26.299Z START processFile:
+2023-09-02T00:58:26.300Z START processFile: https://fahrplan.zeteco.ch/events/68.html
+2023-09-02T00:58:26.300Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/68.html
+2023-09-02T00:58:26.301Z Append Downloading: https://fahrplan.zeteco.ch/events/68.ics (from https://fahrplan.zeteco.ch/events/68.html)
+2023-09-02T00:58:26.301Z Append Downloading: https://b76.ch/9633 (from https://fahrplan.zeteco.ch/events/68.html)
+2023-09-02T00:58:26.301Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg (from https://fahrplan.zeteco.ch/events/68.html)
+2023-09-02T00:58:26.301Z START processFile:
+2023-09-02T00:58:26.301Z START processFile: https://fahrplan.zeteco.ch/events/41.html
+2023-09-02T00:58:26.301Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/41.html
+2023-09-02T00:58:26.302Z                    END https://fahrplan.zeteco.ch/speakers/59.html
+2023-09-02T00:58:26.303Z Append Downloading: https://fahrplan.zeteco.ch/events/41.ics (from https://fahrplan.zeteco.ch/events/41.html)
+2023-09-02T00:58:26.303Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png (from https://fahrplan.zeteco.ch/events/41.html)
+2023-09-02T00:58:26.303Z START processFile:
+2023-09-02T00:58:26.303Z START processFile: https://fahrplan.zeteco.ch/events/79.html
+2023-09-02T00:58:26.303Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/79.html
+2023-09-02T00:58:26.304Z START Downloading: https://fahrplan.zeteco.ch/events/83.html
+2023-09-02T00:58:26.305Z Append Downloading: https://fahrplan.zeteco.ch/events/79.ics (from https://fahrplan.zeteco.ch/events/79.html)
+2023-09-02T00:58:26.306Z START processFile:
+2023-09-02T00:58:26.306Z START processFile: https://fahrplan.zeteco.ch/speakers/38.html
+2023-09-02T00:58:26.306Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/38.html
+2023-09-02T00:58:26.307Z Append Downloading: http://tpo.sourcepole.ch/ (from https://fahrplan.zeteco.ch/speakers/38.html)
+2023-09-02T00:58:26.307Z Append Downloading: https://fahrplan.zeteco.ch/events/46.html (from https://fahrplan.zeteco.ch/speakers/38.html)
+2023-09-02T00:58:26.308Z START processFile:
+2023-09-02T00:58:26.308Z START processFile: https://fahrplan.zeteco.ch/events/46.html
+2023-09-02T00:58:26.308Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/46.html
+2023-09-02T00:58:26.309Z Append Downloading: https://fahrplan.zeteco.ch/events/46.ics (from https://fahrplan.zeteco.ch/events/46.html)
+2023-09-02T00:58:26.309Z Append Downloading: https://fahrplan.zeteco.ch/speakers/38.html (from https://fahrplan.zeteco.ch/events/46.html)
+2023-09-02T00:58:26.310Z START processFile:
+2023-09-02T00:58:26.310Z START processFile: https://fahrplan.zeteco.ch/events/92.html
+2023-09-02T00:58:26.310Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/92.html
+2023-09-02T00:58:26.311Z Append Downloading: https://fahrplan.zeteco.ch/events/92.ics (from https://fahrplan.zeteco.ch/events/92.html)
+2023-09-02T00:58:26.311Z START processFile:
+2023-09-02T00:58:26.311Z START processFile: https://fahrplan.zeteco.ch/events/36.html
+2023-09-02T00:58:26.311Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/36.html
+2023-09-02T00:58:26.312Z Append Downloading: https://fahrplan.zeteco.ch/events/36.ics (from https://fahrplan.zeteco.ch/events/36.html)
+2023-09-02T00:58:26.312Z Append Downloading: https://fahrplan.zeteco.ch/speakers/12.html (from https://fahrplan.zeteco.ch/events/36.html)
+2023-09-02T00:58:26.313Z START processFile:
+2023-09-02T00:58:26.313Z START processFile: https://fahrplan.zeteco.ch/speakers/12.html
+2023-09-02T00:58:26.313Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/12.html
+2023-09-02T00:58:26.314Z Append Downloading: https://fahrplan.zeteco.ch/events/36.html (from https://fahrplan.zeteco.ch/speakers/12.html)
+2023-09-02T00:58:26.314Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png (from https://fahrplan.zeteco.ch/speakers/12.html)
+2023-09-02T00:58:26.314Z START processFile:
+2023-09-02T00:58:26.315Z START processFile: https://fahrplan.zeteco.ch/events/66.html
+2023-09-02T00:58:26.315Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/66.html
+2023-09-02T00:58:26.316Z Append Downloading: https://www.coreboot.org/Supported_Motherboards:%3Ecoreboot%20wiki%3C/a%3E.%20If%20you%20have%20a%20supported%20one%20that%20you%20want%20coreboot%20for,%20join%20us!%20%0D%0A%0D%0APlease%20%3Ca%20href= (from https://fahrplan.zeteco.ch/events/66.html)
+2023-09-02T00:58:26.316Z Append Downloading: https://fahrplan.zeteco.ch/events/66.ics (from https://fahrplan.zeteco.ch/events/66.html)
+2023-09-02T00:58:26.316Z Append Downloading: https://fahrplan.zeteco.ch/events/49.html (from https://fahrplan.zeteco.ch/events/66.html)
+2023-09-02T00:58:26.316Z Append Downloading: https://fahrplan.zeteco.ch/speakers/54.html (from https://fahrplan.zeteco.ch/events/66.html)
+2023-09-02T00:58:26.316Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png (from https://fahrplan.zeteco.ch/events/66.html)
+2023-09-02T00:58:26.317Z START processFile:
+2023-09-02T00:58:26.317Z START processFile: https://fahrplan.zeteco.ch/speakers/54.html
+2023-09-02T00:58:26.317Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/54.html
+2023-09-02T00:58:26.319Z Append Downloading: https://fahrplan.zeteco.ch/events/66.html (from https://fahrplan.zeteco.ch/speakers/54.html)
+2023-09-02T00:58:26.319Z START processFile:
+2023-09-02T00:58:26.319Z START processFile: https://fahrplan.zeteco.ch/events/49.html
+2023-09-02T00:58:26.319Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/49.html
+2023-09-02T00:58:26.320Z                    END https://fahrplan.zeteco.ch/events/95.html
+2023-09-02T00:58:26.321Z Append Downloading: https://fahrplan.zeteco.ch/events/49.ics (from https://fahrplan.zeteco.ch/events/49.html)
+2023-09-02T00:58:26.321Z Append Downloading: https://fahrplan.zeteco.ch/speakers/43.html (from https://fahrplan.zeteco.ch/events/49.html)
+2023-09-02T00:58:26.321Z START processFile:
+2023-09-02T00:58:26.322Z START processFile: https://fahrplan.zeteco.ch/speakers/43.html
+2023-09-02T00:58:26.322Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/43.html
+2023-09-02T00:58:26.322Z                    END https://fahrplan.zeteco.ch/events/96.html
+2023-09-02T00:58:26.323Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg (from https://fahrplan.zeteco.ch/speakers/43.html)
+2023-09-02T00:58:26.323Z START processFile:
+2023-09-02T00:58:26.323Z START processFile: https://fahrplan.zeteco.ch/events/81.html
+2023-09-02T00:58:26.324Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/81.html
+2023-09-02T00:58:26.324Z START Downloading: https://fahrplan.zeteco.ch/events/73.html
+2023-09-02T00:58:26.325Z Append Downloading: https://fahrplan.zeteco.ch/events/81.ics (from https://fahrplan.zeteco.ch/events/81.html)
+2023-09-02T00:58:26.325Z Append Downloading: https://github.com/neo-oli/contact (from https://fahrplan.zeteco.ch/events/81.html)
+2023-09-02T00:58:26.325Z Append Downloading: https://fahrplan.zeteco.ch/events/56.html (from https://fahrplan.zeteco.ch/events/81.html)
+2023-09-02T00:58:26.326Z START processFile:
+2023-09-02T00:58:26.326Z START processFile: https://fahrplan.zeteco.ch/events/56.html
+2023-09-02T00:58:26.326Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/56.html
+2023-09-02T00:58:26.326Z START Downloading: https://fahrplan.zeteco.ch/events/42.html
+2023-09-02T00:58:26.327Z Append Downloading: https://fahrplan.zeteco.ch/events/56.ics (from https://fahrplan.zeteco.ch/events/56.html)
+2023-09-02T00:58:26.328Z START processFile:
+2023-09-02T00:58:26.328Z START processFile: https://fahrplan.zeteco.ch/events/38.html
+2023-09-02T00:58:26.328Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/38.html
+2023-09-02T00:58:26.329Z Append Downloading: https://fahrplan.zeteco.ch/events/38.ics (from https://fahrplan.zeteco.ch/events/38.html)
+2023-09-02T00:58:26.329Z Append Downloading: https://noisebridge.net/wiki/NoisebridgeChinaTrip7 (from https://fahrplan.zeteco.ch/events/38.html)
+2023-09-02T00:58:26.329Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg (from https://fahrplan.zeteco.ch/events/38.html)
+2023-09-02T00:58:26.329Z START processFile:
+2023-09-02T00:58:26.329Z START processFile: https://fahrplan.zeteco.ch/events/85.html
+2023-09-02T00:58:26.329Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/85.html
+2023-09-02T00:58:26.330Z Append Downloading: https://fahrplan.zeteco.ch/events/85.ics (from https://fahrplan.zeteco.ch/events/85.html)
+2023-09-02T00:58:26.331Z Append Downloading: https://fahrplan.zeteco.ch/speakers/59.html (from https://fahrplan.zeteco.ch/events/85.html)
+2023-09-02T00:58:26.331Z START processFile:
+2023-09-02T00:58:26.331Z START processFile: https://fahrplan.zeteco.ch/speakers/59.html
+2023-09-02T00:58:26.331Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/59.html
+2023-09-02T00:58:26.332Z Append Downloading: mailto:kent@w3rkhof.ch (from https://fahrplan.zeteco.ch/speakers/59.html)
+2023-09-02T00:58:26.332Z Append Downloading: https://fahrplan.zeteco.ch/events/85.html (from https://fahrplan.zeteco.ch/speakers/59.html)
+2023-09-02T00:58:26.333Z START processFile:
+2023-09-02T00:58:26.333Z START processFile: https://fahrplan.zeteco.ch/events/95.html
+2023-09-02T00:58:26.333Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/95.html
+2023-09-02T00:58:26.334Z Append Downloading: https://de.wikipedia.org/wiki/Vakuumgaren (from https://fahrplan.zeteco.ch/events/95.html)
+2023-09-02T00:58:26.334Z Append Downloading: https://fahrplan.zeteco.ch/events/95.ics (from https://fahrplan.zeteco.ch/events/95.html)
+2023-09-02T00:58:26.334Z START processFile:
+2023-09-02T00:58:26.334Z START processFile: https://fahrplan.zeteco.ch/events/96.html
+2023-09-02T00:58:26.334Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/96.html
+2023-09-02T00:58:26.335Z Append Downloading: https://fahrplan.zeteco.ch/events/96.ics (from https://fahrplan.zeteco.ch/events/96.html)
+2023-09-02T00:58:26.340Z                    END https://fahrplan.zeteco.ch/events/93.html
+2023-09-02T00:58:26.341Z START Downloading: https://fahrplan.zeteco.ch/events/80.html
+2023-09-02T00:58:26.381Z                    END https://fahrplan.zeteco.ch/events/83.html
+2023-09-02T00:58:26.382Z START Downloading: https://fahrplan.zeteco.ch/events/71.html
+2023-09-02T00:58:26.387Z                    END https://fahrplan.zeteco.ch/events/73.html
+2023-09-02T00:58:26.388Z START Downloading: https://fahrplan.zeteco.ch/events/15.html
+2023-09-02T00:58:26.389Z                    END https://fahrplan.zeteco.ch/events/42.html
+2023-09-02T00:58:26.390Z START Downloading: https://fahrplan.zeteco.ch/speakers/17.html
+2023-09-02T00:58:26.407Z                    END https://fahrplan.zeteco.ch/events/80.html
+2023-09-02T00:58:26.408Z START Downloading: https://fahrplan.zeteco.ch/events/25.html
+2023-09-02T00:58:26.458Z                    END https://fahrplan.zeteco.ch/speakers/17.html
+2023-09-02T00:58:26.458Z                    END https://fahrplan.zeteco.ch/events/71.html
+2023-09-02T00:58:26.459Z START Downloading: https://fahrplan.zeteco.ch/events/2.html
+2023-09-02T00:58:26.460Z START Downloading: https://fahrplan.zeteco.ch/speakers/58.html
+2023-09-02T00:58:26.464Z                    END https://fahrplan.zeteco.ch/events/15.html
+2023-09-02T00:58:26.465Z START Downloading: https://fahrplan.zeteco.ch/events/82.html
+2023-09-02T00:58:26.469Z                    END https://fahrplan.zeteco.ch/events/25.html
+2023-09-02T00:58:26.470Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg
+2023-09-02T00:58:26.519Z                    END https://fahrplan.zeteco.ch/speakers/58.html
+2023-09-02T00:58:26.519Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png
+2023-09-02T00:58:26.528Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/small/IMG_3270.jpg
+2023-09-02T00:58:26.529Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg
+2023-09-02T00:58:26.532Z                    ERROR https://fahrplan.zeteco.ch/events/82.html
+2023-09-02T00:58:26.532Z Failed to download https://fahrplan.zeteco.ch/events/82.html: Request failed with status code 404
+2023-09-02T00:58:26.533Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg
+2023-09-02T00:58:26.537Z                    END https://fahrplan.zeteco.ch/events/2.html
+2023-09-02T00:58:26.538Z START Downloading: https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png
+2023-09-02T00:58:26.578Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png
+2023-09-02T00:58:26.579Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png
+2023-09-02T00:58:26.605Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg
+2023-09-02T00:58:26.606Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg
+2023-09-02T00:58:26.616Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg
+2023-09-02T00:58:26.618Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg
+2023-09-02T00:58:26.628Z                    END https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png
+2023-09-02T00:58:26.630Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png
+2023-09-02T00:58:26.649Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png
+2023-09-02T00:58:26.649Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg
+2023-09-02T00:58:26.680Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg
+2023-09-02T00:58:26.681Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png
+2023-09-02T00:58:26.692Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/small/426324172_297834.jpg
+2023-09-02T00:58:26.694Z START Downloading: https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png
+2023-09-02T00:58:26.707Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/small/faultier.png
+2023-09-02T00:58:26.709Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg
+2023-09-02T00:58:26.751Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/small/zetecavatar.jpg
+2023-09-02T00:58:26.758Z                    END https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png
+2023-09-02T00:58:26.759Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/small/avatar2012_2000px.png
+2023-09-02T00:58:26.760Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png
+2023-09-02T00:58:26.761Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg
+2023-09-02T00:58:26.770Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg
+2023-09-02T00:58:26.783Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/068/small/dreams-of-the-future.jpg
+2023-09-02T00:58:26.785Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png
+2023-09-02T00:58:26.821Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/019/small/LAN_Party.jpg
+2023-09-02T00:58:26.821Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/087/small/eLyKseeR.png
+2023-09-02T00:58:26.822Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png
+2023-09-02T00:58:26.823Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png
+2023-09-02T00:58:26.853Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/063/small/illumos.png
+2023-09-02T00:58:26.854Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png
+2023-09-02T00:58:26.865Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/038/small/WelcomeHackers.jpg
+2023-09-02T00:58:26.884Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/061/small/jugendhackt.png
+2023-09-02T00:58:26.886Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif
+2023-09-02T00:58:26.887Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg
+2023-09-02T00:58:26.898Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/059/small/ic_launcher.png
+2023-09-02T00:58:26.900Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png
+2023-09-02T00:58:26.933Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/064/small/badge-cfp.png
+2023-09-02T00:58:26.935Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg
+2023-09-02T00:58:26.973Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/089/small/bobbing.gif
+2023-09-02T00:58:26.974Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/070/small/schneeflocken-im-sommer.png
+2023-09-02T00:58:26.975Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png
+2023-09-02T00:58:26.979Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/040/small/images.duckduckgo.com.jpeg
+2023-09-02T00:58:26.980Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png
+2023-09-02T00:58:26.995Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png
+2023-09-02T00:58:27.019Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/039/small/LearnToSolder.jpg
+2023-09-02T00:58:27.021Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png
+2023-09-02T00:58:27.063Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/047/small/logo_freifunknet.png
+2023-09-02T00:58:27.064Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/066/small/coreboot.png
+2023-09-02T00:58:27.065Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg
+2023-09-02T00:58:27.065Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg
+2023-09-02T00:58:27.074Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/072/small/freestyle-compo-griesbach.png
+2023-09-02T00:58:27.076Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png
+2023-09-02T00:58:27.098Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/062/small/openjscad-logo-bigger.png
+2023-09-02T00:58:27.099Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe
+2023-09-02T00:58:27.140Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/069/small/mechanische-spiele.jpg
+2023-09-02T00:58:27.142Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg
+2023-09-02T00:58:27.155Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/037/small/HappySolderers.jpg
+2023-09-02T00:58:27.157Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png
+2023-09-02T00:58:27.163Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/088/small/ic_launcher.png
+2023-09-02T00:58:27.164Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/048/small/DFCT6ERXcAAAezI.jpg_large.jpe
+2023-09-02T00:58:27.165Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG
+2023-09-02T00:58:27.166Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG
+2023-09-02T00:58:27.205Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/094/small/0001_lF3hcFy.jpg.jpg
+2023-09-02T00:58:27.206Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png
+2023-09-02T00:58:27.211Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/093/small/thumb.png
+2023-09-02T00:58:27.212Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png
+2023-09-02T00:58:27.240Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png
+2023-09-02T00:58:27.241Z START processFile:
+2023-09-02T00:58:27.241Z START processFile: https://fahrplan.zeteco.ch/events/93.html
+2023-09-02T00:58:27.241Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/93.html
+2023-09-02T00:58:27.242Z Append Downloading: https://fahrplan.zeteco.ch/events.html#essen (from https://fahrplan.zeteco.ch/events/93.html)
+2023-09-02T00:58:27.242Z Append Downloading: https://fahrplan.zeteco.ch/events/93.ics (from https://fahrplan.zeteco.ch/events/93.html)
+2023-09-02T00:58:27.242Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png (from https://fahrplan.zeteco.ch/events/93.html)
+2023-09-02T00:58:27.242Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/small/avatar.png (from https://fahrplan.zeteco.ch/events/93.html)
+2023-09-02T00:58:27.243Z START processFile:
+2023-09-02T00:58:27.243Z START processFile: https://fahrplan.zeteco.ch/events/83.html
+2023-09-02T00:58:27.243Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/83.html
+2023-09-02T00:58:27.243Z Append Downloading: https://fahrplan.zeteco.ch/events.html#lounge (from https://fahrplan.zeteco.ch/events/83.html)
+2023-09-02T00:58:27.243Z Append Downloading: https://fahrplan.zeteco.ch/events/83.ics (from https://fahrplan.zeteco.ch/events/83.html)
+2023-09-02T00:58:27.244Z START processFile:
+2023-09-02T00:58:27.244Z START processFile: https://fahrplan.zeteco.ch/events/73.html
+2023-09-02T00:58:27.244Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/73.html
+2023-09-02T00:58:27.244Z Append Downloading: https://fahrplan.zeteco.ch/events.html#unterhaltung (from https://fahrplan.zeteco.ch/events/73.html)
+2023-09-02T00:58:27.244Z Append Downloading: https://fahrplan.zeteco.ch/events/73.ics (from https://fahrplan.zeteco.ch/events/73.html)
+2023-09-02T00:58:27.244Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png (from https://fahrplan.zeteco.ch/events/73.html)
+2023-09-02T00:58:27.244Z Append Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/small/martin-voegeli.v3.png (from https://fahrplan.zeteco.ch/events/73.html)
+2023-09-02T00:58:27.245Z START processFile:
+2023-09-02T00:58:27.245Z START processFile: https://fahrplan.zeteco.ch/events/42.html
+2023-09-02T00:58:27.245Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/42.html
+2023-09-02T00:58:27.245Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/074/small/FlipFloater_Live1.JPG
+2023-09-02T00:58:27.247Z Append Downloading: https://fahrplan.zeteco.ch/events/42.ics (from https://fahrplan.zeteco.ch/events/42.html)
+2023-09-02T00:58:27.252Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif (from https://fahrplan.zeteco.ch/events/42.html)
+2023-09-02T00:58:27.252Z Append Downloading: https://fahrplan.zeteco.ch/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png (from https://fahrplan.zeteco.ch/events/42.html)
+2023-09-02T00:58:27.252Z START processFile:
+2023-09-02T00:58:27.252Z START processFile: https://fahrplan.zeteco.ch/events/80.html
+2023-09-02T00:58:27.252Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/80.html
+2023-09-02T00:58:27.254Z Append Downloading: https://fahrplan.zeteco.ch/events.html#spiel%20und%20sport (from https://fahrplan.zeteco.ch/events/80.html)
+2023-09-02T00:58:27.254Z Append Downloading: https://fahrplan.zeteco.ch/events/80.ics (from https://fahrplan.zeteco.ch/events/80.html)
+2023-09-02T00:58:27.254Z START processFile:
+2023-09-02T00:58:27.254Z START processFile: https://fahrplan.zeteco.ch/speakers/17.html
+2023-09-02T00:58:27.254Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/17.html
+2023-09-02T00:58:27.254Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif
+2023-09-02T00:58:27.255Z Append Downloading: https://fahrplan.zeteco.ch/events/15.html (from https://fahrplan.zeteco.ch/speakers/17.html)
+2023-09-02T00:58:27.256Z Append Downloading: https://fahrplan.zeteco.ch/assets/event_small-e109fac6e5b92655bc5f7dddf41ff2eb77aadc01696b4e6b572a3979e8e902f3.png (from https://fahrplan.zeteco.ch/speakers/17.html)
+2023-09-02T00:58:27.256Z START processFile:
+2023-09-02T00:58:27.256Z START processFile: https://fahrplan.zeteco.ch/events/71.html
+2023-09-02T00:58:27.256Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/71.html
+2023-09-02T00:58:27.257Z Append Downloading: https://fahrplan.zeteco.ch/events/71.ics (from https://fahrplan.zeteco.ch/events/71.html)
+2023-09-02T00:58:27.257Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg (from https://fahrplan.zeteco.ch/events/71.html)
+2023-09-02T00:58:27.257Z START processFile:
+2023-09-02T00:58:27.257Z START processFile: https://fahrplan.zeteco.ch/events/15.html
+2023-09-02T00:58:27.257Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/15.html
+2023-09-02T00:58:27.258Z Append Downloading: https://fahrplan.zeteco.ch/events.html#vortrag (from https://fahrplan.zeteco.ch/events/15.html)
+2023-09-02T00:58:27.258Z Append Downloading: https://fahrplan.zeteco.ch/events/15.ics (from https://fahrplan.zeteco.ch/events/15.html)
+2023-09-02T00:58:27.258Z Append Downloading: https://fahrplan.zeteco.ch/speakers/17.html (from https://fahrplan.zeteco.ch/events/15.html)
+2023-09-02T00:58:27.258Z START processFile:
+2023-09-02T00:58:27.258Z START processFile: https://fahrplan.zeteco.ch/events/25.html
+2023-09-02T00:58:27.258Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/25.html
+2023-09-02T00:58:27.259Z Append Downloading: https://fahrplan.zeteco.ch/events.html#zeteco%20orga (from https://fahrplan.zeteco.ch/events/25.html)
+2023-09-02T00:58:27.259Z Append Downloading: https://fahrplan.zeteco.ch/events/25.ics (from https://fahrplan.zeteco.ch/events/25.html)
+2023-09-02T00:58:27.259Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png (from https://fahrplan.zeteco.ch/events/25.html)
+2023-09-02T00:58:27.259Z START processFile:
+2023-09-02T00:58:27.259Z START processFile: https://fahrplan.zeteco.ch/speakers/58.html
+2023-09-02T00:58:27.259Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/speakers/58.html
+2023-09-02T00:58:27.260Z Append Downloading: mailto:strasser_samuel@yahoo.com (from https://fahrplan.zeteco.ch/speakers/58.html)
+2023-09-02T00:58:27.260Z Append Downloading: https://fahrplan.zeteco.ch/events/82.html (from https://fahrplan.zeteco.ch/speakers/58.html)
+2023-09-02T00:58:27.261Z START processFile:
+2023-09-02T00:58:27.261Z START processFile: https://fahrplan.zeteco.ch/events/2.html
+2023-09-02T00:58:27.261Z                    /Users/signalwerk/CODE/zeteco.fahrplan/DATA/html/fahrplan.zeteco.ch/events/2.html
+2023-09-02T00:58:27.261Z Append Downloading: https://fahrplan.zeteco.ch/events/2.ics (from https://fahrplan.zeteco.ch/events/2.html)
+2023-09-02T00:58:27.261Z Append Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png (from https://fahrplan.zeteco.ch/events/2.html)
+2023-09-02T00:58:27.271Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/075/small/Cirquit_Bending_Orchestra.JPG
+2023-09-02T00:58:27.271Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/025/small/zeteco.png
+2023-09-02T00:58:27.272Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/002/small/zeteco.png
+2023-09-02T00:58:27.273Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png
+2023-09-02T00:58:27.274Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif
+2023-09-02T00:58:27.275Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg
+2023-09-02T00:58:27.309Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/001/small/zeteco.png
+2023-09-02T00:58:27.310Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png
+2023-09-02T00:58:27.353Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/043/small/gravityFalls.gif
+2023-09-02T00:58:27.356Z START Downloading: https://fahrplan.zeteco.ch/events/1.ics
+2023-09-02T00:58:27.360Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/071/small/mechanische-spiele.jpg
+2023-09-02T00:58:27.361Z START Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf
+2023-09-02T00:58:27.361Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/073/small/freestyle-compo-griesbach.png
+2023-09-02T00:58:27.362Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png
+2023-09-02T00:58:27.372Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/041/small/nightmareMoon.png
+2023-09-02T00:58:27.374Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png
+2023-09-02T00:58:27.383Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/042/small/steven.gif
+2023-09-02T00:58:27.398Z START Downloading: https://fahrplan.zeteco.ch/events/70.ics
+2023-09-02T00:58:27.421Z                    END https://fahrplan.zeteco.ch/events/1.ics
+2023-09-02T00:58:27.423Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png
+2023-09-02T00:58:27.449Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/001/large/zeteco.png
+2023-09-02T00:58:27.450Z START Downloading: https://fahrplan.zeteco.ch/events/64.ics
+2023-09-02T00:58:27.459Z                    END https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf
+2023-09-02T00:58:27.470Z                    END https://fahrplan.zeteco.ch/events/70.ics
+2023-09-02T00:58:27.471Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png
+2023-09-02T00:58:27.479Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/046/large/martin-voegeli.v3.png
+2023-09-02T00:58:27.480Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg
+2023-09-02T00:58:27.504Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png
+2023-09-02T00:58:27.515Z                    END https://fahrplan.zeteco.ch/events/64.ics
+2023-09-02T00:58:27.515Z START Downloading: https://fahrplan.zeteco.ch/events/72.ics
+2023-09-02T00:58:27.516Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png
+2023-09-02T00:58:27.519Z                    ERROR https://fahrplan.zeteco.ch/events/72.ics
+2023-09-02T00:58:27.520Z Failed to download https://fahrplan.zeteco.ch/events/72.ics: getaddrinfo ENOTFOUND fahrplan.zeteco.ch
+2023-09-02T00:58:27.520Z START Downloading: https://fahrplan.zeteco.ch/events/57.ics
+2023-09-02T00:58:27.531Z START Downloading: https://fahrplan.zeteco.ch/events/www.nodebots.ch
+2023-09-02T00:58:27.550Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/009/large/tony_jugendhackt.jpg
+2023-09-02T00:58:27.551Z START Downloading: https://fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png
+2023-09-02T00:58:27.570Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/064/large/badge-cfp.png
+2023-09-02T00:58:27.572Z START Downloading: https://fahrplan.zeteco.ch/events/37.ics
+2023-09-02T00:58:27.578Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png
+2023-09-02T00:58:27.579Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg
+2023-09-02T00:58:27.603Z                    END https://fahrplan.zeteco.ch/events/57.ics
+2023-09-02T00:58:27.605Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg
+2023-09-02T00:58:27.610Z                    ERROR https://fahrplan.zeteco.ch/events/www.nodebots.ch
+2023-09-02T00:58:27.610Z Failed to download https://fahrplan.zeteco.ch/events/www.nodebots.ch: Request failed with status code 404
+2023-09-02T00:58:27.611Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg
+2023-09-02T00:58:27.624Z                    END https://fahrplan.zeteco.ch/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png
+2023-09-02T00:58:27.625Z START Downloading: https://fahrplan.zeteco.ch/events/69.ics
+2023-09-02T00:58:27.642Z                    END https://fahrplan.zeteco.ch/events/37.ics
+2023-09-02T00:58:27.643Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg
+2023-09-02T00:58:27.654Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/037/large/HappySolderers.jpg
+2023-09-02T00:58:27.656Z START Downloading: https://fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png
+2023-09-02T00:58:27.674Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/049/large/Markus_%281_von_1%29-4.jpg
+2023-09-02T00:58:27.675Z START Downloading: https://fahrplan.zeteco.ch/events/60.ics
+2023-09-02T00:58:27.689Z                    END https://fahrplan.zeteco.ch/events/69.ics
+2023-09-02T00:58:27.690Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png
+2023-09-02T00:58:27.699Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/032/large/BrainMachineAvatar3.jpg
+2023-09-02T00:58:27.700Z START Downloading: https://fahrplan.zeteco.ch/events/48.ics
+2023-09-02T00:58:27.705Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/069/large/mechanische-spiele.jpg
+2023-09-02T00:58:27.707Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe
+2023-09-02T00:58:27.725Z                    END https://fahrplan.zeteco.ch/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png
+2023-09-02T00:58:27.726Z START Downloading: https://fahrplan.zeteco.ch/events/84.ics
+2023-09-02T00:58:27.772Z                    END https://fahrplan.zeteco.ch/events/48.ics
+2023-09-02T00:58:27.772Z                    END https://fahrplan.zeteco.ch/events/60.ics
+2023-09-02T00:58:27.773Z START Downloading: https://fahrplan.zeteco.ch/events/19.ics
+2023-09-02T00:58:27.774Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg
+2023-09-02T00:58:27.785Z                    END https://fahrplan.zeteco.ch/events/84.ics
+2023-09-02T00:58:27.786Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe
+2023-09-02T00:58:27.787Z START Downloading: https://fahrplan.zeteco.ch/events/90.ics
+2023-09-02T00:58:27.788Z START Downloading: https://fahrplan.zeteco.ch/events/43.ics
+2023-09-02T00:58:27.803Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/040/large/avatar.png
+2023-09-02T00:58:27.804Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif
+2023-09-02T00:58:27.872Z                    END https://fahrplan.zeteco.ch/events/90.ics
+2023-09-02T00:58:27.872Z                    END https://fahrplan.zeteco.ch/events/19.ics
+2023-09-02T00:58:27.872Z                    END https://fahrplan.zeteco.ch/events/43.ics
+2023-09-02T00:58:27.873Z START Downloading: https://fahrplan.zeteco.ch/events/74.ics
+2023-09-02T00:58:27.874Z START Downloading: https://fahrplan.zeteco.ch/events/www.flipfloater.net
+2023-09-02T00:58:27.875Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/019/large/LAN_Party.jpg
+2023-09-02T00:58:27.875Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG
+2023-09-02T00:58:27.876Z START Downloading: https://fahrplan.zeteco.ch/speakers/www.flipfloater.net
+2023-09-02T00:58:27.893Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/043/large/gravityFalls.gif
+2023-09-02T00:58:27.933Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg
+2023-09-02T00:58:27.942Z                    END https://fahrplan.zeteco.ch/events/74.ics
+2023-09-02T00:58:27.942Z                    ERROR https://fahrplan.zeteco.ch/events/www.flipfloater.net
+2023-09-02T00:58:27.942Z Failed to download https://fahrplan.zeteco.ch/events/www.flipfloater.net: Request failed with status code 404
+2023-09-02T00:58:27.943Z START Downloading: https://fahrplan.zeteco.ch/events/40.ics
+2023-09-02T00:58:27.944Z                    ERROR https://fahrplan.zeteco.ch/speakers/www.flipfloater.net
+2023-09-02T00:58:27.944Z Failed to download https://fahrplan.zeteco.ch/speakers/www.flipfloater.net: Request failed with status code 404
+2023-09-02T00:58:27.945Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg
+2023-09-02T00:58:27.945Z START Downloading: https://fahrplan.zeteco.ch/events/62.ics
+2023-09-02T00:58:27.963Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG
+2023-09-02T00:58:27.964Z START Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png
+2023-09-02T00:58:27.990Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/056/large/IMG_3270.jpg
+2023-09-02T00:58:27.992Z START Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png
+2023-09-02T00:58:28.008Z                    END https://fahrplan.zeteco.ch/events/62.ics
+2023-09-02T00:58:28.009Z START Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png
+2023-09-02T00:58:28.019Z                    END https://fahrplan.zeteco.ch/events/40.ics
+2023-09-02T00:58:28.020Z START Downloading: https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png
+2023-09-02T00:58:28.027Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg
+2023-09-02T00:58:28.028Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png
+2023-09-02T00:58:28.046Z                    END https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/009/original/earrings.png
+2023-09-02T00:58:28.069Z                    END https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/008/original/turbine.png
+2023-09-02T00:58:28.094Z                    END https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/007/original/wagon.png
+2023-09-02T00:58:28.105Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg
+2023-09-02T00:58:28.110Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/062/large/openjscad-logo-bigger.png
+2023-09-02T00:58:28.111Z START Downloading: https://fahrplan.zeteco.ch/events/61.ics
+2023-09-02T00:58:28.126Z                    END https://fahrplan.zeteco.ch/system/event_attachments/attachments/000/000/006/original/democube.png
+2023-09-02T00:58:28.136Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png
+2023-09-02T00:58:28.137Z START Downloading: https://fahrplan.zeteco.ch/events/67.ics
+2023-09-02T00:58:28.167Z START Downloading: https://fahrplan.zeteco.ch/events/39.ics
+2023-09-02T00:58:28.185Z                    END https://fahrplan.zeteco.ch/events/61.ics
+2023-09-02T00:58:28.186Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg
+2023-09-02T00:58:28.196Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/061/large/jugendhackt.png
+2023-09-02T00:58:28.196Z                    END https://fahrplan.zeteco.ch/events/67.ics
+2023-09-02T00:58:28.197Z START Downloading: https://fahrplan.zeteco.ch/events/78.ics
+2023-09-02T00:58:28.198Z START Downloading: https://fahrplan.zeteco.ch/events/59.ics
+2023-09-02T00:58:28.202Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/050/large/zetecavatar.jpg
+2023-09-02T00:58:28.216Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png
+2023-09-02T00:58:28.241Z START Downloading: https://fahrplan.zeteco.ch/events/87.ics
+2023-09-02T00:58:28.242Z                    END https://fahrplan.zeteco.ch/events/39.ics
+2023-09-02T00:58:28.243Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png
+2023-09-02T00:58:28.258Z                    END https://fahrplan.zeteco.ch/events/59.ics
+2023-09-02T00:58:28.260Z START Downloading: https://fahrplan.zeteco.ch/events/88.ics
+2023-09-02T00:58:28.267Z                    END https://fahrplan.zeteco.ch/events/78.ics
+2023-09-02T00:58:28.268Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png
+2023-09-02T00:58:28.279Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/039/large/LearnToSolder.jpg
+2023-09-02T00:58:28.280Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/059/large/ic_launcher.png
+2023-09-02T00:58:28.281Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png
+2023-09-02T00:58:28.288Z START Downloading: https://fahrplan.zeteco.ch/events/58.ics
+2023-09-02T00:58:28.306Z                    END https://fahrplan.zeteco.ch/events/87.ics
+2023-09-02T00:58:28.307Z START Downloading: https://fahrplan.zeteco.ch/events/63.ics
+2023-09-02T00:58:28.311Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/087/large/eLyKseeR.png
+2023-09-02T00:58:28.312Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png
+2023-09-02T00:58:28.322Z                    END https://fahrplan.zeteco.ch/events/88.ics
+2023-09-02T00:58:28.323Z START Downloading: https://fahrplan.zeteco.ch/events/47.ics
+2023-09-02T00:58:28.331Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/088/large/ic_launcher.png
+2023-09-02T00:58:28.332Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png
+2023-09-02T00:58:28.350Z                    END https://fahrplan.zeteco.ch/events/58.ics
+2023-09-02T00:58:28.351Z START Downloading: https://fahrplan.zeteco.ch/events/89.ics
+2023-09-02T00:58:28.371Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/047/large/faultier.png
+2023-09-02T00:58:28.372Z                    END https://fahrplan.zeteco.ch/events/63.ics
+2023-09-02T00:58:28.374Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif
+2023-09-02T00:58:28.375Z START Downloading: https://fahrplan.zeteco.ch/events/75.ics
+2023-09-02T00:58:28.394Z                    END https://fahrplan.zeteco.ch/events/47.ics
+2023-09-02T00:58:28.395Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/063/large/illumos.png
+2023-09-02T00:58:28.396Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/047/large/logo_freifunknet.png
+2023-09-02T00:58:28.396Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG
+2023-09-02T00:58:28.397Z START Downloading: https://fahrplan.zeteco.ch/events/94.ics
+2023-09-02T00:58:28.398Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg
+2023-09-02T00:58:28.412Z                    END https://fahrplan.zeteco.ch/events/89.ics
+2023-09-02T00:58:28.413Z START Downloading: https://fahrplan.zeteco.ch/events/86.ics
+2023-09-02T00:58:28.425Z                    END https://fahrplan.zeteco.ch/events/75.ics
+2023-09-02T00:58:28.427Z START Downloading: https://fahrplan.zeteco.ch/events/68.ics
+2023-09-02T00:58:28.447Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/089/large/bobbing.gif
+2023-09-02T00:58:28.466Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg
+2023-09-02T00:58:28.467Z                    END https://fahrplan.zeteco.ch/events/94.ics
+2023-09-02T00:58:28.468Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg
+2023-09-02T00:58:28.469Z START Downloading: https://fahrplan.zeteco.ch/events/41.ics
+2023-09-02T00:58:28.474Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG
+2023-09-02T00:58:28.477Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png
+2023-09-02T00:58:28.486Z                    END https://fahrplan.zeteco.ch/events/86.ics
+2023-09-02T00:58:28.487Z START Downloading: https://fahrplan.zeteco.ch/events/79.ics
+2023-09-02T00:58:28.498Z START Downloading: https://fahrplan.zeteco.ch/events/46.ics
+2023-09-02T00:58:28.502Z                    END https://fahrplan.zeteco.ch/events/68.ics
+2023-09-02T00:58:28.503Z START Downloading: https://fahrplan.zeteco.ch/events/92.ics
+2023-09-02T00:58:28.538Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/068/large/dreams-of-the-future.jpg
+2023-09-02T00:58:28.538Z                    END https://fahrplan.zeteco.ch/events/41.ics
+2023-09-02T00:58:28.539Z START Downloading: https://fahrplan.zeteco.ch/events/36.ics
+2023-09-02T00:58:28.540Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png
+2023-09-02T00:58:28.541Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/041/large/nightmareMoon.png
+2023-09-02T00:58:28.545Z START Downloading: https://fahrplan.zeteco.ch/events/66.ics
+2023-09-02T00:58:28.560Z                    END https://fahrplan.zeteco.ch/events/46.ics
+2023-09-02T00:58:28.561Z                    END https://fahrplan.zeteco.ch/events/79.ics
+2023-09-02T00:58:28.562Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png
+2023-09-02T00:58:28.562Z START Downloading: https://fahrplan.zeteco.ch/events/49.ics
+2023-09-02T00:58:28.565Z                    END https://fahrplan.zeteco.ch/events/92.ics
+2023-09-02T00:58:28.566Z START Downloading: https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg
+2023-09-02T00:58:28.604Z                    END https://fahrplan.zeteco.ch/events/36.ics
+2023-09-02T00:58:28.606Z START Downloading: https://fahrplan.zeteco.ch/events/81.ics
+2023-09-02T00:58:28.607Z                    END https://fahrplan.zeteco.ch/events/66.ics
+2023-09-02T00:58:28.608Z START Downloading: https://fahrplan.zeteco.ch/events/56.ics
+2023-09-02T00:58:28.610Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/012/large/avatar2012_2000px.png
+2023-09-02T00:58:28.611Z START Downloading: https://fahrplan.zeteco.ch/events/38.ics
+2023-09-02T00:58:28.615Z                    END https://fahrplan.zeteco.ch/events/49.ics
+2023-09-02T00:58:28.616Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/066/large/coreboot.png
+2023-09-02T00:58:28.617Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg
+2023-09-02T00:58:28.618Z START Downloading: https://fahrplan.zeteco.ch/events/85.ics
+2023-09-02T00:58:28.637Z                    END https://fahrplan.zeteco.ch/system/people/avatars/000/000/043/large/426324172_297834.jpg
+2023-09-02T00:58:28.638Z START Downloading: https://fahrplan.zeteco.ch/events/95.ics
+2023-09-02T00:58:28.663Z                    END https://fahrplan.zeteco.ch/events/81.ics
+2023-09-02T00:58:28.664Z START Downloading: https://fahrplan.zeteco.ch/events/96.ics
+2023-09-02T00:58:28.683Z                    END https://fahrplan.zeteco.ch/events/56.ics
+2023-09-02T00:58:28.683Z                    END https://fahrplan.zeteco.ch/events/85.ics
+2023-09-02T00:58:28.684Z                    END https://fahrplan.zeteco.ch/events/38.ics
+2023-09-02T00:58:28.685Z START Downloading: https://fahrplan.zeteco.ch/events/93.ics
+2023-09-02T00:58:28.686Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png
+2023-09-02T00:58:28.686Z START Downloading: https://fahrplan.zeteco.ch/events/83.ics
+2023-09-02T00:58:28.702Z                    END https://fahrplan.zeteco.ch/events/95.ics
+2023-09-02T00:58:28.703Z START Downloading: https://fahrplan.zeteco.ch/events/73.ics
+2023-09-02T00:58:28.706Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/038/large/WelcomeHackers.jpg
+2023-09-02T00:58:28.723Z                    END https://fahrplan.zeteco.ch/events/96.ics
+2023-09-02T00:58:28.724Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png
+2023-09-02T00:58:28.725Z START Downloading: https://fahrplan.zeteco.ch/events/42.ics
+2023-09-02T00:58:28.738Z                    END https://fahrplan.zeteco.ch/events/93.ics
+2023-09-02T00:58:28.739Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif
+2023-09-02T00:58:28.756Z                    END https://fahrplan.zeteco.ch/events/83.ics
+2023-09-02T00:58:28.757Z START Downloading: https://fahrplan.zeteco.ch/events/80.ics
+2023-09-02T00:58:28.758Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/093/large/thumb.png
+2023-09-02T00:58:28.759Z START Downloading: https://fahrplan.zeteco.ch/events/71.ics
+2023-09-02T00:58:28.761Z                    END https://fahrplan.zeteco.ch/events/73.ics
+2023-09-02T00:58:28.762Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg
+2023-09-02T00:58:28.787Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png
+2023-09-02T00:58:28.788Z START Downloading: https://fahrplan.zeteco.ch/events/15.ics
+2023-09-02T00:58:28.805Z                    END https://fahrplan.zeteco.ch/events/42.ics
+2023-09-02T00:58:28.806Z START Downloading: https://fahrplan.zeteco.ch/events/25.ics
+2023-09-02T00:58:28.813Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/042/large/steven.gif
+2023-09-02T00:58:28.827Z                    END https://fahrplan.zeteco.ch/events/80.ics
+2023-09-02T00:58:28.828Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png
+2023-09-02T00:58:28.828Z                    END https://fahrplan.zeteco.ch/events/71.ics
+2023-09-02T00:58:28.829Z START Downloading: https://fahrplan.zeteco.ch/events/2.ics
+2023-09-02T00:58:28.836Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/071/large/mechanische-spiele.jpg
+2023-09-02T00:58:28.837Z START Downloading: https://fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png
+2023-09-02T00:58:28.860Z                    END https://fahrplan.zeteco.ch/events/15.ics
+2023-09-02T00:58:28.878Z                    END https://fahrplan.zeteco.ch/events/25.ics
+2023-09-02T00:58:28.900Z                    END https://fahrplan.zeteco.ch/events/2.ics
+2023-09-02T00:58:28.915Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/025/large/zeteco.png
+2023-09-02T00:58:28.921Z                    END https://fahrplan.zeteco.ch/system/events/logos/000/000/002/large/zeteco.png

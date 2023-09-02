@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Programm ZeTeCo</title>
+<link rel="stylesheet" media="screen" href="/assets/public_schedule-fe5c2995f8fa4b0f51bd82df5c41e84e7e7c12485fe767c4a3cf56ad83b2844e.css">
+<link rel="stylesheet" media="all" href="/style.css">
+<link rel="stylesheet" media="print" href="/assets/public_schedule_print-99d3251f43ed74e6a77a8013f74ce1ee07c4de819a619a15d8b8bb5dc9d4dad1.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="banner"></div>
+<div id="header">
+<h1>Programm ZeTeCo</h1>
+</div>
+<div id="navigation">
+<ul>
+<li>
+<a href="/schedule.html">Übersicht</a>
+</li>
+<li>
+<a href="/schedule/1.html">
+Freitag
+ - 
+<span class="small-font">21.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/2.html">
+Samstag
+ - 
+<span class="small-font">22.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/3.html">
+Sonntag
+ - 
+<span class="small-font">23.07.2017</span>
+</a>
+</li>
+<li>
+<a href="/schedule/4.html">
+Montag
+ - 
+<span class="small-font">24.07.2017</span>
+</a>
+</li>
+<li class="selected">
+<a href="/speakers.html">Referenten</a>
+</li>
+<li>
+<a href="/events.html">Veranstaltungen</a>
+</li>
+<li>
+<a href="/qrcode.html">QR-Code</a>
+</li>
+</ul>
+
+</div>
+<div id="main-content">
+<p class="release">
+Version v2.0
+</p>
+<h2 class="title">Referenten</h2>
+<table class="list">
+<thead>
+<tr>
+<th> </th>
+<th>Name</th>
+<th>Veranstaltungen</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/speakers/56.html"><div class="image small"><img src="/system/people/avatars/000/000/056/small/IMG_3270.jpg" alt="Img 3270"></div></a></td>
+<td><a href="/speakers/56.html">FlipFloater</a></td>
+<td>
+<ul>
+<li><a href="/events/74.html">FlipFloater</a></li>
+<li><a href="/events/75.html">Cirquit Bending Orchestra</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/40.html"><div class="image small"><img src="/system/people/avatars/000/000/040/small/avatar.png" alt="Avatar"></div></a></td>
+<td><a href="/speakers/40.html">L3D</a></td>
+<td>
+<ul>
+<li><a href="/events/47.html">Freifunk Firmware kompilieren</a></li>
+<li><a href="/events/48.html">Backen im Holzofen</a></li>
+<li><a href="/events/89.html">apple bobbing</a></li>
+<li><a href="/events/93.html">Selbsthilfe Gruppe</a></li>
+<li><a href="/events/94.html">It's Pizza Time</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/49.html"><div class="image small"><img src="/system/people/avatars/000/000/049/small/Markus_%281_von_1%29-4.jpg" alt="Markus %281 von 1%29 4"></div></a></td>
+<td><a href="/speakers/49.html">Markus Leutwyler</a></td>
+<td>
+<ul>
+<li><a href="/events/56.html">Let's Build Nodeboats</a></li>
+<li><a href="/events/57.html">Let's Build Nodebots</a></li>
+<li><a href="/events/58.html">Wir bauen uns Kartongleiter</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/32.html"><div class="image small"><img src="/system/people/avatars/000/000/032/small/BrainMachineAvatar3.jpg" alt="Brainmachineavatar3"></div></a></td>
+<td><a href="/speakers/32.html">Mitch</a></td>
+<td>
+<ul>
+<li><a href="/events/19.html">Hacker Space Design Patterns</a></li>
+<li><a href="/events/37.html">Learn to Solder!</a></li>
+<li><a href="/events/38.html">Hacking in China</a></li>
+<li><a href="/events/39.html">Arduino For Total Newbies</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/58.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/58.html">Sam</a></td>
+<td>
+<ul>
+<li><a href="/events/82.html">Der Ton</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/52.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/52.html">Thors</a></td>
+<td>
+<ul>
+<li><a href="/events/60.html">Wax on - wax off I</a></li>
+<li><a href="/events/78.html">Wax on - wax off II</a></li>
+<li><a href="/events/79.html">Wax on - wax off III</a></li>
+<li><a href="/events/80.html">Wax on - wax off IV</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/53.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/53.html">Toasterson</a></td>
+<td>
+<ul>
+<li><a href="/events/63.html">Illumos uns gibt es noch</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/38.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/38.html">Tomasim Pospiisek</a></td>
+<td>
+<ul>
+<li><a href="/events/46.html">Trends im Netzwerk: Software Defined Networks, Linux, programmierbare Chips</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/59.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/59.html">W3rkH0f-Kent</a></td>
+<td>
+<ul>
+<li><a href="/events/85.html">W3rkh0f Licht+Ton</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/54.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/54.html">ari</a></td>
+<td>
+<ul>
+<li><a href="/events/66.html">Coreboot your device</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/46.html"><div class="image small"><img src="/system/people/avatars/000/000/046/small/martin-voegeli.v3.png" alt="Martin voegeli.v3"></div></a></td>
+<td><a href="/speakers/46.html">birdy1976</a></td>
+<td>
+<ul>
+<li><a href="/events/68.html">Dreams of the Future – Learning in Science Fiction Movies</a></li>
+<li><a href="/events/69.html">Summer Mechanic Games (Opening)</a></li>
+<li><a href="/events/70.html">Leute am Camp kennen lernen</a></li>
+<li><a href="/events/71.html">Summer Mechanic Games (Spectacle)</a></li>
+<li><a href="/events/72.html">Freestyle Compo Griesbach «iNi»</a></li>
+<li><a href="/events/73.html">Freestyle Compo Griesbach «eXe»</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/9.html"><div class="image small"><img src="/system/people/avatars/000/000/009/small/tony_jugendhackt.jpg" alt="Tony jugendhackt"></div></a></td>
+<td><a href="/speakers/9.html">bluetonyum</a></td>
+<td>
+<ul>
+<li><a href="/events/61.html">Jugend hackt Meetup</a></li>
+<li><a href="/events/64.html">ZeTeCo Badge</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/43.html"><div class="image small"><img src="/system/people/avatars/000/000/043/small/426324172_297834.jpg" alt="426324172 297834"></div></a></td>
+<td><a href="/speakers/43.html">calvin</a></td>
+<td>
+<ul>
+<li><a href="/events/49.html">Kinderprogramm: Löten &amp; Basteln</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/47.html"><div class="image small"><img src="/system/people/avatars/000/000/047/small/faultier.png" alt="Faultier"></div></a></td>
+<td><a href="/speakers/47.html">codieplusplus</a></td>
+<td>
+<ul>
+<li><a href="/events/87.html">ein "privacy" Elixier fuer Daten</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/50.html"><div class="image small"><img src="/system/people/avatars/000/000/050/small/zetecavatar.jpg" alt="Zetecavatar"></div></a></td>
+<td><a href="/speakers/50.html">draemmli</a></td>
+<td>
+<ul>
+<li><a href="/events/62.html">Intro to OpenJSCAD</a></li>
+<li><a href="/events/96.html">How I survived the Reddit Hug of Death</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/51.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/51.html">glow</a></td>
+<td>
+<ul>
+<li><a href="/events/59.html">Termux als Betriebssystem</a></li>
+<li><a href="/events/81.html">Besseres cli Kontakt Management</a></li>
+<li><a href="/events/88.html">Termux for Beginners</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/17.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/17.html">hackerhasid</a></td>
+<td>
+<ul>
+<li><a href="/events/15.html">Accidental Ménage à trois and more!</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/34.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/34.html">kr0l</a></td>
+<td>
+<ul>
+<li><a href="/events/40.html">Die Werwölfe von Düsterwald</a></li>
+<li><a href="/events/41.html">The art of Little Ponys</a></li>
+<li><a href="/events/42.html">gem-stuff</a></li>
+<li><a href="/events/43.html">Dipper, Mabel und die andere Regenbogenkotze</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/61.html"><div class="image small"><img src="/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png" alt="Person small"></div></a></td>
+<td><a href="/speakers/61.html">proprietäres Essen </a></td>
+<td>
+<ul>
+<li><a href="/events/67.html">Thai Food</a></li>
+<li><a href="/events/90.html">Crêpes</a></li>
+<li><a href="/events/92.html">Thai Food</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/speakers/12.html"><div class="image small"><img src="/system/people/avatars/000/000/012/small/avatar2012_2000px.png" alt="Avatar2012 2000px"></div></a></td>
+<td><a href="/speakers/12.html">signalwerk</a></td>
+<td>
+<ul>
+<li><a href="/events/36.html">Abstraktion im Design – von der Hand zum Code </a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br class="clear">
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T150000
+DTSTAMP;VALUE=DATE-TIME:20170720T183451Z
+UID:9354a78d-e3e6-430c-ad22-4101401d9ecd@frab.ccczh.ch
+DESCRIPTION:I have been to China for a month or more each year since 2003
+  to manufacture TV-B-Gone\, give workshops\, and give talks about hacker
+ spaces\, education\, and economic development. My annual Hacker Trips To
+  China share what China has to offer. In this talk I offer a peak at thi
+ s\, showing resources China may have to offer you.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/38
+SUMMARY:Hacking in China
+ORGANIZER:zeteco
+LOCATION:zeteco - Tribüne #tr
+END:VEVENT
+END:VCALENDAR

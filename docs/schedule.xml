@@ -1,0 +1,1736 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+<version>v2.0</version>
+<conference>
+<acronym>zeteco</acronym>
+<title>ZeTeCo</title>
+<start>2017-07-21</start>
+<end>2017-07-24</end>
+<days>4</days>
+<timeslot_duration>00:15</timeslot_duration>
+</conference>
+<day date='2017-07-21' end='2017-07-22T01:00:00+02:00' index='1' start='2017-07-21T12:00:00+02:00'>
+<room name='Tribüne #tr'>
+<event guid='5cd06be6-1796-4768-83fe-fbde436724bb' id='1'>
+<date>2017-07-21T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-1-opening</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Opening</title>
+<subtitle></subtitle>
+<track>ZeTeCo Orga</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Opening Event</abstract>
+<description></description>
+<logo>/system/events/logos/000/000/001/large/zeteco.png?1495288677</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/000/010/original/zeteco_opening.pdf?1500637432'>Slides</attachment>
+</attachments>
+</event>
+<event guid='b2994685-65d2-43cf-be80-2cedf0bd81b0' id='64'>
+<date>2017-07-21T13:30:00+02:00</date>
+<start>13:30</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-64-zeteco_badge</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>ZeTeCo Badge</title>
+<subtitle>Präsentation Badge</subtitle>
+<track>Vortrag</track>
+<type>podium</type>
+<language>de</language>
+<abstract>Der Badge ist eine Platine, welche man sich um den Hals hängen kann.
+
+Wir haben ein paar Hintergrund-Infos zum Badge.
+- Was ist das Konzept hinter dem Badge
+- Wie wurde er designt
+- Wer hat 100 Säckli abgepackt</abstract>
+<description>Wir haben ein paar Erfahrungen gemacht mit PCB zeichnen, Komponenten abpacken etc. 
+Diese möchen wir niemandem vorenthalten.
+
+Falls du selber einmal einen Bausatz zusammenstellen möchtest, kannst du von uns möglicherweise etwas lernen.
+Oder falls du schon Erfahrung hast, können wir selber etwas lernen.
+
+Des weiteren geht es auch um die Schaltung und um die Software.
+Was sind die Möglichkeiten des Badge.</description>
+<logo>/system/events/logos/000/000/064/large/badge-cfp.png?1498657215</logo>
+<persons>
+<person id='9'>bluetonyum</person>
+</persons>
+<links>
+<link href='http://badge.zeteco.ch'>Badge im Wiki</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='0bbf1764-bd0a-4c11-b22a-13038e9835af' id='19'>
+<date>2017-07-21T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-19-hacker_space_design_patterns</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hacker Space Design Patterns</title>
+<subtitle>wie man einen Space baut</subtitle>
+<track>Vortrag</track>
+<type>podium</type>
+<language>en</language>
+<abstract>User Hackerspace odenwilusenz hat sich entwickelt.
+Seit 2003 haben wir einige Erfahrungen gesammelt.
+</abstract>
+<description>Wir haben die Designpatterns nach Deutsch übersetzt.
+Und wir haben uns in letzter Zeit viele Gedanken dazu gemacht.
+Ich möchte ein paar Anekdoten erzählen.
+Und über die Gründung und den Betrieb von Hackerspaces mit euch sprechen.</description>
+<logo>/system/events/logos/000/000/019/large/LAN_Party.jpg?1493908841</logo>
+<persons>
+<person id='32'>Mitch</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='a404bfd1-b3bf-4076-bf97-688363e6cb8b' id='43'>
+<date>2017-07-21T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>01:00</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-43-dipper_mabel_und_die_andere_regenbogenkotze</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Dipper, Mabel und die andere Regenbogenkotze</title>
+<subtitle>Gravity Falls Public Viewing</subtitle>
+<track>Unterhaltung</track>
+<type>film</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo>/system/events/logos/000/000/043/large/gravityFalls.gif?1497210956</logo>
+<persons>
+<person id='34'>kr0l</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Hackcenter #hc'>
+<event guid='16ef2597-82cc-4234-b6cf-cc04835f278b' id='57'>
+<date>2017-07-21T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>03:00</duration>
+<room>Hackcenter #hc</room>
+<slug>zeteco-57-let_s_build_nodebots</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Let's Build Nodebots</title>
+<subtitle>Javascript powered Robots</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Build your own Javascript powered wireless Robot from scratch in just 3h</abstract>
+<description>Cost for the Kit: 60 Euros (you can take the Robot home with you)
+Minimal Age: 12 and up
+Bring your Laptop (Mac/Linux/Windows)
+Workshop will be held in german and/or english
+Workshop ist auf deutsch und/oder englisch</description>
+<logo></logo>
+<persons>
+<person id='49'>Markus Leutwyler</person>
+</persons>
+<links>
+<link href='www.nodebots.ch'>Nodebots Switzerland</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Elektronik-Ecke (Hackcenter) #ee'>
+<event guid='6e9c7703-13ab-4cc0-8f5a-97bc2aa1ad77' id='37'>
+<date>2017-07-21T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>03:00</duration>
+<room>Elektronik-Ecke (Hackcenter) #ee</room>
+<slug>zeteco-37-learn_to_solder</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Learn to Solder!</title>
+<subtitle>Variety of Cool Kits</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Learn to Solder! A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.</abstract>
+<description>'''What''': A place to get together to solder stuff!&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Learn to Solder!&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;You can easily learn all of the skills you need in a short time.&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Make a project, and take it home with you!&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;If you have your own project (advanced or simple),&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;bring it by, and if you would like help, you can get it!&lt;br&gt;
+'''When''': All day and all night -- Every day of ZeTeCo&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Most projects take about 1.5 to 2 hours&lt;br&gt;
+'''Who''': You! All ages, all skill levels -- It is fun to make things in together&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;''Come join us. Everyone is welcome.''&lt;br&gt;
+'''Cost''': Instruction is free! We ask that people pay only for the cost of&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;the parts used -- kit prices range from €10 to €30.&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color:orange&quot;&gt;''' -- No need to register -- just come on by, any time!'''&lt;/span&gt;&lt;br&gt;
+
+Learn to solder! Mitch Altman will bring kits to make cool, practical, intriguing, hackable things that you can bring home after you make it. Of course, you can also bring your own projects to hack. And if you have anything to fix, bring it by!
+
+Plenty of cool kits are available to make, including:&lt;br&gt;
+* TV-B-Gone (turn off TVs in public places!)&lt;br&gt;
+* Brain Machine (Meditate, Hallucinate, and Trip Out!)&lt;br&gt;
+* Trippy RGB Waves (interactive art blinky lights!)&lt;br&gt;
+* MiniPOV (write your message in the air!)&lt;br&gt;
+* MintyBoost (charge your USB enabled gadgets!)&lt;br&gt;
+* Hello My Name Is... badge (Geeky, blinky version of the sticker!)&lt;br&gt;
+* microcontroller programmers (program all your AVR family chips!)&lt;br&gt;
+* Arduino clones (make just about anything!)&lt;br&gt;
+* ArduTouch Music Synthesizer (make cool noise and music with this Arduino-comaptible kit!)&lt;br&gt;
+* And more!&lt;br&gt;
+
+More info on these projects is available at:&lt;br&gt;
+[http://www.CornfieldElectronics.com Cornfield Electronics] (click on the &quot;projects&quot; tab)&lt;br&gt;
+[http://www.adafruit.com/ Adafruit]&lt;br&gt;
+[http://www.evilmadscientist.com/ Evil Mad Scientist]&lt;br&gt;
+[http://analogmachines.com Analog Machines]&lt;br&gt;
+[http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino Samurai Circuits]&lt;br&gt;
+
+Anyone can learn to solder!  Even if you have never made anything in your life, you can learn this very useful and enjoyable skill. It really is fun!  Mitch has taught tens of thousands of people to solder all around the world, and he can teach you, too!  Add yourself to the ever increasing community!&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+<logo>/system/events/logos/000/000/037/large/HappySolderers.jpg?1496961300</logo>
+<persons>
+<person id='32'>Mitch</person>
+</persons>
+<links>
+<link href='http://cornfieldelectronics.com/cfe/projects.php'>Cornfield Electronics</link>
+<link href='http://www.adafruit.com'>Adafruit</link>
+<link href='http://www.evilmadscientist.com'>Evil Mad Scientist</link>
+<link href='http://analogmachines.com'>Analog Machines</link>
+<link href='http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino'>Samurai Circuits</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Lounge #lo'>
+<event guid='1e13e504-5920-4bf8-9a5e-2aa94746adb6' id='84'>
+<date>2017-07-21T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>03:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-84-couchsofa_-_preview_liveset</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Couchsofa - Preview LiveSet</title>
+<subtitle></subtitle>
+<track>Lounge</track>
+<type>djset</type>
+<language></language>
+<abstract>A preview to an upcoming LiveSet, maybe HOA17, MRMCD, or...</abstract>
+<description></description>
+<logo></logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='741a6002-3834-46ab-9b24-be8a6266234a' id='74'>
+<date>2017-07-21T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>01:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-74-flipfloater</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>FlipFloater</title>
+<subtitle></subtitle>
+<track>Lounge</track>
+<type>concert</type>
+<language></language>
+<abstract>Live Act mit selbstgebauten Synths</abstract>
+<description>FlipFloater erschliesst mit seinem Minimal DIY Electro Set eigene Klangwelten mit kratzigen Lo-Fi Sounds. 
+Seine druckvollen Bässe und breakigen Beats geben ein solides tanzbares Fundament. 
+Auf der Bühne benützt FlipFloater fast ausschliesslich selbst gebaute Klanggeneratoren, Synthesizer und Effektgeräte. 
+</description>
+<logo>/system/events/logos/000/000/074/large/FlipFloater_Live1.JPG?1499013052</logo>
+<persons>
+<person id='56'>FlipFloater</person>
+</persons>
+<links>
+<link href='www.flipfloater.net'>FlipFloater</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Dorfplatz #do'>
+<event guid='b8c09d14-0c61-414a-a915-6277d997dea5' id='72'>
+<date>2017-07-21T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>00:45</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-72-freestyle_compo_griesbach_ini</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Freestyle Compo Griesbach «iNi»</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>meeting</type>
+<language>en</language>
+<abstract>English: Here you‘ll find out more and register your demos…
+
+Deutsch: Hier informieren sich Interessierte und melden ihre Demos an…</abstract>
+<description>English: The demoparty for people with a pleasure for creativity with the computer! At the «iNi» the specifications for the submission are discussed. After that you’ll design your demo and show it at the «eXe»
+
+Because we’ll freestyle, computer performance is the limit; (Non-) real-time demo, something interactive (e.g. a game), graphics, music, photo montage, animation, or even a surprise 🙂
+
+Deutsch: Demoparty für Leute mit Freude an Kreativität mit dem Computer! Beim «iNi» werden Vorgaben (insb. die Abgabe) besprochen. Nachher gestaltest du deine Demo und zeigst sie an der «eXe»
+
+Da wir freestylen, ist die Rechenleistung das Limit, denkbar sind z.B. (Nicht-) Echtzeitdemo, etwas Interaktives (z.B. ein Spiel), Grafik, Musik, Fotomontage, Animation oder auch eine Überraschung 🙂</description>
+<logo>/system/events/logos/000/000/072/large/freestyle-compo-griesbach.png?1500301781</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9648'>Blog-Post</link>
+<link href='https://youtu.be/oLBv_uM56Kw'>Invitation</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='6e9c2e4b-f85a-4458-bd0d-33fe6802f02d' id='69'>
+<date>2017-07-21T15:15:00+02:00</date>
+<start>15:15</start>
+<duration>00:45</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-69-summer_mechanic_games_opening</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Summer Mechanic Games (Opening)</title>
+<subtitle>Mechanische Sommerspiele (Eröffnung)</subtitle>
+<track>Workshop</track>
+<type>meeting</type>
+<language>en</language>
+<abstract>English: Here you‘ll find out more and register your T.E.A.M. 😉
+
+Deutsch: Hier informieren sich Interessierte und melden ihr T.E.A.M. an 😉</abstract>
+<description>English: At these summer games everyone is allowed to join in! At the opening, we‘ll discuss the rules. Afterwards, we‘ll build our machines and finally, they‘ll compete at the spectacle 🙂
+
+There is only one discipline, which will change for the next games. At the first games we‘ll compete throwing stuff. You may get ready, but hard-boiled craftsmen construct their machine after the opening.
+
+Deutsch: Bei diesen Sommerspielen dürfen alle mitmachen! Zur Eröffnung werden Regeln besprochen. Danach geht es an die Arbeit, bis die Maschinen beim Spektakel zum fairen Wettkampf antreten 🙂
+
+Es gibt eine Disziplin, welche bei jeden Spielen ändern. Bei den Ersten wird Weitwurf ausgetragen. Du darfst dich vorbereiten, aber hartgesottene Bastler konstruieren ihre Maschine nach der Eröffnung.</description>
+<logo>/system/events/logos/000/000/069/large/mechanische-spiele.jpg?1498914355</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9640'>Blog-Post</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='077f8935-fa84-4f07-b6e0-d6562bc39b5d' id='48'>
+<date>2017-07-21T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>02:45</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-48-backen_im_holzofen</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Backen im Holzofen</title>
+<subtitle>Backe Dinnele in einem Holzofen</subtitle>
+<track>Essen</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Lust auf gutes Essen? Helf mit beim Pizza machen im Holzofen!</abstract>
+<description>Auf dem Dorfplatz der ZeTeCo hat sich, dank unterstützung des Hackerspace see-base, ein Holzofen eingefunden.
+
+Um also möglichst viele hungrige Nerds mit leckerer Pizza zu versorgen wird eure Hilfe benötigt!
+Mach mit beim Teig machen, Zutaten zurecht schneiden, den Holzofen beheizen, die Pizza machen und hinterher zu spülen und aufzuräumen. Und zu guter Letzt: Die Pizza essen ;-)</description>
+<logo>/system/events/logos/000/000/048/large/DFCT6ERXcAAAezI.jpg_large.jpe?1500485881</logo>
+<persons>
+<person id='40'>L3D</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='d0da5369-23d4-4e4e-b958-6fa02b8b0f11' id='90'>
+<date>2017-07-21T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>02:00</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-90-crepes</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Crêpes</title>
+<subtitle></subtitle>
+<track>Essen</track>
+<type>other</type>
+<language>de</language>
+<abstract>Freitag ab 20:00 Uhr ist ein Crêpes-Stand auf dem Dorfplatz.
+https://www.holy-crepe.ch/
+</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='61'>proprietäres Essen </person>
+</persons>
+<links>
+<link href='https://www.holy-crepe.ch/'>Homepage von Holy Crêpe</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Draussen #dr'>
+<event guid='5288b9dd-4021-4f21-8c06-c2aff48642ba' id='70'>
+<date>2017-07-21T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-70-leute_am_camp_kennen_lernen</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Leute am Camp kennen lernen</title>
+<subtitle>(Treffpunkt: Bar)</subtitle>
+<track>Spiel und Sport</track>
+<type>meeting</type>
+<language>de</language>
+<abstract>Möchtest du Leute am Camp neu oder besser kennen lernen? Dann mach mit bei dieser Kennenlernrunde!</abstract>
+<description>Ich bereite Fragen vor zu deinem ersten Computer oder aktuellen Editor / OS und alle sagen kurz etwas dazu.</description>
+<logo>/system/events/logos/000/000/070/large/schneeflocken-im-sommer.png?1498836443</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9637'>Blog-Beitrag</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='3edb96bc-fade-45d4-8694-08c78a0e5100' id='60'>
+<date>2017-07-21T16:30:00+02:00</date>
+<start>16:30</start>
+<duration>01:30</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-60-wax_on_-_wax_off_i</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wax on - wax off I</title>
+<subtitle>Entry level Aikido self-defense (Treffpunkt: Dojo)</subtitle>
+<track>Spiel und Sport</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Aikido is a purely defensive martial arts. We will do some warm-up and stretching and slowly sneak in techniques.</abstract>
+<description>Aikido is a peaceful Japanese martial arts. The attack is blocked but the attacker is not harmed. It is more based on dirty tricks (joint locks, ...) than on physical superiority (strength, speed). Making it attractive for hackers.
+
+It does _not_ involve kicks to the head or jumping around like crazy, so no extreme fitness is required.
+
+Bring comfy training clothes that can get dirty (it is unlikely they will, but you have been warned). </description>
+<logo></logo>
+<persons>
+<person id='52'>Thors</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='c8bc96ba-95e9-4bac-afac-10850fa591f0' id='40'>
+<date>2017-07-21T23:00:00+02:00</date>
+<start>23:00</start>
+<duration>02:00</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-40-die_werwolfe_von_dusterwald</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Die Werwölfe von Düsterwald</title>
+<subtitle>Spielerunde (Treffpunkt: Dojo)</subtitle>
+<track>Spiel und Sport</track>
+<type>other</type>
+<language>de</language>
+<abstract>Wir spielen gemeinsam Die Werwölfe von Düsterwald.</abstract>
+<description>Das Spiel ist super um neue Leute kennen zu lernen. Es macht am meisten spaß, wenn man mit Menschen spielt die man noch nicht kennt.</description>
+<logo>/system/events/logos/000/000/040/large/images.duckduckgo.com.jpeg?1497209887</logo>
+<persons>
+<person id='34'>kr0l</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Bar #ba'>
+</room>
+<room name='Pool #po'>
+</room>
+<room name='Anderswo #aw'>
+</room>
+</day>
+<day date='2017-07-22' end='2017-07-23T01:00:00+02:00' index='2' start='2017-07-22T10:00:00+02:00'>
+<room name='Tribüne #tr'>
+<event guid='93b0df1c-bd7d-488a-b641-e91128eaf4f0' id='61'>
+<date>2017-07-22T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-61-jugend_hackt_meetup</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Jugend hackt Meetup</title>
+<subtitle></subtitle>
+<track>Vortrag</track>
+<type>podium</type>
+<language>de</language>
+<abstract>Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses.
+
+Wer Lust hat, kann uns - Teile des Orgateams und einige erfahrene MentorInnen - treffen. Wir freuen uns auf spannende Menschen, ihr könnt uns löchern, Fragen zu Mentoring bei Jugend hackt oder für euren eigenen Nachwuchs loswerden und in netter Runde Ideen zur Förderung des Hacker-Nachwuchses weiter entwickeln. </abstract>
+<description></description>
+<logo>/system/events/logos/000/000/061/large/jugendhackt.png?1498499617</logo>
+<persons>
+<person id='9'>bluetonyum</person>
+</persons>
+<links>
+<link href='http://jugendhackt.ch'>Jugend hackt Schweiz</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='6953ca59-16e4-4b23-97dd-64675f6fbe79' id='59'>
+<date>2017-07-22T13:45:00+02:00</date>
+<start>13:45</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-59-termux_als_betriebssystem</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Termux als Betriebssystem</title>
+<subtitle>Das Linux in der Tasche</subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Termux ist ein Android App die sowohl Terminal Emulator und Linux Umgebung. Verbunden an einen Laptop kann es als fast vollständiges CLI Betriebssystem genutzt werden. Auch ohne Laptop hat man aber ein mächtiges Linux in der Tasche. </abstract>
+<description>Termux ist ein Android App die sowohl Terminal Emulator und Linux Umgebung. http://termux.com
+Themen:
+Einführung in Termux
+- Was ist Termux
+- Wo bekomme ich Termux
+- Was kann Termux alles
+- Unterschiede zu &quot;richtigem&quot; Linux
+- Wie kann man Termux als sein Hauptbetriebssystem benutzen
+</description>
+<logo>/system/events/logos/000/000/059/large/ic_launcher.png?1498471929</logo>
+<persons>
+<person id='51'>glow</person>
+</persons>
+<links>
+<link href='http://termux.com'>Termux App</link>
+<link href='https://termux.com/help.html'>Termux Help</link>
+<link href='https://wiki.termux.com'>Termux Wiki</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='c9f313f2-cb86-4601-afb5-ee73a2e7e2eb' id='87'>
+<date>2017-07-22T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>00:45</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-87-ein_privacy_elixier_fuer_daten</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>ein &quot;privacy&quot; Elixier fuer Daten</title>
+<subtitle>Open-source Projekt um Daten langfristig und sicher zu speichern und zu erhalten</subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Dieses Open-source Projekt erarbeitet die Moeglichkeiten und Grenzen um Daten langfristig sicher zu verwalten.</abstract>
+<description>Wir betrachten Kryptographie im Zeitalter der Quantenaufruestung, die Notwendigkeit Daten zum Schluessel zu machen und welche Strategien zur Verfuegung stehen, um Daten laenger am Leben zu erhalten, als deren Speichermedium.
+Ziel des Vortrages ist, eine lebendige Diskussion anzustossen.</description>
+<logo>/system/events/logos/000/000/087/large/eLyKseeR.png?1500244221</logo>
+<persons>
+<person id='47'>codieplusplus</person>
+</persons>
+<links>
+<link href='https://github.com/CodiePP/elykseer-base'>Source code (GPLv3)</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='148ed078-91f2-4436-bc69-6dd10eb1b3b3' id='63'>
+<date>2017-07-22T15:30:00+02:00</date>
+<start>15:30</start>
+<duration>00:45</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-63-illumos_uns_gibt_es_noch</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Illumos uns gibt es noch</title>
+<subtitle>was läuft so im lande von Illumos</subtitle>
+<track>Vortrag</track>
+<type>podium</type>
+<language>de</language>
+<abstract>Was ist das Betriebsystem Illumos wo kommt es her, was kann es im vergleich zu linux und was sind die weiteren pläne.</abstract>
+<description>Nach mehrmaliger nachfrage möchte ich einige generelle informationen zum nachfolge projekt von OpenSolaris Stellen. Und sollten die Demogötter gut gestimmt sein auch eine demo zeigen wie das so aussieht.</description>
+<logo>/system/events/logos/000/000/063/large/illumos.png?1498594375</logo>
+<persons>
+<person id='53'>Toasterson</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='a28f7c9f-e033-4167-928d-38b450b0ff0f' id='68'>
+<date>2017-07-22T20:30:00+02:00</date>
+<start>20:30</start>
+<duration>00:45</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-68-dreams_of_the_future_learning_in_science_fiction_movies</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Dreams of the Future – Learning in Science Fiction Movies</title>
+<subtitle></subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Don't panic! This talk is just for fun... And yes, there will be school violence 😉</abstract>
+<description>Science fiction is a genre of fiction dealing with imaginative content such as futuristic settings, futuristic science and technology, space travel, time travel, parallel universes, and extraterrestrial life. Exploring the consequences of scientific innovations is one purpose of science fiction, making it a &quot;literature of ideas&quot;. Science fiction has been used by authors as a device to discuss philosophical ideas such as identity, desire, morality, and social structure. (Wikipedia)</description>
+<logo>/system/events/logos/000/000/068/large/dreams-of-the-future.jpg?1498903027</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9633'>Blog post</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='b2f57d3a-2616-4e45-ace8-9097fbba9e0d' id='41'>
+<date>2017-07-22T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-41-the_art_of_little_ponys</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>The art of Little Ponys</title>
+<subtitle>Pony Public Viewing</subtitle>
+<track>Unterhaltung</track>
+<type>film</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo>/system/events/logos/000/000/041/large/nightmareMoon.png?1497210237</logo>
+<persons>
+<person id='34'>kr0l</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Hackcenter #hc'>
+<event guid='98067bff-4776-44a2-b84c-f78a94d3db1d' id='62'>
+<date>2017-07-22T12:30:00+02:00</date>
+<start>12:30</start>
+<duration>02:00</duration>
+<room>Hackcenter #hc</room>
+<slug>zeteco-62-intro_to_openjscad</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Intro to OpenJSCAD</title>
+<subtitle>CAD for programmers - Creating 3D objects with JavaScript</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>OpenJSCAD is a script-only 3D CAD software, inspired by the similar OpenSCAD.
+All manipulation of the 3D object is done through code, not through an user interface.
+
+OpenJSCAD is, of course, Free Software and runs directly in the browser: &lt;a href=&quot;https://openjscad.org/&quot;&gt;OpenJSCAD.org&lt;/a&gt;</abstract>
+<description>The workshop will be split in two parts.
+First I'll give a bit of a tutorial where I'll be explaining the basic concepts of OpenJSCAD.
+In the second part, I'll be around to help you while you work on your own ideas.
+
+In preparation for this workshop, I suggest you try to come up with a small project for a 3D object you'd like to build using OpenJSCAD.
+
+Skills required: It helps if you can program, but it's not strictly necessary, I think.</description>
+<logo>/system/events/logos/000/000/062/large/openjscad-logo-bigger.png?1498567153</logo>
+<persons>
+<person id='50'>draemmli</person>
+</persons>
+<links>
+<link href='https://openjscad.org/'>OpenJSCAD.org</link>
+<link href='https://github.com/jscad/OpenJSCAD.org'>GitHub: OpenJSCAD</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/000/009/original/earrings.png?1498567153'>DNA Earrings</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/008/original/turbine.png?1498567153'>Pelton Turbine</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/007/original/wagon.png?1498567153'>Model Train Wagon</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/006/original/democube.png?1498567153'>Cube Demo</attachment>
+</attachments>
+</event>
+<event guid='11b97cb8-c919-49e4-97e4-6600e3fe96f6' id='88'>
+<date>2017-07-22T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>01:30</duration>
+<room>Hackcenter #hc</room>
+<slug>zeteco-88-termux_for_beginners</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Termux for Beginners</title>
+<subtitle>Lerne Termux als richtiges Betriebssystem einzusetzem</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>In diesem Workshop werde ich euch zeigen wie auch Ihr Termux als euer Betriebsystem benutzen könnt. </abstract>
+<description>In diesem Workshop werde ich euch zeigen wie auch Ihr Termux (http://termux.com) als euer Betriebsystem benutzen könnt. 
+
+- SSH Server konfigurieren. Wer will den schon mit dem Touchscreen tippen?
+- Per USB mit ADB verbinden. Über WiFi ist schön und gut, aber an öffentlichen Orten (wie hier) mühsam.
+- Paketmanagement
+- Service Management auf Termux. Hier kein Systemd
+
+
+Mitbringen:
+- Android Gerät. ( Android 5 oder höher)
+- Laptop
+- USB Kabel</description>
+<logo>/system/events/logos/000/000/088/large/ic_launcher.png?1500447989</logo>
+<persons>
+<person id='51'>glow</person>
+</persons>
+<links>
+<link href='https://termux.com/help.html'>Termux Help</link>
+<link href='https://wiki.termux.com'>Termux Wiki</link>
+<link href='https://glow.li/share/Termux_Workshop.html'>Link zum Workshop Dokument</link>
+<link href='http://termux.com'>Termux App</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='30c5a38d-a96d-4cf2-85be-c41f1088430d' id='47'>
+<date>2017-07-22T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Hackcenter #hc</room>
+<slug>zeteco-47-freifunk_firmware_kompilieren</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Freifunk Firmware kompilieren</title>
+<subtitle>Firmware selber kompilieren - kann ich nicht!</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wie kann man eigendlich so eine Freifunk Firmware selber kompilieren? Und warum sollte ich so was überhaupt machen?</abstract>
+<description>Dieser Workshop bietet Gelegenheit mal selber eine Freifunk Firmware zu kompilieren. Vorraussichtlich am Beispiel von Freifunk Bodensee.
+Es soll aber auch raum geschaffen werden sich mehr über die technischen Details von Freifunk auszutauschen, verschiedensete Firmware anderer Communitys anzuschauen oder sich über die unterschiedlichsten Router oder Routing-Protokolle auszutauschen.</description>
+<logo>/system/events/logos/000/000/047/large/logo_freifunknet.png?1497342066</logo>
+<persons>
+<person id='40'>L3D</person>
+</persons>
+<links>
+<link href='https://freifunk.net'>Freifunk</link>
+<link href='https://freifunk-bodensee.net'>Freifunk Bodensee</link>
+<link href='https://github.com/ffbsee/firmware/'>GitHub</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Elektronik-Ecke (Hackcenter) #ee'>
+<event guid='b8cb3d00-43dd-42fe-82d5-9183b270c376' id='39'>
+<date>2017-07-22T13:30:00+02:00</date>
+<start>13:30</start>
+<duration>03:30</duration>
+<room>Elektronik-Ecke (Hackcenter) #ee</room>
+<slug>zeteco-39-arduino_for_total_newbies</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Arduino For Total Newbies</title>
+<subtitle>Anyone Can Learn to Play with Arduino</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt;
+&lt;br&gt;
+You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt;
+</abstract>
+<description>Arduino is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that uber-geeks can use it for their projects as well.
+
+This workshop is easy enough for '''''total newbies''''' to learn all you need to know to get going on an Arduino.
+
+Taught by [http://en.wikipedia.org/wiki/Mitch_Altman Mitch Altman]. Participants will make their own Arduino clone, and set it up on solderless breadboards to make their own TV-B-Gone remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics. Bring your laptop, if you can.
+
+''Big thanks to Ken Shirriff, who came up with the original [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html TV-B-Gone for Arduino].''
+
+== Workshop Itinerary ==
+* Intro to Arduino
+
+* Very short lesson to learn everything you need to know about electronics!
+
+* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.
+
+* Then we will each make our own Arduino clone from a kit made by Samurai Circuits: [http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino U-Do-It-Duino].
+
+* Now that we each have our own Arduino, we will set up the free and open-source software on our laptops (if you bring one) -- Windows, MacOS, or Linux are all fine!
+
+* And then its time to make something and learn how easy it is to use Aruino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your [http://www.samuraicircuits.com/MediaWiki/index.php?title=U-Do-It-Duino U-Do-It-Duino]. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.
+
+* Target practice is available after the workshop.
+
+== Summary ==
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''What''': [http://arduino.cc/ Arduino] workshop for total newbies, using [http://www.tvbgone.com TV-B-Gone] remote controls as an intro&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''When''': TBD&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Who''': Anyone and everyone can have fun learning Arduino. Ages 10 to 100&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Max #''': 10 participants -- &lt;span style=&quot;color:orange&quot;&gt;'''''This workshop will fill up, so please arrive early!'''''&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color:orange&quot;&gt;''' -- No need to register -- just show up early and get a kit to take the workshop'''&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Cost''': Instruction is free!&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;€35 for materials -- includes everything you need to make your [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html Arduino TV-B-Gone]!&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;And you get to bring your [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html Arduino TV-B-Gone] home with you.&lt;br&gt;
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Instructor''':  [http://en.wikipedia.org/wiki/Mitch_Altman Mitch]
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color:orange&quot;&gt;'''You do not need to register in advance to take this workshop -- just show up early and get a kit.''':&lt;/span&gt;&lt;br&gt;
+
+Bring your laptop if you want to go home with the free Arduino software installed on it.&lt;br&gt; Arduino software runs on Windows, MacOS and Linux.
+</description>
+<logo>/system/events/logos/000/000/039/large/LearnToSolder.jpg?1496962932</logo>
+<persons>
+<person id='32'>Mitch</person>
+</persons>
+<links>
+<link href='http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php'>Arduino For Total Newbies</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Lounge #lo'>
+<event guid='eb9373c3-27a3-47fe-92b4-3204838bfa54' id='75'>
+<date>2017-07-22T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-75-cirquit_bending_orchestra</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Cirquit Bending Orchestra</title>
+<subtitle></subtitle>
+<track>Lounge</track>
+<type>concert</type>
+<language>de</language>
+<abstract>Cirquit Bending Orchestra</abstract>
+<description>Meditatives trippiges Ambient Set mit gebendeten Spielzeugen und Effektgeräten</description>
+<logo>/system/events/logos/000/000/075/large/Cirquit_Bending_Orchestra.JPG?1499013920</logo>
+<persons>
+<person id='56'>FlipFloater</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='b9fc7c9e-ae7c-4c48-b2f8-52f9e05660eb' id='86'>
+<date>2017-07-22T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>04:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-86-w3rkh0f_licht_ton_vs_sgmk_allstars_plus_special_guest_feat_music_for_robots_and_plants</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>W3rkh0f Licht + Ton vs SGMK Allstars plus special guest feat. music for robots and plants.</title>
+<subtitle></subtitle>
+<track>Lounge</track>
+<type>concert</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<logo></logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Dorfplatz #do'>
+<event guid='a4f6d690-d4e4-460d-aa43-3955fe8c2f7b' id='67'>
+<date>2017-07-22T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>02:00</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-67-thai_food</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Thai Food</title>
+<subtitle>For people who love thai food</subtitle>
+<track>Essen</track>
+<type>other</type>
+<language>de</language>
+<abstract>Thai food von Chittima</abstract>
+<description>- Thai curry mit Poulet und Reis
+- Frühlingsrollen</description>
+<logo></logo>
+<persons>
+<person id='61'>proprietäres Essen </person>
+</persons>
+<links>
+<link href='http://jarthaicatering.ch/'>Jar's Thai Catering</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='a5e57c84-c23d-4a0d-8bc9-90ffeabb89a7' id='94'>
+<date>2017-07-22T17:30:00+02:00</date>
+<start>17:30</start>
+<duration>02:30</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-94-it_s_pizza_time</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>It's Pizza Time</title>
+<subtitle>Holzofen. Teig. Belag. Schmeckt!</subtitle>
+<track>Essen</track>
+<type>workshop</type>
+<language></language>
+<abstract>Wir machen Pizza. Kommt vorbei. Helft mit. Und bringt hunger mit!</abstract>
+<description></description>
+<logo>/system/events/logos/000/000/094/large/0001_lF3hcFy.jpg.jpg?1500714605</logo>
+<persons>
+<person id='40'>L3D</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Draussen #dr'>
+<event guid='622634b2-689b-4166-9c3a-9b324cd5d3f0' id='78'>
+<date>2017-07-22T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>01:30</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-78-wax_on_-_wax_off_ii</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wax on - wax off II</title>
+<subtitle>Entry level Aikido self-defense (Treffpunkt: Dojo)</subtitle>
+<track>Spiel und Sport</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Aikido is a purely defensive martial arts. We will do some warm-up and stretching and slowly sneak in techniques.</abstract>
+<description>Aikido is a peaceful Japanese martial arts. The attack is blocked but the attacker is not harmed. It is more based on dirty tricks (joint locks, ...) than on physical superiority (strength, speed). Making it attractive for hackers.
+
+It does _not_ involve kicks to the head or jumping around like crazy, so no extreme fitness is required.
+
+Bring comfy training clothes that can get dirty (it is unlikely they will, but you have been warned). </description>
+<logo></logo>
+<persons>
+<person id='52'>Thors</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='aff25222-f6c0-4568-be8a-a6a3a7fea72e' id='58'>
+<date>2017-07-22T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>02:00</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-58-wir_bauen_uns_kartongleiter</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wir bauen uns Kartongleiter</title>
+<subtitle>(Treffpunkt: Dorfplatz)</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Aus Karton und viel Klebeband bauen wir uns Gleiter .. und testen sie sogleich aus :)</abstract>
+<description>Ab 6 Jahren
+Materialkosten: 5.-</description>
+<logo></logo>
+<persons>
+<person id='49'>Markus Leutwyler</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Bar #ba'>
+</room>
+<room name='Pool #po'>
+<event guid='0f466c54-aac3-4942-b4fb-7ffbe11baf22' id='89'>
+<date>2017-07-22T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:30</duration>
+<room>Pool #po</room>
+<slug>zeteco-89-apple_bobbing</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>apple bobbing</title>
+<subtitle>Apfelschnappen - im Pool</subtitle>
+<track>Spiel und Sport</track>
+<type>workshop</type>
+<language></language>
+<abstract>Bei den Ponys haben wir von gehört. Doch nun wird es realität.
+apple bobbing - Apfelschnappen!
+
+Im Pool der ZeTeCo!</abstract>
+<description></description>
+<logo>/system/events/logos/000/000/089/large/bobbing.gif?1500487261</logo>
+<persons>
+<person id='40'>L3D</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Anderswo #aw'>
+</room>
+</day>
+<day date='2017-07-23' end='2017-07-24T01:00:00+02:00' index='3' start='2017-07-23T10:00:00+02:00'>
+<room name='Tribüne #tr'>
+<event guid='aa3b2924-157d-41fc-a48b-d5230919b1ed' id='46'>
+<date>2017-07-23T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-46-trends_im_netzwerk_software_defined_networks_linux_programmierbare_chips</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Trends im Netzwerk: Software Defined Networks, Linux, programmierbare Chips</title>
+<subtitle></subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Drei interessante Themen werden angeschat, welche der Votragende als Trends im Netzwerkbereich emofindet:
+* Linux
+* Software Defined Networks
+* programmierbare Chips</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='38'>Tomasim Pospiisek</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='bad04725-b155-4c85-9a5d-87192c88994a' id='36'>
+<date>2017-07-23T13:45:00+02:00</date>
+<start>13:45</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-36-abstraktion_im_design_von_der_hand_zum_code</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Abstraktion im Design – von der Hand zum Code </title>
+<subtitle>Das Undenkbare gestalten – Einfluss der Technologie </subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Die Gestaltung von Grafik und Typografie hat sich seit der Erfindung des Buchdrucks mitte des 15. Jahrhunderts technologisch sehr stark verändert. Nicht nur der Zeitgeist, sondern auch der Zugang zu immer komplexeren Produktionsmittel hat sich verändert. Gestaltungsprinzipien haben sich derart transformiert, dass ohne dem Werkzeug die Form gar nicht mehr gefunden oder gedacht werden kann. So entsteht aus einer wagen Vorstellung erst durch Programmierung (Code) eine realisierte Gestalt und die Form wird durch den Softwareausbau und nicht durch die Hand geführt.</abstract>
+<description>
+### Beispiele im Vortrag
+* Produktionsmittel: Entwurf eines Fingerings von der 3D-Skizze über Wachsmodelle zum 3D-Print in Silber
+* Holzbuchstaben für den Hochdruck auf einer CNC fräsen (21. Jh. meets 15. Jh.)
+* Farbmischung am Computer oder von Hand (1977 vs. 1997 vs. 2017)
+* Generative Logos (ZeTeCo &amp; Logrinto)</description>
+<logo></logo>
+<persons>
+<person id='12'>signalwerk</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='813805ca-1abe-4f1a-98bd-cf618cd98af6' id='81'>
+<date>2017-07-23T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>00:15</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-81-besseres_cli_kontakt_management</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Besseres cli Kontakt Management</title>
+<subtitle>Because abook sucks</subtitle>
+<track>Vortrag</track>
+<type>lightning_talk</type>
+<language>de</language>
+<abstract>Ich habe ein Kontakt management für CLI entwickelt. Besondere Eigenschaft: Kontaktdetails direkt zu relevanten Progammen pipen. </abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='51'>glow</person>
+</persons>
+<links>
+<link href='https://github.com/neo-oli/contact'>Github URL</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='9354a78d-e3e6-430c-ad22-4101401d9ecd' id='38'>
+<date>2017-07-23T15:00:00+02:00</date>
+<start>15:00</start>
+<duration>01:00</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-38-hacking_in_china</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hacking in China</title>
+<subtitle>What China has to offer</subtitle>
+<track>Vortrag</track>
+<type>podium</type>
+<language>en</language>
+<abstract>I have been to China for a month or more each year since 2003 to manufacture TV-B-Gone, give workshops, and give talks about hackerspaces, education, and economic development. My annual Hacker Trips To China share what China has to offer. In this talk I offer a peak at this, showing resources China may have to offer you.</abstract>
+<description>China is a fascinating place with culture spanning more than 2 millennia.  The information we're presented in the West about this culture is scant an inaccurate.  Over the past 13 years, going to China a month or more each year, I've gained my own perspectives on what China is about and what China has to offer.  It's a lot!  In this talk I will share a brief overview of my experiences -- the good and the bad -- and along the way show how you can benefit from what China has to offer.
+</description>
+<logo>/system/events/logos/000/000/038/large/WelcomeHackers.jpg?1496960802</logo>
+<persons>
+<person id='32'>Mitch</person>
+</persons>
+<links>
+<link href='https://noisebridge.net/wiki/NoisebridgeChinaTrip7'>Hacker Trip To China #7</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='df4bb630-afff-44d6-a075-438a1e1dc99b' id='96'>
+<date>2017-07-23T16:15:00+02:00</date>
+<start>16:15</start>
+<duration>00:15</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-96-how_i_survived_the_reddit_hug_of_death</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>How I survived the Reddit Hug of Death</title>
+<subtitle>Tales of Traffic</subtitle>
+<track>Vortrag</track>
+<type>lightning_talk</type>
+<language>de</language>
+<abstract>What happens when half a million people suddenly visit your website.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='50'>draemmli</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ea814ae0-2066-42e8-9b26-b998dd2c16e2' id='73'>
+<date>2017-07-23T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-73-freestyle_compo_griesbach_exe</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Freestyle Compo Griesbach «eXe»</title>
+<subtitle></subtitle>
+<track>Unterhaltung</track>
+<type>performance</type>
+<language>en</language>
+<abstract>English: Now it's getting serious – may all who enter demos, leave fond memories with the audience!
+
+Deutsch: Jetzt gilt es ernst – mögen möglichst alle Demos guten Anklang beim Publikum finden!</abstract>
+<description>English: The demoparty for people with a pleasure for creativity with the computer! At the «iNi» the specifications for the submission are discussed. After that you’ll design your demo and show it at the «eXe»
+
+Because we’ll freestyle, computer performance is the limit; (Non-) real-time demo, something interactive (e.g. a game), graphics, music, photo montage, animation, or even a surprise 🙂
+
+Deutsch: Demoparty für Leute mit Freude an Kreativität mit dem Computer! Beim «iNi» werden Vorgaben (insb. die Abgabe) besprochen. Nachher gestaltest du deine Demo und zeigst sie an der «eXe»
+
+Da wir freestylen, ist die Rechenleistung das Limit, denkbar sind z.B. (Nicht-) Echtzeitdemo, etwas Interaktives (z.B. ein Spiel), Grafik, Musik, Fotomontage, Animation oder auch eine Überraschung 🙂</description>
+<logo>/system/events/logos/000/000/073/large/freestyle-compo-griesbach.png?1500301792</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9648'>Blog-Post</link>
+<link href='https://youtu.be/oLBv_uM56Kw'>Invitation</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='c6cc2c50-44f0-4a02-a72f-5ec6f654d044' id='42'>
+<date>2017-07-23T21:30:00+02:00</date>
+<start>21:30</start>
+<duration>01:00</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-42-gem-stuff</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>gem-stuff</title>
+<subtitle>Steven Universe Public Viewing</subtitle>
+<track>Unterhaltung</track>
+<type>film</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo>/system/events/logos/000/000/042/large/steven.gif?1497210566</logo>
+<persons>
+<person id='34'>kr0l</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Hackcenter #hc'>
+<event guid='befd816c-6796-4d45-a182-c29bce657e5d' id='66'>
+<date>2017-07-23T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>03:00</duration>
+<room>Hackcenter #hc</room>
+<slug>zeteco-66-coreboot_your_device</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Coreboot your device</title>
+<subtitle></subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language></language>
+<abstract>We will build and flash coreboot for your device. 
+coreboot is an open source firmware (mostly) for x86 and amd64. If you want your device to run only free software, coreboot is your choice, and it already offers to clean your management engine. If you're annoyed by your vendor's firmware taking forever, use coreboot and get your linux kernel after &lt; 500 ms.</abstract>
+<description>Check your x86/amd64 devices for coreboot compatibiliy on the &lt;a href=&quot;https://www.coreboot.org/Supported_Motherboards:&gt;coreboot wiki&lt;/a&gt;. If you have a supported one that you want coreboot for, join us! 
+
+Please &lt;a href=&quot;arizeteco@ccczh.ch&quot;&gt;write me an email&lt;/a&gt; with your device's model , so I can doublecheck wether coreboot is supported and that we have the right tools for flashing. If you bring tools, please tell me which. In many cases we will need to disassemble your device, don't be afraid of this.
+We will build coreboot for your device, either on your or my machine. If you want to build on your machine, make sure you have the dependencies for building the linux kernel. Of course, bringing coreboot already built is another possibility. 
+In a second step, we'll flash your coreboot binary to your board. This should leave you with a working coreboot device.
+
+Flashing your mainboards firmware is always a bit risky. The risk is all yours - I don't provide any warranty. You should definitely have a backup of your data and or your device, if it is one you need.</description>
+<logo>/system/events/logos/000/000/066/large/coreboot.png?1498855770</logo>
+<persons>
+<person id='54'>ari</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Elektronik-Ecke (Hackcenter) #ee'>
+<event guid='e2bef091-0321-45e9-9ebb-9c1bb94933cc' id='49'>
+<date>2017-07-23T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>03:00</duration>
+<room>Elektronik-Ecke (Hackcenter) #ee</room>
+<slug>zeteco-49-kinderprogramm_loten_basteln</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Kinderprogramm: Löten &amp; Basteln</title>
+<subtitle>Löten ist einfach</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Wir wollen mit Kindern zwischen 7-16 Jahren etwas löten. </abstract>
+<description>Kindern zwischen 7-16 Jahren wollen wir gemeinsam kleine Bausätze (z.B. Drawdio, Linienroboter) löten und so die Neugierde am löten und basteln wecken.</description>
+<logo></logo>
+<persons>
+<person id='43'>calvin</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Lounge #lo'>
+<event guid='de255c7a-2205-4c4b-8a13-abb59e029850' id='85'>
+<date>2017-07-23T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>02:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-85-w3rkh0f_licht_ton</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>W3rkh0f Licht+Ton</title>
+<subtitle>vsSGMK allstars feat. musig for Robots and Plants</subtitle>
+<track>Lounge</track>
+<type>concert</type>
+<language>en</language>
+<abstract> electronic jam session for robots and plants. </abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='59'>W3rkH0f-Kent</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='c5be0392-c6cf-4d5b-bd4d-512db259ee32' id='83'>
+<date>2017-07-23T19:00:00+02:00</date>
+<start>19:00</start>
+<duration>03:00</duration>
+<room>Lounge #lo</room>
+<slug>zeteco-83-couchsofa_-_zeteco_liveset</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Couchsofa - ZeTeCo LiveSet</title>
+<subtitle></subtitle>
+<track>Lounge</track>
+<type>djset</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<logo></logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Dorfplatz #do'>
+<event guid='930af670-4994-43c9-b808-cdf51514df58' id='92'>
+<date>2017-07-23T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>02:00</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-92-thai_food</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Thai Food</title>
+<subtitle>For people who love thai food</subtitle>
+<track>Essen</track>
+<type>other</type>
+<language>de</language>
+<abstract>Thai food von Chittima </abstract>
+<description>- Thai curry mit Poulet und Reis
+- Frühlingsrollen</description>
+<logo></logo>
+<persons>
+<person id='61'>proprietäres Essen </person>
+</persons>
+<links>
+<link href='http://jarthaicatering.ch'>Jar's Thai Catering</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='d99ce4e4-c2d4-4c64-91b6-27a1cc236789' id='95'>
+<date>2017-07-23T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>01:00</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-95-sous-vide</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Sous-vide</title>
+<subtitle>Vakuumiertes Fleisch selber mitbringen! (Treffpunkt: Dorfplatz)</subtitle>
+<track>Essen</track>
+<type>other</type>
+<language></language>
+<abstract>Wir stellen unser eigenbau Wasserbad zum sous-vide garen (Vakuumgaren) bereit. Bei dieser Methode wird das Nahrungsmittel mit tiefer Temperatur über längere (ein bis zwei Stunden) Zeit erhitzt (Details siehe &lt;a href=&quot;https://de.wikipedia.org/wiki/Vakuumgaren&quot;&gt;https://de.wikipedia.org/wiki/Vakuumgaren&lt;/a&gt;).
+
+Vakuumiertes Fleisch (z.B. bereits abgepacktes aus dem Supermarkt / Tankstelle) oder andere Nahrungsmittel müssen selber mitgebracht werden.
+
+Kontakt: pharmafirma / DECT 7833
+</abstract>
+<description>Wir stellen unser eigenbau Wasserbad zum sous-vide garen (Vakuumgaren) bereit. Bei dieser Methode wird das Nahrungsmittel mit tiefer Temperatur über längere (ein bis zwei Stunden) Zeit erhitzt (Details siehe &lt;a href=&quot;https://de.wikipedia.org/wiki/Vakuumgaren&quot;&gt;https://de.wikipedia.org/wiki/Vakuumgaren&lt;/a&gt;).
+
+Vakuumiertes Fleisch (z.B. bereits abgepacktes aus dem Supermarkt / Tankstelle) oder andere Nahrungsmittel müssen selber mitgebracht werden.
+
+Kontakt: pharmafirma / DECT 7833
+</description>
+<logo></logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='e7824998-1d10-487f-86be-adee64bdc83a' id='93'>
+<date>2017-07-23T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>01:30</duration>
+<room>Dorfplatz #do</room>
+<slug>zeteco-93-selbsthilfe_gruppe</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Selbsthilfe Gruppe</title>
+<subtitle>Thematik: Pizza</subtitle>
+<track>Essen</track>
+<type>workshop</type>
+<language></language>
+<abstract>Gestern habt ihr gelernt, wie es geht!
+Heute wird es ernst! Wir haben Zutaten. Wir haben einen Ofen. Und Nerds haben Hunger....
+
+Machen wir Pizza?</abstract>
+<description></description>
+<logo>/system/events/logos/000/000/093/large/thumb.png?1500714470</logo>
+<persons>
+<person id='40'>L3D</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Draussen #dr'>
+<event guid='8ff70910-76ac-471e-bc13-a98de3b31e2a' id='79'>
+<date>2017-07-23T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>01:30</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-79-wax_on_-_wax_off_iii</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wax on - wax off III</title>
+<subtitle>Entry level Aikido self-defense (Treffpunkt: Dojo)</subtitle>
+<track>Spiel und Sport</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Aikido is a purely defensive martial arts. We will do some warm-up and stretching and slowly sneak in techniques.</abstract>
+<description>Aikido is a peaceful Japanese martial arts. The attack is blocked but the attacker is not harmed. It is more based on dirty tricks (joint locks, ...) than on physical superiority (strength, speed). Making it attractive for hackers.
+
+It does _not_ involve kicks to the head or jumping around like crazy, so no extreme fitness is required.
+
+Bring comfy training clothes that can get dirty (it is unlikely they will, but you have been warned). </description>
+<logo></logo>
+<persons>
+<person id='52'>Thors</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='bcc8f7d2-0b01-45c4-8414-1a0a244c621a' id='56'>
+<date>2017-07-23T14:30:00+02:00</date>
+<start>14:30</start>
+<duration>03:00</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-56-let_s_build_nodeboats</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Let's Build Nodeboats</title>
+<subtitle>JavaScript powered Boats (Treffpunkt: Dorfplatz)</subtitle>
+<track>Workshop</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>With Wood, PET Bottles, two Motors and some WiFi Microcontrollers, we build JavaScript powered Board (or Submarines ;)
+
+</abstract>
+<description>If possible, bring three 0.5l PET Bottles
+Cost for the Boat Kit: 60 Euros (you can take your boat home with you)
+Minimal Age: 12 and up
+Bring your Laptop (Mac/Linux/Windows)
+Workshop will be held in german and/or english
+Workshop ist auf deutsch und/oder englisch</description>
+<logo></logo>
+<persons>
+<person id='49'>Markus Leutwyler</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Bar #ba'>
+</room>
+<room name='Pool #po'>
+</room>
+<room name='Anderswo #aw'>
+</room>
+</day>
+<day date='2017-07-24' end='2017-07-24T19:00:00+02:00' index='4' start='2017-07-24T10:00:00+02:00'>
+<room name='Tribüne #tr'>
+<event guid='f4c4d586-4b46-447f-8ce9-fe7d36fafd44' id='15'>
+<date>2017-07-24T13:30:00+02:00</date>
+<start>13:30</start>
+<duration>00:45</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-15-accidental_menage_a_trois_and_more</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Accidental Ménage à trois and more!</title>
+<subtitle></subtitle>
+<track>Vortrag</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>the newest technical innovation to the sex trade is teledildonics - internet connected sex toys. with new technology comes new security concerns. i personally have found a number of alarming security vulnerabilities with the most popular devices and i will describe what they are and how i found them.</abstract>
+<description>inspired by the recent wevibe lawsuit i have been tinkering with various internet-connected sex toys. though there are others doing similar research i've found a number of security vulnerabilities that i believe i'm the first to find. i realize there isn't much time but i'm scrambling to put together a talk (which should be done by end of next week) with all the details!
+
+there are many many issues that span from things like simple protocol security issues, to issues arising from integration with their websites, to issues in the mobile apps. the result is an attacker can do things as benign as watching anonymous device movement data in real time to actually taking part in realtime video! basically the industry is a mess and people are buying these things not realizing the security implications! </description>
+<logo></logo>
+<persons>
+<person id='17'>hackerhasid</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='406d9e92-690e-4a35-97cd-49af5fe33764' id='25'>
+<date>2017-07-24T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-25-infrastructure_review</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Infrastructure Review</title>
+<subtitle></subtitle>
+<track>ZeTeCo Orga</track>
+<type>lecture</type>
+<language>de</language>
+<abstract></abstract>
+<description></description>
+<logo>/system/events/logos/000/000/025/large/zeteco.png?1495794183</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='dc8e5b4d-c2e9-4dd0-8f22-ec7c2e4a7f8a' id='2'>
+<date>2017-07-24T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:30</duration>
+<room>Tribüne #tr</room>
+<slug>zeteco-2-closing</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Closing</title>
+<subtitle></subtitle>
+<track>ZeTeCo Orga</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Closing Event</abstract>
+<description></description>
+<logo>/system/events/logos/000/000/002/large/zeteco.png?1495288690</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Hackcenter #hc'>
+</room>
+<room name='Elektronik-Ecke (Hackcenter) #ee'>
+</room>
+<room name='Lounge #lo'>
+</room>
+<room name='Dorfplatz #do'>
+</room>
+<room name='Draussen #dr'>
+<event guid='c436f61e-0378-4063-a6f2-f32fbcbb6bc6' id='80'>
+<date>2017-07-24T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>01:30</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-80-wax_on_-_wax_off_iv</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wax on - wax off IV</title>
+<subtitle>Entry level Aikido self-defense (Treffpunkt: Dojo)</subtitle>
+<track>Spiel und Sport</track>
+<type>workshop</type>
+<language>en</language>
+<abstract>Aikido is a purely defensive martial arts. We will do some warm-up and stretching and slowly sneak in techniques.</abstract>
+<description>Aikido is a peaceful Japanese martial arts. The attack is blocked but the attacker is not harmed. It is more based on dirty tricks (joint locks, ...) than on physical superiority (strength, speed). Making it attractive for hackers.
+
+It does _not_ involve kicks to the head or jumping around like crazy, so no extreme fitness is required.
+
+Bring comfy training clothes that can get dirty (it is unlikely they will, but you have been warned). </description>
+<logo></logo>
+<persons>
+<person id='52'>Thors</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='6c9bfe41-402f-425f-8c96-9acd49a803a5' id='71'>
+<date>2017-07-24T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>01:30</duration>
+<room>Draussen #dr</room>
+<slug>zeteco-71-summer_mechanic_games_spectacle</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Summer Mechanic Games (Spectacle)</title>
+<subtitle>Mechanische Sommerspiele (Spektakel) (Treffpunkt: Tribüne)</subtitle>
+<track>Unterhaltung</track>
+<type>performance</type>
+<language>en</language>
+<abstract>English: Now it's getting serious – may the best machine win!
+
+Deutsch: Jetzt gilt es ernst – möge die beste Maschine gewinnen!</abstract>
+<description>English: At these summer games everyone is allowed to join in! At the opening, we‘ll discuss the rules. Afterwards, we‘ll build our machines and finally, they‘ll compete at the spectacle 🙂
+
+There is only one discipline, which will change for the next games. At the first games we‘ll compete throwing stuff. You may get ready, but hard-boiled craftsmen construct their machine after the opening.
+
+Deutsch: Bei diesen Sommerspielen dürfen alle mitmachen! Zur Eröffnung werden Regeln besprochen. Danach geht es an die Arbeit, bis die Maschinen beim Spektakel zum fairen Wettkampf antreten 🙂
+
+Es gibt eine Disziplin, welche bei jeden Spielen ändern. Bei den Ersten wird Weitwurf ausgetragen. Du darfst dich vorbereiten, aber hartgesottene Bastler konstruieren ihre Maschine nach der Eröffnung.</description>
+<logo>/system/events/logos/000/000/071/large/mechanische-spiele.jpg?1498914698</logo>
+<persons>
+<person id='46'>birdy1976</person>
+</persons>
+<links>
+<link href='https://b76.ch/9640'>Blog-Post</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Bar #ba'>
+</room>
+<room name='Pool #po'>
+</room>
+<room name='Anderswo #aw'>
+</room>
+</day>
+</schedule>

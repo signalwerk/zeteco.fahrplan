@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170723T140000
+DTSTAMP;VALUE=DATE-TIME:20170719T214756Z
+UID:befd816c-6796-4d45-a182-c29bce657e5d@frab.ccczh.ch
+DESCRIPTION:We will build and flash coreboot for your device. \ncoreboot 
+ is an open source firmware (mostly) for x86 and amd64. If you want your 
+ device to run only free software\, coreboot is your choice\, and it alre
+ ady offers to clean your management engine. If you're annoyed by your ve
+ ndor's firmware taking forever\, use coreboot and get your linux kernel 
+ after < 500 ms.
+URL:https://frab.ccczh.ch/de/zeteco/public/events/66
+SUMMARY:Coreboot your device
+ORGANIZER:zeteco
+LOCATION:zeteco - Hackcenter #hc
+END:VEVENT
+END:VCALENDAR
